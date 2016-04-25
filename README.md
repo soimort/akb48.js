@@ -1,1 +1,1 @@
-For Anna Iriyama.
+# akb48.js
