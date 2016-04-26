@@ -88,6 +88,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/takahashi-zyuri',
   },
 
+  /* ま */
+  松岡菜摘
+  : {
+    surname       : {
+      kanji       : '松岡',
+      hiragana    : 'まつおか'
+    },
+    given_name    : {
+      kanji       : '菜摘',
+      hiragana    : 'なつみ'
+    },
+    nickname      : 'なつ',
+    date_of_birth : '1996-08-08',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'H' ],
+
+    gplus         : 'https://plus.google.com/107241677527739013868',
+    nanagogo      : 'https://7gogo.jp/matsuoka-natsumi',
+  },
+
   /* み */
   宮脇咲良
   : {
