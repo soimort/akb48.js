@@ -1,8 +1,31 @@
 
 var AKBG = {
 
+  /* き */
+  木﨑ゆりあ
+  : {
+    surname       : {
+      kanji       : '木﨑',
+      hiragana    : 'きざき'
+    },
+    given_name    : {
+      hiragana    : 'ゆりあ'
+    },
+    nickname      : 'ゆりあ',
+    date_of_birth : '1996-02-11',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'B' ],
+
+    gplus         : 'https://plus.google.com/111001986183198441065',
+    nanagogo      : 'https://7gogo.jp/kizaki-yuria',
+    twitter       : 'https://twitter.com/yuriaaa_peace',
+  },
+
   /* み */
-  宮脇咲良 : {
+  宮脇咲良
+  : {
     surname       : {
       kanji       : '宮脇',
       hiragana    : 'みやわき'
@@ -14,7 +37,7 @@ var AKBG = {
     nickname      : 'さくら',
     date_of_birth : '1998-03-19',
     blood_type    : 'A',
-    from          : '鹿児島',
+    from          : '鹿児島県',
     office        : 'AKS',
     current_teams : [ 'KIV', 'A' ],
 
