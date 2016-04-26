@@ -44,6 +44,28 @@ var AKBG = {
     twitter       : 'https://twitter.com/yuriaaa_peace',
   },
 
+  /* さ */
+  佐々木優佳里
+  : {
+    surname       : {
+      kanji       : '佐々木',
+      hiragana    : 'ささき'
+    },
+    given_name    : {
+      kanji       : '優佳里',
+      hiragana    : 'ゆかり'
+    },
+    nickname      : 'ゆかるん',
+    date_of_birth : '1995-08-28',
+    blood_type    : 'B',
+    from          : '埼玉県',
+    office        : 'AKS',
+    current_teams : [ 'A' ],
+
+    gplus         : 'https://plus.google.com/105835152133357364264',
+    nanagogo      : 'https://7gogo.jp/sasaki-yukari',
+  },
+
   /* た */
   高橋朱里
   : {
