@@ -23,6 +23,28 @@ var AKBG = {
     twitter       : 'https://twitter.com/yuriaaa_peace',
   },
 
+  /* た */
+  高橋朱里
+  : {
+    surname       : {
+      kanji       : '高橋',
+      hiragana    : 'たかはし'
+    },
+    given_name    : {
+      kanji       : '朱里',
+      hiragana    : 'じゅり'
+    },
+    nickname      : 'じゅり',
+    date_of_birth : '1997-10-03',
+    blood_type    : 'A',
+    from          : '茨城県',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    gplus         : 'https://plus.google.com/107910364578005352567',
+    nanagogo      : 'https://7gogo.jp/takahashi-zyuri',
+  },
+
   /* み */
   宮脇咲良
   : {
