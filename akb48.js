@@ -1,6 +1,27 @@
 
 var AKBG = {
 
+  /* い */
+  磯原杏華
+  : {
+    surname       : {
+      kanji       : '磯原',
+      hiragana    : 'いそはら'
+    },
+    given_name    : {
+      kanji       : '杏華',
+      hiragana    : 'きょうか'
+    },
+    nickname      : 'きょん',
+    date_of_birth : '1996-08-08',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'ボックスコーポレーション',
+    current_teams : [],
+
+    twitter       : 'https://twitter.com/isoharakyokaBOX',
+  },
+
   /* き */
   木﨑ゆりあ
   : {
