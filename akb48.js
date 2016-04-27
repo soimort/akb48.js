@@ -22,6 +22,29 @@ var AKBG = {
     twitter       : 'https://twitter.com/isoharakyokaBOX',
   },
 
+  /* か */
+  加藤玲奈
+  : {
+    surname       : {
+      kanji       : '加藤',
+      hiragana    : 'かとう'
+    },
+    given_name    : {
+      kanji       : '玲奈',
+      hiragana    : 'れな'
+    },
+    nickname      : 'れなっち',
+    date_of_birth : '1997-07-10',
+    blood_type    : 'B',
+    from          : '千葉県',
+    office        : 'AKS',
+    current_teams : [ 'B' ],
+
+    gplus         : 'https://plus.google.com/112984877710421269938/posts',
+    nanagogo      : 'https://7gogo.jp/kato-rena',
+    twitter       : 'https://twitter.com/katorena_akb48',
+  },
+
   /* き */
   木﨑ゆりあ
   : {
