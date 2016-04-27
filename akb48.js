@@ -27,6 +27,7 @@ var AKBG = {
   : {
     surname       : {
       kanji       : '木﨑',
+      alias       : '木崎',
       hiragana    : 'きざき'
     },
     given_name    : {
