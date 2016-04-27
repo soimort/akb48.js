@@ -40,7 +40,7 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'B' ],
 
-    gplus         : 'https://plus.google.com/112984877710421269938/posts',
+    gplus         : 'https://plus.google.com/112984877710421269938',
     nanagogo      : 'https://7gogo.jp/kato-rena',
     twitter       : 'https://twitter.com/katorena_akb48',
   },
@@ -110,6 +110,25 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/107910364578005352567',
     nanagogo      : 'https://7gogo.jp/takahashi-zyuri',
+  },
+  谷口めぐ
+    : {
+    surname       : {
+      kanji       : '谷口',
+      hiragana    : 'たにぐち'
+    },
+    given_name    : {
+      hiragana    : 'めぐ'
+    },
+    nickname      : 'おめぐ',
+    date_of_birth : '1998-11-12',
+    blood_type    : 'A',
+    from          : '東京都',
+    office        : 'AKS',
+    current_teams : [ 'A' ],
+
+    gplus         : 'https://plus.google.com/105078910574942856246',
+    nanagogo      : 'https://7gogo.jp/taniguchi-megu',
   },
 
   /* ま */
