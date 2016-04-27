@@ -22,6 +22,28 @@ var AKBG = {
     twitter       : 'https://twitter.com/isoharakyokaBOX',
   },
 
+  /* お */
+  岡田奈々
+  : {
+    surname       : {
+      kanji       : '岡田',
+      hiragana    : 'おかだ'
+    },
+    given_name    : {
+      kanji       : '奈々',
+      hiragana    : 'なな'
+    },
+    nickname      : 'なぁちゃん',
+    date_of_birth : '1997-11-07',
+    blood_type    : 'A',
+    from          : '神奈川県',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    gplus         : 'https://plus.google.com/113163959577431341409',
+    nanagogo      : 'https://7gogo.jp/okada-nana',
+  },
+
   /* か */
   加藤玲奈
   : {
@@ -112,7 +134,7 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/takahashi-zyuri',
   },
   谷口めぐ
-    : {
+  : {
     surname       : {
       kanji       : '谷口',
       hiragana    : 'たにぐち'
