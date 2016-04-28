@@ -175,6 +175,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/taniguchi-megu',
   },
 
+  /* に */
+  西野未姫
+  : {
+    surname       : {
+      kanji       : '西野',
+      hiragana    : 'にしの'
+    },
+    given_name    : {
+      kanji       : '未姫',
+      hiragana    : 'みき'
+    },
+    nickname      : 'みきちゃん',
+    date_of_birth : '1999-04-04',
+    blood_type    : 'O',
+    from          : '静岡県',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    gplus         : 'https://plus.google.com/100175103143355841978',
+    nanagogo      : 'https://7gogo.jp/nishino-miki',
+  },
+
   /* ま */
   松岡菜摘
   : {
