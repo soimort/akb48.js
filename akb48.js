@@ -90,6 +90,28 @@ var AKBG = {
     twitter       : 'https://twitter.com/yuriaaa_peace',
   },
 
+  /* こ */
+  小嶋真子
+  : {
+    surname       : {
+      kanji       : '小嶋',
+      hiragana    : 'こじま'
+    },
+    given_name    : {
+      kanji       : '真子',
+      hiragana    : 'まこ'
+    },
+    nickname      : 'こじまこ',
+    date_of_birth : '1997-05-30',
+    blood_type    : 'O',
+    from          : '東京都',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    gplus         : 'https://plus.google.com/105604609782506015432',
+    nanagogo      : 'https://7gogo.jp/kojima-mako',
+  },
+
   /* さ */
   佐々木優佳里
   : {
