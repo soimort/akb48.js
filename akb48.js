@@ -19,6 +19,7 @@ var AKBG = {
     office        : 'ボックスコーポレーション',
     current_teams : [],
 
+    instagram     : 'https://www.instagram.com/isoharakyoka_box/',
     twitter       : 'https://twitter.com/isoharakyokaBOX',
   },
   井上由莉耶
