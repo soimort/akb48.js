@@ -43,6 +43,26 @@ var AKBG = {
   },
 
   /* お */
+  大和田南那
+  : {
+    surname       : {
+      kanji       : '大和田',
+      hiragana    : 'おおわだ'
+    },
+    given_name    : {
+      kanji       : '南那',
+      hiragana    : 'なな'
+    },
+    nickname      : 'なーにゃ',
+    date_of_birth : '1999-09-15',
+    blood_type    : 'A',
+    from          : '千葉県',
+    office        : 'AKS',
+    current_teams : [ 'A' ],
+
+    gplus         : 'https://plus.google.com/116687308232450361343',
+    nanagogo      : 'https://7gogo.jp/owada-nana',
+  },
   岡田奈々
   : {
     surname       : {
