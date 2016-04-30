@@ -21,6 +21,26 @@ var AKBG = {
 
     twitter       : 'https://twitter.com/isoharakyokaBOX',
   },
+  井上由莉耶
+  : {
+    surname       : {
+      kanji       : '井上',
+      hiragana    : 'いのうえ'
+    },
+    given_name    : {
+      kanji       : '由莉耶',
+      hiragana    : 'ゆりや'
+    },
+    nickname      : 'ゆりや',
+    date_of_birth : '1999-06-15',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'H' ],
+
+    gplus         : 'https://plus.google.com/106166082359574012420',
+    nanagogo      : 'https://7gogo.jp/inoue-yuriya',
+  },
 
   /* お */
   岡田奈々
