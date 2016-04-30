@@ -61,6 +61,29 @@ var AKBG = {
     gplus         : 'https://plus.google.com/101748015513264110691',
     twitter       : 'https://twitter.com/iriyamaanna1203',
   },
+  岩佐美咲
+  : {
+    surname       : {
+      kanji       : '岩佐',
+      hiragana    : 'いわさ'
+    },
+    given_name    : {
+      kanji       : '美咲',
+      hiragana    : 'みさき'
+    },
+    nickname      : 'わさみん',
+    date_of_birth : '1995-01-30',
+    blood_type    : 'O',
+    from          : '千葉県',
+    office        : '長良プロダクション',
+    current_teams : [ 'B' ],
+
+    blog          : 'http://ameblo.jp/misaki-iwasa/',
+    instagram     : 'https://www.instagram.com/wasaminnn/',
+    gplus         : 'https://plus.google.com/114038303885145553998',
+    nanagogo      : 'https://7gogo.jp/iwasa-misaki',
+    twitter       : 'https://twitter.com/wasaminnn',
+  },
   岩田華怜
   : {
     surname       : {
