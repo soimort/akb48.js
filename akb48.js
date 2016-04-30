@@ -61,6 +61,27 @@ var AKBG = {
     gplus         : 'https://plus.google.com/101748015513264110691',
     twitter       : 'https://twitter.com/iriyamaanna1203',
   },
+  岩田華怜
+  : {
+    surname       : {
+      kanji       : '岩田',
+      hiragana    : 'いわた'
+    },
+    given_name    : {
+      kanji       : '華怜',
+      hiragana    : 'かれん'
+    },
+    nickname      : 'カレン',
+    date_of_birth : '1998-05-13',
+    blood_type    : 'A',
+    from          : '宮城県',
+    office        : 'ホリプロ',
+    current_teams : [ 'A' ],
+
+    gplus         : 'https://plus.google.com/104469157599705660710',
+    nanagogo      : 'https://7gogo.jp/iwata-karen',
+    twitter       : 'https://twitter.com/karen0513_',
+  },
 
   /* お */
   大和田南那
