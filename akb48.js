@@ -41,6 +41,26 @@ var AKBG = {
     gplus         : 'https://plus.google.com/106166082359574012420',
     nanagogo      : 'https://7gogo.jp/inoue-yuriya',
   },
+  入山杏奈
+  : {
+    surname       : {
+      kanji       : '入山',
+      hiragana    : 'いりやま'
+    },
+    given_name    : {
+      kanji       : '杏奈',
+      hiragana    : 'あんな'
+    },
+    nickname      : 'あんにん',
+    date_of_birth : '1995-12-03',
+    blood_type    : 'B',
+    from          : '千葉県',
+    office        : '太田プロダクション',
+    current_teams : [ 'A' ],
+
+    gplus         : 'https://plus.google.com/101748015513264110691',
+    twitter       : 'https://twitter.com/iriyamaanna1203',
+  },
 
   /* お */
   大和田南那
