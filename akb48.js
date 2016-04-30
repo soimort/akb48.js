@@ -281,6 +281,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/miyawaki-sakura',
   },
 
+  /* む */
+  向井地美音
+  : {
+    surname       : {
+      kanji       : '向井地',
+      hiragana    : 'むかいち'
+    },
+    given_name    : {
+      kanji       : '美音',
+      hiragana    : 'みおん'
+    },
+    nickname      : 'みーおん',
+    date_of_birth : '1998-01-29',
+    blood_type    : 'O',
+    from          : '埼玉県',
+    office        : 'AKS',
+    current_teams : [ 'K' ],
+
+    gplus         : 'https://plus.google.com/104815465208323574550',
+    nanagogo      : 'https://7gogo.jp/mukaichi-mion',
+  },
+
 }
 
 // export if using as a Node module
