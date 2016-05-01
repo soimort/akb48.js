@@ -368,6 +368,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/mukaichi-mion',
   },
 
+  /* や */
+  山田麻莉奈
+  : {
+    surname       : {
+      kanji       : '山田',
+      hiragana    : 'やまだ'
+    },
+    given_name    : {
+      kanji       : '麻莉奈',
+      hiragana    : 'まりな'
+    },
+    nickname      : 'まりり',
+    date_of_birth : '1995-03-24',
+    blood_type    : 'B',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'H' ],
+
+    gplus         : 'https://plus.google.com/104003652269738791415',
+    nanagogo      : 'https://7gogo.jp/yamada-marina',
+  },
+
 }
 
 // export if using as a Node module
