@@ -108,6 +108,27 @@ var AKBG = {
   },
 
   /* お */
+  太田夢莉
+  : {
+    surname       : {
+      kanji       : '太田',
+      hiragana    : 'おおた'
+    },
+    given_name    : {
+      kanji       : '夢莉',
+      hiragana    : 'ゆうり'
+    },
+    nickname      : 'ゆーり',
+    date_of_birth : '1999-12-01',
+    blood_type    : 'AB',
+    from          : '奈良県',
+    office        : 'KYORAKU吉本.ホールディングス',
+    current_teams : [ 'N' ],
+
+    gplus         : 'https://plus.google.com/111136800343581363734',
+    nanagogo      : 'https://7gogo.jp/oota-yuuri',
+    twitter       : 'https://twitter.com/yuuriso_1201',
+  },
   大和田南那
   : {
     surname       : {
