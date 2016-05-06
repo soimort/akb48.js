@@ -300,6 +300,27 @@ var AKBG = {
     gplus         : 'https://plus.google.com/105835152133357364264',
     nanagogo      : 'https://7gogo.jp/sasaki-yukari',
   },
+  指原莉乃
+  : {
+    surname       : {
+      kanji       : '指原',
+      hiragana    : 'さしはら'
+    },
+    given_name    : {
+      kanji       : '莉乃',
+      hiragana    : 'りの'
+    },
+    nickname      : 'さっしー',
+    date_of_birth : '1992-11-21',
+    blood_type    : 'O',
+    from          : '大分県',
+    office        : '太田プロダクション',
+    current_teams : [ 'H' ],
+
+    gplus         : 'https://plus.google.com/104375100134443203420',
+    nanagogo      : 'https://7gogo.jp/sashihara-rino',
+    twitter       : 'https://twitter.com/345__chan',
+  },
 
   /* た */
   高橋朱里
