@@ -217,6 +217,26 @@ var AKBG = {
   },
 
   /* こ */
+  神志那結衣
+  : {
+    surname       : {
+      kanji       : '神志那',
+      hiragana    : 'こうじな'
+    },
+    given_name    : {
+      kanji       : '結衣',
+      hiragana    : 'ゆい'
+    },
+    nickname      : 'じーな',
+    date_of_birth : '1998-01-24',
+    blood_type    : 'AB',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'H' ],
+
+    gplus         : 'https://plus.google.com/108854773205091274205',
+    nanagogo      : 'https://7gogo.jp/kojina-yui',
+  },
   小嶋真子
   : {
     surname       : {
