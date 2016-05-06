@@ -108,6 +108,27 @@ var AKBG = {
   },
 
   /* お */
+  大島涼花
+  : {
+    surname       : {
+      kanji       : '大島',
+      hiragana    : 'おおしま'
+    },
+    given_name    : {
+      kanji       : '涼花',
+      hiragana    : 'りょうか'
+    },
+    nickname      : 'りょーちゃん',
+    date_of_birth : '1998-10-21',
+    blood_type    : 'O',
+    from          : '神奈川県',
+    office        : 'AKS',
+    current_teams : [ 'B' ],
+
+    gplus         : 'https://plus.google.com/113093719902034350018',
+    nanagogo      : 'https://7gogo.jp/ooshima-ryoka',
+    twitter       : 'https://twitter.com/oshimaryoka_48',
+  },
   太田夢莉
   : {
     surname       : {
