@@ -80,8 +80,8 @@ var AKBG = {
     current_teams : [ 'B' ],
 
     blog          : 'http://ameblo.jp/misaki-iwasa/',
-    instagram     : 'https://www.instagram.com/wasaminnn/',
     gplus         : 'https://plus.google.com/114038303885145553998',
+    instagram     : 'https://www.instagram.com/wasaminnn/',
     nanagogo      : 'https://7gogo.jp/iwasa-misaki',
     twitter       : 'https://twitter.com/wasaminnn',
   },
@@ -147,6 +147,7 @@ var AKBG = {
     current_teams : [ 'N' ],
 
     gplus         : 'https://plus.google.com/111136800343581363734',
+    instagram     : 'https://www.instagram.com/yuuristagram12/',
     nanagogo      : 'https://7gogo.jp/oota-yuuri',
     twitter       : 'https://twitter.com/yuuriso_1201',
   },
@@ -360,6 +361,7 @@ var AKBG = {
     current_teams : [ 'A' ],
 
     gplus         : 'https://plus.google.com/105078910574942856246',
+    instagram     : 'https://www.instagram.com/o_megu1112/',
     nanagogo      : 'https://7gogo.jp/taniguchi-megu',
   },
 
