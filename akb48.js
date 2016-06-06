@@ -169,6 +169,7 @@ var AKBG = {
     current_teams : [ 'A' ],
 
     gplus         : 'https://plus.google.com/116687308232450361343',
+    instagram     : 'https://www.instagram.com/nanaowada_official/',
     nanagogo      : 'https://7gogo.jp/owada-nana',
   },
   岡田奈々
