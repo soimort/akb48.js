@@ -453,6 +453,25 @@ var AKBG = {
     gplus         : 'https://plus.google.com/104815465208323574550',
     nanagogo      : 'https://7gogo.jp/mukaichi-mion',
   },
+  村山彩希
+  : {
+    surname       : {
+      kanji       : '村山',
+      hiragana    : 'むらやま'
+    },
+    given_name    : {
+      kanji       : '彩希',
+      hiragana    : 'ゆいり'
+    },
+    nickname      : 'ゆいりー',
+    date_of_birth : '1997-06-15',
+    blood_type    : 'O',
+    from          : '神奈川県',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    gplus         : 'https://plus.google.com/112423184237495121448',
+  },
 
   /* や */
   山田麻莉奈
