@@ -215,6 +215,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kato-rena',
     twitter       : 'https://twitter.com/katorena_akb48',
   },
+  川本紗矢
+  : {
+    surname       : {
+      kanji       : '川本',
+      hiragana    : 'かわもと'
+    },
+    given_name    : {
+      kanji       : '紗矢',
+      hiragana    : 'さや'
+    },
+    nickname      : 'さやや',
+    date_of_birth : '1998-08-31',
+    blood_type    : 'B',
+    from          : '北海道',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    gplus         : 'https://plus.google.com/105868959172319352511',
+    nanagogo      : 'https://7gogo.jp/kawamoto-saya',
+  },
 
   /* き */
   木﨑ゆりあ
