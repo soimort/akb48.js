@@ -364,6 +364,7 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/107910364578005352567',
     nanagogo      : 'https://7gogo.jp/takahashi-zyuri',
+    twitter       : 'https://twitter.com/juri_t_official',
   },
   谷口めぐ
   : {
