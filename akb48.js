@@ -366,6 +366,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/takahashi-zyuri',
     twitter       : 'https://twitter.com/juri_t_official',
   },
+  谷川愛梨
+  : {
+    surname       : {
+      kanji       : '谷川',
+      hiragana    : 'たにがわ'
+    },
+    given_name    : {
+      kanji       : '愛梨',
+      hiragana    : 'あいり'
+    },
+    nickname      : 'あいり',
+    date_of_birth : '1995-12-05',
+    blood_type    : 'O',
+    from          : '大阪府',
+    office        : 'KYORAKU吉本.ホールディングス',
+    current_teams : [ 'M' ],
+
+    gplus         : 'https://plus.google.com/100515188323145163173',
+    nanagogo      : 'https://7gogo.jp/tanigawa-airi',
+    twitter       : 'https://twitter.com/_airi_tanigawa',
+  },
   谷口めぐ
   : {
     surname       : {
