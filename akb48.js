@@ -430,6 +430,29 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/nishino-miki',
   },
 
+  /* は */
+  林萌々香
+  : {
+    surname       : {
+      kanji       : '林',
+      hiragana    : 'はやし'
+    },
+    given_name    : {
+      kanji       : '萌々香',
+      hiragana    : 'ももか'
+    },
+    nickname      : 'モカ',
+    date_of_birth : '1998-09-11',
+    blood_type    : 'O',
+    from          : '京都府',
+    office        : 'KYORAKU吉本.ホールディングス',
+    current_teams : [ 'BII' ],
+
+    gplus         : 'https://plus.google.com/105975378768005691666',
+    instagram     : 'https://www.instagram.com/momoka_hayashi/',
+    twitter       : 'https://twitter.com/moka9_11',
+  },
+
   /* ま */
   松岡菜摘
   : {
