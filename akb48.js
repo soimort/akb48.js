@@ -300,6 +300,27 @@ var AKBG = {
     gplus         : 'https://plus.google.com/105604609782506015432',
     nanagogo      : 'https://7gogo.jp/kojima-mako',
   },
+  込山榛香
+  : {
+    surname       : {
+      kanji       : '込山',
+      hiragana    : 'こみやま'
+    },
+    given_name    : {
+      kanji       : '榛香',
+      hiragana    : 'はるか'
+    },
+    nickname      : 'こみはる',
+    date_of_birth : '1998-09-12',
+    blood_type    : 'B',
+    from          : '千葉県',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    gplus         : 'https://plus.google.com/113695134887071992188',
+    instagram     : 'https://www.instagram.com/komiharu_official/',
+    nanagogo      : 'https://7gogo.jp/komiyama-haruka',
+  },
 
   /* さ */
   佐々木優佳里
