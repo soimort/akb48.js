@@ -475,6 +475,27 @@ var AKBG = {
   },
 
   /* ま */
+  松井玲奈
+  : {
+    surname       : {
+      kanji       : '松井',
+      hiragana    : 'まつい'
+    },
+    given_name    : {
+      kanji       : '玲奈',
+      hiragana    : 'れな'
+    },
+    nickname      : 'れな',
+    date_of_birth : '1991-07-27',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'Grick',
+    current_teams : [],
+
+    gplus         : 'https://plus.google.com/108536765591006886419',
+    instagram     : 'https://www.instagram.com/renamatui27/',
+    twitter       : 'https://twitter.com/renampme',
+  },
   松岡菜摘
   : {
     surname       : {
