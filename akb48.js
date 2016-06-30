@@ -560,6 +560,27 @@ var AKBG = {
     gplus         : 'https://plus.google.com/104815465208323574550',
     nanagogo      : 'https://7gogo.jp/mukaichi-mion',
   },
+  武藤十夢
+  : {
+    surname       : {
+      kanji       : '武藤',
+      hiragana    : 'むとう'
+    },
+    given_name    : {
+      kanji       : '十夢',
+      hiragana    : 'とむ'
+    },
+    nickname      : 'とむ',
+    date_of_birth : '1994-11-25',
+    blood_type    : 'B',
+    from          : '東京都',
+    office        : 'AKS',
+    current_teams : [ 'K' ],
+
+    gplus         : 'https://plus.google.com/100987694249056428673',
+    nanagogo      : 'https://7gogo.jp/mutou-tomu',
+    twitter       : 'https://twitter.com/tommuto1125',
+  },
   村山彩希
   : {
     surname       : {
