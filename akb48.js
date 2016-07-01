@@ -625,6 +625,28 @@ var AKBG = {
   },
 
   /* や */
+  矢倉楓子
+  : {
+    surname       : {
+      kanji       : '矢倉',
+      hiragana    : 'やぐら'
+    },
+    given_name    : {
+      kanji       : '楓子',
+      hiragana    : 'ふうこ'
+    },
+    nickname      : 'ふぅちゃん',
+    date_of_birth : '1997-02-24',
+    blood_type    : 'A',
+    from          : '大阪府',
+    office        : 'KYORAKU吉本.ホールディングス',
+    current_teams : [ 'M' ],
+
+    gplus         : 'https://plus.google.com/110515811233847190239',
+    instagram     : 'https://www.instagram.com/fufu_ice/',
+    nanagogo      : 'https://7gogo.jp/yagura-fuuko',
+    twitter       : 'https://twitter.com/ICECREAMFUKO',
+  },
   山田麻莉奈
   : {
     surname       : {
