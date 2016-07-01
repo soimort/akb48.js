@@ -452,6 +452,30 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/taniguchi-megu',
   },
 
+  /* な */
+  内木志
+  : {
+    surname       : {
+      kanji       : '内木',
+      hiragana    : 'ないき'
+    },
+    given_name    : {
+      kanji       : '志',
+      hiragana    : 'こころ'
+    },
+    nickname      : 'ここちゃん',
+    date_of_birth : '1997-04-06',
+    blood_type    : 'A',
+    from          : '滋賀県',
+    office        : 'KYORAKU吉本.ホールディングス',
+    current_teams : [ 'BII' ],
+
+    gplus         : 'https://plus.google.com/100780361722535898162',
+    instagram     : 'https://www.instagram.com/cocoro_naiki/',
+    nanagogo      : 'https://7gogo.jp/naiki-kokoro',
+    twitter       : 'https://twitter.com/naiki_cocoro',
+  },
+
   /* に */
   西野未姫
   : {
