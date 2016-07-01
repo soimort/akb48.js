@@ -1,6 +1,29 @@
 
 var AKBG = {
 
+  /* あ */
+  阿部マリア
+  : {
+    surname       : {
+      kanji       : '阿部',
+      hiragana    : 'あべ'
+    },
+    given_name    : {
+      katakana    : 'マリア',
+      hiragana    : 'まりあ'
+    },
+    nickname      : 'マリア',
+    date_of_birth : '1995-11-29',
+    blood_type    : 'B',
+    from          : '神奈川県',
+    office        : 'ジャパン・ミュージックエンターテインメント',
+    current_teams : [ 'K' ],
+
+    blog          : 'http://ameblo.jp/abemaria-1129/',
+    gplus         : 'https://plus.google.com/100694627368957691223',
+    instagram     : 'https://www.instagram.com/_abedesu/',
+  },
+
   /* い */
   磯原杏華
   : {
