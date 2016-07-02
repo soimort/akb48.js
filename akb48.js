@@ -521,6 +521,29 @@ var AKBG = {
     twitter       : 'https://twitter.com/moka9_11',
   },
 
+  /* ふ */
+  二村春香
+  : {
+    surname       : {
+      kanji       : '二村',
+      hiragana    : 'ふたむら'
+    },
+    given_name    : {
+      kanji       : '春香',
+      hiragana    : 'はるか'
+    },
+    nickname      : 'はるたむ',
+    date_of_birth : '1996-05-14',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'S' ],
+
+    gplus         : 'https://plus.google.com/107238963481347254445',
+    nanagogo      : 'https://7gogo.jp/futamura-haruka',
+    twitter       : 'https://twitter.com/harutamchan',
+  },
+
   /* ま */
   松井玲奈
   : {
