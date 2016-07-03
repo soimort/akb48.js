@@ -545,6 +545,27 @@ var AKBG = {
   },
 
   /* ま */
+  松井珠理奈
+  : {
+    surname       : {
+      kanji       : '松井',
+      hiragana    : 'まつい'
+    },
+    given_name    : {
+      kanji       : '珠理奈',
+      hiragana    : 'じゅりな'
+    },
+    nickname      : 'じゅりな',
+    date_of_birth : '1997-03-08',
+    blood_type    : 'B',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'S' ],
+
+    gplus         : 'https://plus.google.com/102372344957102189329',
+    nanagogo      : 'https://7gogo.jp/matsui-jurina',
+    twitter       : 'https://twitter.com/JURINA38G',
+  },
   松井玲奈
   : {
     surname       : {
