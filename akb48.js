@@ -672,6 +672,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/mutou-tomu',
     twitter       : 'https://twitter.com/tommuto1125',
   },
+  村瀬紗英
+  : {
+    surname       : {
+      kanji       : '村瀬',
+      hiragana    : 'むらせ'
+    },
+    given_name    : {
+      kanji       : '紗英',
+      hiragana    : 'さえ'
+    },
+    nickname      : 'さえぴぃ',
+    date_of_birth : '1997-03-30',
+    blood_type    : 'A',
+    from          : '大阪府',
+    office        : 'KYORAKU吉本.ホールディングス',
+    current_teams : [ 'M' ],
+
+    gplus         : 'https://plus.google.com/114433951972746099923',
+    instagram     : 'https://www.instagram.com/saepiiii.m/',
+    nanagogo      : 'https://7gogo.jp/murase-sae',
+    twitter       : 'https://twitter.com/murasesae_0330',
+  },
   村山彩希
   : {
     surname       : {
