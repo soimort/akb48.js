@@ -194,6 +194,7 @@ var AKBG = {
     gplus         : 'https://plus.google.com/116687308232450361343',
     instagram     : 'https://www.instagram.com/nanaowada_official/',
     nanagogo      : 'https://7gogo.jp/owada-nana',
+    twitter       : 'https://twitter.com/Nana_Owada728',
   },
   岡田奈々
   : {
@@ -257,6 +258,7 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/105868959172319352511',
     nanagogo      : 'https://7gogo.jp/kawamoto-saya',
+    twitter       : 'https://twitter.com/sayaya_0388',
   },
 
   /* き */
@@ -322,6 +324,7 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/105604609782506015432',
     nanagogo      : 'https://7gogo.jp/kojima-mako',
+    twitter       : 'https://twitter.com/mak0_k0jima',
   },
   込山榛香
   : {
@@ -450,6 +453,7 @@ var AKBG = {
     gplus         : 'https://plus.google.com/105078910574942856246',
     instagram     : 'https://www.instagram.com/o_megu1112/',
     nanagogo      : 'https://7gogo.jp/taniguchi-megu',
+    twitter       : 'https://twitter.com/o_megu1112',
   },
 
   /* な */
@@ -496,6 +500,7 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/100175103143355841978',
     nanagogo      : 'https://7gogo.jp/nishino-miki',
+    twitter       : 'https://twitter.com/mikinishino4',
   },
 
   /* は */
