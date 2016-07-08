@@ -25,6 +25,27 @@ var AKBG = {
   },
 
   /* い */
+  飯野雅
+  : {
+    surname       : {
+      kanji       : '飯野',
+      hiragana    : 'いいの'
+    },
+    given_name    : {
+      kanji       : '雅',
+      hiragana    : 'みやび'
+    },
+    nickname      : 'みやび',
+    date_of_birth : '1997-09-29',
+    blood_type    : 'B',
+    from          : '東京都',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    gplus         : 'https://plus.google.com/103444419310947145740',
+    nanagogo      : 'https://7gogo.jp/iino-miyabi',
+    twitter       : 'https://twitter.com/miyabi_ichigo15',
+  },
   磯原杏華
   : {
     surname       : {
