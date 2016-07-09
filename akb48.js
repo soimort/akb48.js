@@ -257,6 +257,7 @@ var AKBG = {
     current_teams : [ 'B' ],
 
     gplus         : 'https://plus.google.com/112984877710421269938',
+    instagram     : 'https://www.instagram.com/katorena_official/',
     nanagogo      : 'https://7gogo.jp/kato-rena',
     twitter       : 'https://twitter.com/katorena_akb48',
   },
@@ -301,6 +302,7 @@ var AKBG = {
     current_teams : [ 'B' ],
 
     gplus         : 'https://plus.google.com/111001986183198441065',
+    instagram     : 'https://www.instagram.com/yuria_kizaki211/',
     nanagogo      : 'https://7gogo.jp/kizaki-yuria',
     twitter       : 'https://twitter.com/yuriaaa_peace',
   },
