@@ -786,6 +786,29 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yamada-marina',
   },
 
+  /* わ */
+  渡辺麻友
+  : {
+    surname       : {
+      kanji       : '渡辺',
+      hiragana    : 'わたなべ'
+    },
+    given_name    : {
+      kanji       : '麻友',
+      hiragana    : 'まゆ'
+    },
+    nickname      : 'まゆゆ',
+    date_of_birth : '1994-03-26',
+    blood_type    : 'AB',
+    from          : '埼玉県',
+    office        : 'プロダクション尾木',
+    current_teams : [ 'B' ],
+
+    gplus         : 'https://plus.google.com/111886243683596094429',
+    nanagogo      : 'https://7gogo.jp/watanabe-mayu',
+    twitter       : 'https://twitter.com/karaage_mayu',
+  },
+
 }
 
 // export if using as a Node module
