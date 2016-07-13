@@ -46,6 +46,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/iino-miyabi',
     twitter       : 'https://twitter.com/miyabi_ichigo15',
   },
+  石塚朱莉
+  : {
+    surname       : {
+      kanji       : '石塚',
+      hiragana    : 'いしづか'
+    },
+    given_name    : {
+      kanji       : '朱莉',
+      hiragana    : 'あかり'
+    },
+    nickname      : 'あんちゅ',
+    date_of_birth : '1997-07-11',
+    blood_type    : 'A',
+    from          : '千葉県',
+    office        : 'KYORAKU吉本.ホールディングス',
+    current_teams : [ 'M' ],
+
+    gplus         : 'https://plus.google.com/117555569787343101894',
+    nanagogo      : 'https://7gogo.jp/ishizuka-akari',
+    twitter       : 'https://twitter.com/akari_0711',
+  },
   磯原杏華
   : {
     surname       : {
