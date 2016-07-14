@@ -435,6 +435,28 @@ var AKBG = {
     twitter       : 'https://twitter.com/345__chan',
   },
 
+  /* し */
+  島崎遥香
+  : {
+    surname       : {
+      kanji       : '島崎',
+      hiragana    : 'しまざき'
+    },
+    given_name    : {
+      kanji       : '遥香',
+      hiragana    : 'はるか'
+    },
+    nickname      : 'ぱるる',
+    date_of_birth : '1994-03-30',
+    blood_type    : 'A',
+    from          : '埼玉県',
+    office        : 'ビッグアップル',
+    current_teams : [ 'A' ],
+
+    instagram     : 'https://www.instagram.com/harukashimazaki_official/',
+    twitter       : 'https://twitter.com/paruruchan0330',
+  },
+
   /* た */
   高橋朱里
   : {
