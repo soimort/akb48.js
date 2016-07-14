@@ -592,6 +592,30 @@ var AKBG = {
     twitter       : 'https://twitter.com/moka9_11',
   },
 
+  /* ひ */
+  平田梨奈
+  : {
+    surname       : {
+      kanji       : '平田',
+      hiragana    : 'ひらた'
+    },
+    given_name    : {
+      kanji       : '梨奈',
+      hiragana    : 'りな'
+    },
+    nickname      : 'ひらりー',
+    date_of_birth : '1998-07-16',
+    blood_type    : 'O',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'A' ],
+
+    gplus         : 'https://plus.google.com/+平田梨奈',
+    instagram     : 'https://www.instagram.com/hirari_official/',
+    nanagogo      : 'https://7gogo.jp/hirata-rina',
+    twitter       : 'https://twitter.com/hirari_official',
+  },
+
   /* ふ */
   藤江れいな
   : {
