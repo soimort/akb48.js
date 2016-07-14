@@ -571,6 +571,27 @@ var AKBG = {
   },
 
   /* ふ */
+  藤江れいな
+  : {
+    surname       : {
+      kanji       : '藤江',
+      hiragana    : 'ふじえ'
+    },
+    given_name    : {
+      hiragana    : 'れいな'
+    },
+    nickname      : 'れいにゃん',
+    date_of_birth : '1994-02-01',
+    blood_type    : 'B',
+    from          : '千葉県',
+    office        : 'イトーカンパニー',
+    current_teams : [ 'M' ],
+
+    blog          : 'http://ameblo.jp/reina-fujie/',
+    gplus         : 'https://plus.google.com/109052751022632539844',
+    nanagogo      : 'https://7gogo.jp/fujie-reina',
+    twitter       : 'https://twitter.com/nya_n017',
+  },
   二村春香
   : {
     surname       : {
