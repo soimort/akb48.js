@@ -853,6 +853,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yagura-fuuko',
     twitter       : 'https://twitter.com/ICECREAMFUKO',
   },
+  山下エミリー
+  : {
+    surname       : {
+      kanji       : '山下',
+      hiragana    : 'やました'
+    },
+    given_name    : {
+      katakana    : 'エミリー',
+      hiragana    : 'えみりい'
+    },
+    nickname      : 'エミリー',
+    date_of_birth : '1998-12-19',
+    blood_type    : 'O',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'TII' ],
+
+    gplus         : 'https://plus.google.com/105493861434312425996',
+    nanagogo      : 'https://7gogo.jp/yamashita-emili',
+  },
   山田麻莉奈
   : {
     surname       : {
