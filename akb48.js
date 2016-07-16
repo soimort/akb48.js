@@ -370,6 +370,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kojima-mako',
     twitter       : 'https://twitter.com/mak0_k0jima',
   },
+  兒玉遥
+  : {
+    surname       : {
+      kanji       : '兒玉',
+      hiragana    : 'こだま'
+    },
+    given_name    : {
+      kanji       : '遥',
+      hiragana    : 'はるか'
+    },
+    nickname      : 'はるっぴ',
+    date_of_birth : '1996-09-19',
+    blood_type    : 'O',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'H', 'K' ],
+
+    gplus         : 'https://plus.google.com/111907069956262615426',
+    instagram     : 'https://www.instagram.com/haruka_kodama919/',
+    nanagogo      : 'https://7gogo.jp/kodama-haruka',
+    twitter       : 'https://twitter.com/haruka_kdm919',
+  },
   込山榛香
   : {
     surname       : {
