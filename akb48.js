@@ -458,6 +458,28 @@ var AKBG = {
   },
 
   /* し */
+  渋谷凪咲
+  : {
+    surname       : {
+      kanji       : '渋谷',
+      hiragana    : 'しぶや'
+    },
+    given_name    : {
+      kanji       : '凪咲',
+      hiragana    : 'なぎさ'
+    },
+    nickname      : 'なぎさ',
+    date_of_birth : '1996-08-25',
+    blood_type    : 'A',
+    from          : '大阪府',
+    office        : 'KYORAKU吉本.ホールディングス',
+    current_teams : [ 'BII', '4' ],
+
+    gplus         : 'https://plus.google.com/105610508746152409503',
+    instagram     : 'https://www.instagram.com/nagisa_nikoniko/',
+    nanagogo      : 'https://7gogo.jp/shibuya-nagisa',
+    twitter       : 'https://twitter.com/_Nagisa_Shibuya',
+  },
   島崎遥香
   : {
     surname       : {
