@@ -523,6 +523,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/takahashi-zyuri',
     twitter       : 'https://twitter.com/juri_t_official',
   },
+  田北香世子
+  : {
+    surname       : {
+      kanji       : '田北',
+      hiragana    : 'たきた'
+    },
+    given_name    : {
+      kanji       : '香世子',
+      hiragana    : 'かよこ'
+    },
+    nickname      : 'かよよん',
+    date_of_birth : '1997-02-13',
+    blood_type    : 'O',
+    from          : '千葉県',
+    office        : 'AKS',
+    current_teams : [ 'A' ],
+
+    gplus         : 'https://plus.google.com/102724558496534061739',
+    nanagogo      : 'https://7gogo.jp/takita-kayoko',
+    twitter       : 'https://twitter.com/kayoyon213',
+  },
   谷川愛梨
   : {
     surname       : {
