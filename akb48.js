@@ -960,6 +960,29 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yamada-marina',
   },
 
+  /* よ */
+  横山由依
+  : {
+    surname       : {
+      kanji       : '横山',
+      hiragana    : 'よこやま'
+    },
+    given_name    : {
+      kanji       : '由依',
+      hiragana    : 'ゆい'
+    },
+    nickname      : 'ゆい',
+    date_of_birth : '1992-12-08',
+    blood_type    : 'B',
+    from          : '京都府',
+    office        : '太田プロダクション',
+    current_teams : [ 'A' ],
+
+    gplus         : 'https://plus.google.com/109380179669644031316',
+    nanagogo      : 'https://7gogo.jp/yokoyama-yui',
+    twitter       : 'https://twitter.com/Yui_Yoko1208',
+  },
+
   /* わ */
   渡辺麻友
   : {
