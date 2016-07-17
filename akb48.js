@@ -852,6 +852,28 @@ var AKBG = {
     gplus         : 'https://plus.google.com/112423184237495121448',
   },
 
+  /* も */
+  茂木忍
+  : {
+    surname       : {
+      kanji       : '茂木',
+      hiragana    : 'もぎ'
+    },
+    given_name    : {
+      kanji       : '忍',
+      hiragana    : 'しのぶ'
+    },
+    nickname      : 'もぎちゃん',
+    date_of_birth : '1997-02-16',
+    blood_type    : 'AB',
+    from          : '千葉県',
+    office        : 'AKS',
+    current_teams : [ 'K' ],
+
+    gplus         : 'https://plus.google.com/115608720286302539308',
+    twitter       : 'https://twitter.com/mogi0_0216',
+  },
+
   /* や */
   矢倉楓子
   : {
