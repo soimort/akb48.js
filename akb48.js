@@ -658,6 +658,27 @@ var AKBG = {
   },
 
   /* ひ */
+  日高優月
+  : {
+    surname       : {
+      kanji       : '日高',
+      hiragana    : 'ひだか'
+    },
+    given_name    : {
+      kanji       : '優月',
+      hiragana    : 'ゆづき'
+    },
+    nickname      : 'ゆづき',
+    date_of_birth : '1998-04-01',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'KII' ],
+
+    gplus         : 'https://plus.google.com/106829664684074866626',
+    nanagogo      : 'https://7gogo.jp/hidaka-yuduki',
+    twitter       : 'https://twitter.com/iamyuzuki_k2',
+  },
   平田梨奈
   : {
     surname       : {
