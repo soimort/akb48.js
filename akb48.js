@@ -1003,6 +1003,27 @@ var AKBG = {
   },
 
   /* よ */
+  横島亜衿
+  : {
+    surname       : {
+      kanji       : '横島',
+      hiragana    : 'よこしま'
+    },
+    given_name    : {
+      kanji       : '亜衿',
+      hiragana    : 'あえり'
+    },
+    nickname      : 'あえりん',
+    date_of_birth : '1999-12-17',
+    blood_type    : '不明',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'B' ],
+
+    gplus         : 'https://plus.google.com/113609455784557057942',
+    nanagogo      : 'https://7gogo.jp/yokoshima-aeri',
+    twitter       : 'https://twitter.com/aeringi_3',
+  },
   横山由依
   : {
     surname       : {
