@@ -502,6 +502,24 @@ var AKBG = {
   },
 
   /* す */
+  末永桜花
+  : {
+    surname       : {
+      kanji       : '末永',
+      hiragana    : 'すえなが'
+    },
+    given_name    : {
+      kanji       : '桜花',
+      hiragana    : 'おうか'
+    },
+    nickname      : 'おーちゃん',
+    date_of_birth : '2002-02-26',
+    blood_type    : 'A',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ '研究生（SKE48）' ],
+
+  },
   杉山愛佳
   : {
     surname       : {
