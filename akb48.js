@@ -934,6 +934,24 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/mutou-tomu',
     twitter       : 'https://twitter.com/tommuto1125',
   },
+  村井純奈
+  : {
+    surname       : {
+      kanji       : '村井',
+      hiragana    : 'むらい'
+    },
+    given_name    : {
+      kanji       : '純奈',
+      hiragana    : 'じゅんな'
+    },
+    nickname      : 'じゅんちゃん',
+    date_of_birth : '2000-01-08',
+    blood_type    : 'A',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ '研究生（SKE48）' ],
+
+  },
   村瀬紗英
   : {
     surname       : {
