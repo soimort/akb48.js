@@ -853,6 +853,24 @@ var AKBG = {
   },
 
   /* み */
+  水野愛理
+  : {
+    surname       : {
+      kanji       : '水野',
+      hiragana    : 'みずの'
+    },
+    given_name    : {
+      kanji       : '愛理',
+      hiragana    : 'あいり'
+    },
+    nickname      : 'あいり',
+    date_of_birth : '2002-09-21',
+    blood_type    : 'A',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ '研究生（SKE48）' ],
+
+  },
   宮脇咲良
   : {
     surname       : {
