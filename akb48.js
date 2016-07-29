@@ -501,6 +501,27 @@ var AKBG = {
     twitter       : 'https://twitter.com/paruruchan0330',
   },
 
+  /* す */
+  杉山愛佳
+  : {
+    surname       : {
+      kanji       : '杉山',
+      hiragana    : 'すぎやま'
+    },
+    given_name    : {
+      kanji       : '愛佳',
+      hiragana    : 'あいか'
+    },
+    nickname      : 'あいあい',
+    date_of_birth : '2002-03-05',
+    blood_type    : 'B',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'S' ],
+
+    nanagogo      : 'https://7gogo.jp/F452ex8A8o3U',
+  },
+
   /* た */
   高橋朱里
   : {
