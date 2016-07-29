@@ -634,6 +634,27 @@ var AKBG = {
     twitter       : 'https://twitter.com/mikinishino4',
   },
 
+  /* の */
+  野島樺乃
+  : {
+    surname       : {
+      kanji       : '野島',
+      hiragana    : 'のじま'
+    },
+    given_name    : {
+      kanji       : '樺乃',
+      hiragana    : 'かの'
+    },
+    nickname      : 'かのちゃん',
+    date_of_birth : '2001-09-06',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'S' ],
+
+    nanagogo      : 'https://7gogo.jp/5Etf1XbrE31v',
+  },
+
   /* は */
   林萌々香
   : {
