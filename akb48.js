@@ -257,6 +257,7 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/113163959577431341409',
     nanagogo      : 'https://7gogo.jp/okada-nana',
+    twitter       : 'https://twitter.com/okadanana_1107',
   },
 
   /* か */
