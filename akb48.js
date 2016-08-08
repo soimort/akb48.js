@@ -329,6 +329,29 @@ var AKBG = {
     twitter       : 'https://twitter.com/yuriaaa_peace',
   },
 
+  /* く */
+  熊崎晴香
+  : {
+    surname       : {
+      kanji       : '熊崎',
+      hiragana    : 'くまざき'
+    },
+    given_name    : {
+      kanji       : '晴香',
+      hiragana    : 'はるか'
+    },
+    nickname      : 'くまちゃん',
+    date_of_birth : '1997-08-10',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'E' ],
+
+    gplus         : 'https://plus.google.com/105061858596196255815',
+    nanagogo      : 'https://7gogo.jp/kumazaki-haruka',
+    twitter       : 'https://twitter.com/kumachan9810',
+  },
+
   /* こ */
   神志那結衣
   : {
