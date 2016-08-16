@@ -2,6 +2,24 @@
 var AKBG = {
 
   /* あ */
+  穴井千尋
+  : {
+    surname       : {
+      kanji       : '穴井',
+      hiragana    : 'あない'
+    },
+    given_name    : {
+      kanji       : '千尋',
+      hiragana    : 'ちひろ'
+    },
+    nickname      : 'ちーちゃん',
+    date_of_birth : '1996-01-27',
+    blood_type    : 'AB',
+    from          : '福岡県',
+    current_teams : [],
+
+    gplus         : 'https://plus.google.com/106102390858541443310',
+  },
   阿部マリア
   : {
     surname       : {
