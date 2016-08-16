@@ -911,6 +911,23 @@ var AKBG = {
     gplus         : 'https://plus.google.com/107241677527739013868',
     nanagogo      : 'https://7gogo.jp/matsuoka-natsumi',
   },
+  松岡はな
+  : {
+    surname       : {
+      kanji       : '松岡',
+      hiragana    : 'まつおか'
+    },
+    given_name    : {
+      hiragana    : 'はな'
+    },
+    nickname      : 'はな',
+    date_of_birth : '2000-01-19',
+    blood_type    : '不明',
+    from          : '千葉県',
+    office        : 'AKS',
+    current_teams : [ 'TII' ],
+
+  },
 
   /* み */
   水野愛理
