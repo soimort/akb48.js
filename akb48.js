@@ -795,8 +795,8 @@ var AKBG = {
     date_of_birth : '1998-07-16',
     blood_type    : 'O',
     from          : '福岡県',
-    office        : 'AKS',
-    current_teams : [ 'A' ],
+    office        : '',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/+平田梨奈',
     instagram     : 'https://www.instagram.com/hirari_official/',
