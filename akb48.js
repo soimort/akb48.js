@@ -985,7 +985,9 @@ var AKBG = {
     current_teams : [ 'KIV', 'A' ],
 
     gplus         : 'https://plus.google.com/102808008463301583196',
+    instagram     : 'https://www.instagram.com/39saku_chan/',
     nanagogo      : 'https://7gogo.jp/miyawaki-sakura',
+    twitter       : 'https://twitter.com/39saku_chan',
   },
 
   /* む */
