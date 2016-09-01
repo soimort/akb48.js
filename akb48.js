@@ -1008,6 +1008,7 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/104815465208323574550',
     nanagogo      : 'https://7gogo.jp/mukaichi-mion',
+    twitter       : 'https://twitter.com/mionnn_48',
   },
   武藤十夢
   : {
