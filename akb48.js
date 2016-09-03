@@ -600,6 +600,27 @@ var AKBG = {
 
     nanagogo      : 'https://7gogo.jp/F452ex8A8o3U',
   },
+  須藤凜々花
+  : {
+    surname       : {
+      kanji       : '須藤',
+      hiragana    : 'すとう'
+    },
+    given_name    : {
+      kanji       : '凜々花',
+      hiragana    : 'りりか'
+    },
+    nickname      : 'りりぽん',
+    date_of_birth : '1996-11-23',
+    blood_type    : 'A',
+    from          : '東京都',
+    office        : 'KYORAKU吉本.ホールディングス',
+    current_teams : [ 'N' ],
+
+    gplus         : 'https://plus.google.com/116423111060576574137',
+    nanagogo      : 'https://7gogo.jp/suto-ririka',
+    twitter       : 'https://twitter.com/riripon48',
+  },
 
   /* た */
   高橋朱里
