@@ -64,6 +64,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/iino-miyabi',
     twitter       : 'https://twitter.com/miyabi_ichigo15',
   },
+  石田晴香
+  : {
+    surname       : {
+      kanji       : '石田',
+      hiragana    : 'いしだ'
+    },
+    given_name    : {
+      kanji       : '晴香',
+      hiragana    : 'はるか'
+    },
+    nickname      : 'はるきゃん',
+    date_of_birth : '1993-12-02',
+    blood_type    : 'A',
+    from          : '埼玉県',
+    office        : 'ホリプロ',
+    current_teams : [],
+
+    blog          : 'http://lineblog.me/ishida_haruka/',
+    gplus         : 'https://plus.google.com/101026469701528255144',
+    twitter       : 'https://twitter.com/can2525can',
+  },
   石塚朱莉
   : {
     surname       : {
