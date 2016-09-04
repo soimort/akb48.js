@@ -298,6 +298,24 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/okada-nana',
     twitter       : 'https://twitter.com/okadanana_1107',
   },
+  小栗有以
+  : {
+    surname       : {
+      kanji       : '小栗',
+      hiragana    : 'おぐり'
+    },
+    given_name    : {
+      kanji       : '有以',
+      hiragana    : 'ゆい'
+    },
+    nickname      : 'ゆいゆい',
+    date_of_birth : '2001-12-26',
+    blood_type    : '',
+    from          : '東京都',
+    office        : 'AKS',
+    current_teams : [ '8' ],
+
+  },
 
   /* か */
   加藤玲奈
