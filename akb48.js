@@ -600,6 +600,28 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/harukashimazaki_official/',
     twitter       : 'https://twitter.com/paruruchan0330',
   },
+  白間美瑠
+  : {
+    surname       : {
+      kanji       : '白間',
+      hiragana    : 'しろま'
+    },
+    given_name    : {
+      kanji       : '美瑠',
+      hiragana    : 'みる'
+    },
+    nickname      : 'みるるん',
+    date_of_birth : '1997-10-14',
+    blood_type    : 'B',
+    from          : '大阪府',
+    office        : 'KYORAKU吉本.ホールディングス',
+    current_teams : [ 'M', 'A' ],
+
+    gplus         : 'https://plus.google.com/103948509378248185139',
+    instagram     : 'https://www.instagram.com/shiro36run/',
+    nanagogo      : 'https://7gogo.jp/shiroma-miru',
+    twitter       : 'https://twitter.com/shiromiru36',
+  },
 
   /* す */
   末永桜花
