@@ -233,6 +233,24 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/ooshima-ryoka',
     twitter       : 'https://twitter.com/oshimaryoka_48',
   },
+  太田彩夏
+  : {
+    surname       : {
+      kanji       : '太田',
+      hiragana    : 'おおた'
+    },
+    given_name    : {
+      kanji       : '彩夏',
+      hiragana    : 'あやか'
+    },
+    nickname      : 'あやめろ',
+    date_of_birth : '2000-08-17',
+    blood_type    : 'B',
+    from          : '岐阜県',
+    office        : 'AKS',
+    current_teams : [ '研究生（SKE48）' ],
+
+  },
   太田夢莉
   : {
     surname       : {
