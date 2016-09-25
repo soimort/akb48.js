@@ -600,6 +600,26 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/harukashimazaki_official/',
     twitter       : 'https://twitter.com/paruruchan0330',
   },
+  白井琴望
+  : {
+    surname       : {
+      kanji       : '白井',
+      hiragana    : 'しらい'
+    },
+    given_name    : {
+      kanji       : '琴望',
+      hiragana    : 'ことの'
+    },
+    nickname      : 'こっちゃん',
+    date_of_birth : '2002-12-01',
+    blood_type    : 'B',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'KII' ],
+
+    blog          : 'http://www2.ske48.co.jp/blog_pc/detail/?writer=shirai_kotono',
+    nanagogo      : 'https://7gogo.jp/6NfLxBWj1DgN',
+  },
   白間美瑠
   : {
     surname       : {
