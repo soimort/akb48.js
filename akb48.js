@@ -1167,8 +1167,8 @@ var AKBG = {
     date_of_birth : '2000-01-08',
     blood_type    : 'A',
     from          : '愛知県',
-    office        : 'AKS',
-    current_teams : [ '研究生（SKE48）' ],
+    office        : '',
+    current_teams : [ '' ],
 
   },
   村瀬紗英
