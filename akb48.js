@@ -1258,6 +1258,29 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yagura-fuuko',
     twitter       : 'https://twitter.com/ICECREAMFUKO',
   },
+  薮下柊
+  : {
+    surname       : {
+      kanji       : '薮下',
+      hiragana    : 'やぶした'
+    },
+    given_name    : {
+      kanji       : '柊',
+      hiragana    : 'しゅう'
+    },
+    nickname      : 'しゅう',
+    date_of_birth : '1998-12-02',
+    blood_type    : 'AB',
+    from          : '大阪府',
+    office        : 'KYORAKU吉本.ホールディングス',
+    current_teams : [ 'BII' ],
+
+    blog          : 'http://ameblo.jp/nmb48/theme-10049958743.html',
+    gplus         : 'https://plus.google.com/115201331752188354933',
+    instagram     : 'https://www.instagram.com/__yabushita_shu__/',
+    nanagogo      : 'https://7gogo.jp/yabushita-syu',
+    twitter       : 'https://twitter.com/shu__1202',
+  },
   山下エミリー
   : {
     surname       : {
