@@ -334,6 +334,24 @@ var AKBG = {
     current_teams : [ '8' ],
 
   },
+  小畑優奈
+  : {
+    surname       : {
+      kanji       : '小畑',
+      hiragana    : 'おばた'
+    },
+    given_name    : {
+      kanji       : '優奈',
+      hiragana    : 'ゆな'
+    },
+    nickname      : 'ゆなな',
+    date_of_birth : '2001-12-18',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ '研究生（SKE48）' ],
+
+  },
 
   /* か */
   加藤玲奈
