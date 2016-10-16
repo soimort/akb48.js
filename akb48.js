@@ -1188,6 +1188,8 @@ var AKBG = {
     office        : '',
     current_teams : [ '' ],
 
+    instagram     : 'https://www.instagram.com/star_0108/',
+    twitter       : 'https://twitter.com/love_00108',
   },
   村瀬紗英
   : {
