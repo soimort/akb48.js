@@ -316,6 +316,24 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/okada-nana',
     twitter       : 'https://twitter.com/okadanana_1107',
   },
+  岡部麟
+  : {
+    surname       : {
+      kanji       : '岡部',
+      hiragana    : 'おかべ'
+    },
+    given_name    : {
+      kanji       : '麟',
+      hiragana    : 'りん'
+    },
+    nickname      : 'りんりん',
+    date_of_birth : '1996-11-07',
+    blood_type    : '',
+    from          : '茨城県',
+    office        : 'AKS',
+    current_teams : [ '8' ],
+
+  },
   小栗有以
   : {
     surname       : {
