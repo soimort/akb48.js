@@ -126,6 +126,24 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/isoharakyoka_box/',
     twitter       : 'https://twitter.com/isoharakyokaBOX',
   },
+  一色嶺奈
+  : {
+    surname       : {
+      kanji       : '一色',
+      hiragana    : 'いっしき'
+    },
+    given_name    : {
+      kanji       : '嶺奈',
+      hiragana    : 'れな'
+    },
+    nickname      : 'れなひゅー',
+    date_of_birth : '2002-02-15',
+    blood_type    : 'O',
+    from          : '神奈川県',
+    office        : 'AKS',
+    current_teams : [ '研究生（SKE48）' ],
+
+  },
   井上由莉耶
   : {
     surname       : {
