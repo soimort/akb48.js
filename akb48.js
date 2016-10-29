@@ -630,6 +630,27 @@ var AKBG = {
   },
 
   /* し */
+  篠崎彩奈
+  : {
+    surname       : {
+      kanji       : '篠崎',
+      hiragana    : 'しのざき'
+    },
+    given_name    : {
+      kanji       : '彩奈',
+      hiragana    : 'あやな'
+    },
+    nickname      : 'あやなん',
+    date_of_birth : '1996-01-08',
+    blood_type    : 'B',
+    from          : '埼玉県',
+    office        : 'AKS',
+    current_teams : [ 'K' ],
+
+    gplus         : 'https://plus.google.com/109604402297397821753',
+    nanagogo      : 'https://7gogo.jp/shinozaki-ayana',
+    twitter       : 'https://twitter.com/ayana18_48',
+  },
   渋谷凪咲
   : {
     surname       : {
