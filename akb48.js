@@ -291,6 +291,24 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/oota-yuuri',
     twitter       : 'https://twitter.com/yuuriso_1201',
   },
+  大西桃香
+  : {
+    surname       : {
+      kanji       : '大西',
+      hiragana    : 'おおにし'
+    },
+    given_name    : {
+      kanji       : '桃香',
+      hiragana    : 'ももか'
+    },
+    nickname      : 'もも',
+    date_of_birth : '1997-09-20',
+    blood_type    : 'B',
+    from          : '奈良県',
+    office        : 'AKS',
+    current_teams : [ '8' ],
+
+  },
   大和田南那
   : {
     surname       : {
