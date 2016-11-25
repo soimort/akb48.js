@@ -141,7 +141,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '神奈川県',
     office        : 'AKS',
-    current_teams : [ '研究生（SKE48）' ],
+    current_teams : [ 'S' ],
 
   },
   井上由莉耶
@@ -266,7 +266,7 @@ var AKBG = {
     blood_type    : 'B',
     from          : '岐阜県',
     office        : 'AKS',
-    current_teams : [ '研究生（SKE48）' ],
+    current_teams : [ 'KII' ],
 
   },
   太田夢莉
@@ -403,7 +403,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '愛知県',
     office        : 'AKS',
-    current_teams : [ '研究生（SKE48）' ],
+    current_teams : [ 'KII' ],
 
   },
 
@@ -770,7 +770,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '愛知県',
     office        : 'AKS',
-    current_teams : [ '研究生（SKE48）' ],
+    current_teams : [ 'E' ],
 
   },
   杉山愛佳
@@ -1177,7 +1177,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '愛知県',
     office        : 'AKS',
-    current_teams : [ '研究生（SKE48）' ],
+    current_teams : [ 'KII' ],
 
   },
   宮脇咲良
