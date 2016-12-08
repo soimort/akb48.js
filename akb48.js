@@ -643,6 +643,7 @@ var AKBG = {
     current_teams : [ 'H' ],
 
     gplus         : 'https://plus.google.com/104375100134443203420',
+    instagram     : 'https://www.instagram.com/345insta/',
     nanagogo      : 'https://7gogo.jp/sashihara-rino',
     twitter       : 'https://twitter.com/345__chan',
   },
