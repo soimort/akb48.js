@@ -774,6 +774,25 @@ var AKBG = {
     current_teams : [ 'E' ],
 
   },
+  菅原茉椰
+  : {
+    surname       : {
+      kanji       : '菅原',
+      hiragana    : 'すがわら'
+    },
+    given_name    : {
+      kanji       : '茉椰',
+      hiragana    : 'まや'
+    },
+    nickname      : 'まーやん',
+    date_of_birth : '2000-01-10',
+    blood_type    : '',
+    from          : '宮城県',
+    office        : 'AKS',
+    current_teams : [ 'E' ],
+
+    nanagogo      : 'https://7gogo.jp/3Jyr4G1n7Ikq',
+  },
   杉山愛佳
   : {
     surname       : {
