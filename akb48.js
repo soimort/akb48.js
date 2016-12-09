@@ -943,6 +943,23 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/naiki-kokoro',
     twitter       : 'https://twitter.com/naiki_cocoro',
   },
+  中井りか
+  : {
+    surname       : {
+      kanji       : '中井',
+      hiragana    : 'なかい'
+    },
+    given_name    : {
+      hiragana    : 'りか'
+    },
+    nickname      : 'りかちゃん',
+    date_of_birth : '1997-08-23',
+    blood_type    : 'A',
+    from          : '富山県',
+    office        : 'AKS',
+    current_teams : [ 'NIII' ],
+
+  },
 
   /* に */
   西野未姫
