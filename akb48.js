@@ -1365,6 +1365,25 @@ var AKBG = {
     gplus         : 'https://plus.google.com/115608720286302539308',
     twitter       : 'https://twitter.com/mogi0_0216',
   },
+  森保まどか
+  : {
+    surname       : {
+      kanji       : '森保',
+      hiragana    : 'もりやす'
+    },
+    given_name    : {
+      hiragana    : 'まどか'
+    },
+    nickname      : 'まどか',
+    date_of_birth : '1997-07-26',
+    blood_type    : 'A',
+    from          : '長崎県',
+    office        : 'AKS',
+    current_teams : [ 'KIV' ],
+
+    gplus         : 'https://plus.google.com/107858117023519021548',
+    nanagogo      : 'https://7gogo.jp/moriyasu-madoka',
+  },
 
   /* や */
   矢倉楓子
