@@ -707,7 +707,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '埼玉県',
     office        : 'ビッグアップル',
-    current_teams : [ 'A' ],
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/harukashimazaki_official/',
     twitter       : 'https://twitter.com/paruruchan0330',
