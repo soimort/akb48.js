@@ -126,6 +126,28 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/isoharakyoka_box/',
     twitter       : 'https://twitter.com/isoharakyokaBOX',
   },
+  市川愛美
+  : {
+    surname       : {
+      kanji       : '市川',
+      hiragana    : 'いちかわ'
+    },
+    given_name    : {
+      kanji       : '愛美',
+      hiragana    : 'まなみ'
+    },
+    nickname      : 'まなみ',
+    date_of_birth : '1999-08-26',
+    blood_type    : 'A',
+    from          : '東京都',
+    office        : 'AKS',
+    current_teams : [ 'K' ],
+
+    gplus         : 'https://plus.google.com/113713719436007383684',
+    instagram     : 'https://www.instagram.com/0826manami/',
+    nanagogo      : 'https://7gogo.jp/ichikawa-manami',
+    twitter       : 'https://twitter.com/IckwMnm0826',
+  },
   一色嶺奈
   : {
     surname       : {
