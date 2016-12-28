@@ -564,6 +564,7 @@ var AKBG = {
     current_teams : [ '4' ],
 
     gplus         : 'https://plus.google.com/105604609782506015432',
+    instagram     : 'https://www.instagram.com/mak0_k0jima/',
     nanagogo      : 'https://7gogo.jp/kojima-mako',
     twitter       : 'https://twitter.com/mak0_k0jima',
   },
