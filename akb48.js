@@ -899,6 +899,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/takita-kayoko',
     twitter       : 'https://twitter.com/kayoyon213',
   },
+  谷真理佳
+  : {
+    surname       : {
+      kanji       : '谷',
+      hiragana    : 'たに'
+    },
+    given_name    : {
+      kanji       : '真理佳',
+      hiragana    : 'まりか'
+    },
+    nickname      : 'まりか',
+    date_of_birth : '1996-01-05',
+    blood_type    : 'B',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'E' ],
+
+    gplus         : 'https://plus.google.com/109503962668698372253',
+    instagram     : 'https://www.instagram.com/marika_tani/',
+    nanagogo      : 'https://7gogo.jp/tani-marika',
+    twitter       : 'https://twitter.com/tanimarika0105',
+  },
   谷川愛梨
   : {
     surname       : {
