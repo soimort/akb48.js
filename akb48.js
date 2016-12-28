@@ -1096,6 +1096,7 @@ var AKBG = {
     current_teams : [ 'KII' ],
 
     gplus         : 'https://plus.google.com/106829664684074866626',
+    instagram     : 'https://www.instagram.com/yz_ske0401/',
     nanagogo      : 'https://7gogo.jp/hidaka-yuduki',
     twitter       : 'https://twitter.com/iamyuzuki_k2',
   },
