@@ -245,9 +245,11 @@ var AKBG = {
     blood_type    : 'A',
     from          : '宮城県',
     office        : 'ホリプロ',
-    current_teams : [ 'A' ],
+    current_teams : [],
 
+    blog          : 'http://lineblog.me/iwata_karen/',
     gplus         : 'https://plus.google.com/104469157599705660710',
+    instagram     : 'https://www.instagram.com/karen0513_/',
     nanagogo      : 'https://7gogo.jp/iwata-karen',
     twitter       : 'https://twitter.com/karen0513_',
   },
