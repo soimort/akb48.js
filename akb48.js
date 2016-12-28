@@ -204,6 +204,7 @@ var AKBG = {
     current_teams : [ 'A' ],
 
     gplus         : 'https://plus.google.com/101748015513264110691',
+    instagram     : 'https://www.instagram.com/_iamannachan_/',
     twitter       : 'https://twitter.com/iriyamaanna1203',
   },
   岩佐美咲
