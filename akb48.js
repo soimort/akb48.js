@@ -500,6 +500,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kizaki-yuria',
     twitter       : 'https://twitter.com/yuriaaa_peace',
   },
+  北川綾巴
+  : {
+    surname       : {
+      kanji       : '北川',
+      hiragana    : 'きたがわ'
+    },
+    given_name    : {
+      kanji       : '綾巴',
+      hiragana    : 'りょうは'
+    },
+    nickname      : 'うは',
+    date_of_birth : '1998-10-09',
+    blood_type    : 'B',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'S', '4' ],
+
+    gplus         : 'https://plus.google.com/113971612493421284619',
+    instagram     : 'https://www.instagram.com/ryoha1009/',
+    nanagogo      : 'https://7gogo.jp/kitagawa-ryoha',
+    twitter       : 'https://twitter.com/ryoha_1009',
+  },
 
   /* く */
   熊崎晴香
