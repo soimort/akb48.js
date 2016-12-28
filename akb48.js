@@ -520,6 +520,7 @@ var AKBG = {
     current_teams : [ 'E' ],
 
     gplus         : 'https://plus.google.com/105061858596196255815',
+    instagram     : 'https://www.instagram.com/kumakuma9810/',
     nanagogo      : 'https://7gogo.jp/kumazaki-haruka',
     twitter       : 'https://twitter.com/kumachan9810',
   },
