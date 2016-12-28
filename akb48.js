@@ -1393,6 +1393,7 @@ var AKBG = {
     current_teams : [ '4' ],
 
     gplus         : 'https://plus.google.com/112423184237495121448',
+    twitter       : 'https://twitter.com/yuirii_murayama',
   },
 
   /* も */
