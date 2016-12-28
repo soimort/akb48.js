@@ -1186,6 +1186,7 @@ var AKBG = {
     current_teams : [ 'S' ],
 
     gplus         : 'https://plus.google.com/102372344957102189329',
+    instagram     : 'https://www.instagram.com/jurinamatsui3/',
     nanagogo      : 'https://7gogo.jp/matsui-jurina',
     twitter       : 'https://twitter.com/JURINA38G',
   },
