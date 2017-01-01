@@ -455,6 +455,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kato-rena',
     twitter       : 'https://twitter.com/katorena_akb48',
   },
+  川崎成美
+  : {
+    surname       : {
+      kanji       : '川崎',
+      hiragana    : 'かわさき'
+    },
+    given_name    : {
+      kanji       : '成美',
+      hiragana    : 'なるみ'
+    },
+    nickname      : 'なるちん',
+    date_of_birth : '1997-11-27',
+    blood_type    : 'B',
+    from          : '愛知県',
+    office        : '',
+    current_teams : [],
+
+    instagram     : 'https://www.instagram.com/11narumi27/',
+    twitter       : 'https://twitter.com/11narumi27',
+  },
   川本紗矢
   : {
     surname       : {
