@@ -451,9 +451,9 @@ var AKBG = {
     current_teams : [ 'B' ],
 
     gplus         : 'https://plus.google.com/112984877710421269938',
-    instagram     : 'https://www.instagram.com/katorena_official/',
+    instagram     : 'https://www.instagram.com/katorena_ktrn/',
     nanagogo      : 'https://7gogo.jp/kato-rena',
-    twitter       : 'https://twitter.com/katorena_akb48',
+    twitter       : 'https://twitter.com/katorena_710',
   },
   川崎成美
   : {
