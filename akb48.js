@@ -64,6 +64,23 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/iino-miyabi',
     twitter       : 'https://twitter.com/miyabi_ichigo15',
   },
+  石黒友月
+  : {
+    surname       : {
+      kanji       : '石黒',
+      hiragana    : 'いしぐろ'
+    },
+    given_name    : {
+      kanji       : '友月',
+      hiragana    : 'ゆづき'
+    },
+    nickname      : 'ゆづ',
+    date_of_birth : '2003-10-11',
+    blood_type    : 'AB',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ '研究生（SKE48）' ],
+  },
   石田晴香
   : {
     surname       : {
