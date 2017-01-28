@@ -963,6 +963,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/takita-kayoko',
     twitter       : 'https://twitter.com/kayoyon213',
   },
+  田中美久
+  : {
+    surname       : {
+      kanji       : '田中',
+      hiragana    : 'たなか'
+    },
+    given_name    : {
+      kanji       : '美久',
+      hiragana    : 'みく'
+    },
+    nickname      : 'みくりん',
+    date_of_birth : '2001-09-12',
+    blood_type    : 'B',
+    from          : '熊本県',
+    office        : 'AKS',
+    current_teams : [ 'H' ],
+
+    gplus         : 'https://plus.google.com/108158383330906277526',
+    nanagogo      : 'https://7gogo.jp/tanaka-miku',
+  },
   谷真理佳
   : {
     surname       : {
