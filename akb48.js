@@ -1003,6 +1003,25 @@ var AKBG = {
     gplus         : 'https://plus.google.com/108158383330906277526',
     nanagogo      : 'https://7gogo.jp/tanaka-miku',
   },
+  田中優香
+  : {
+    surname       : {
+      kanji       : '田中',
+      hiragana    : 'たなか'
+    },
+    given_name    : {
+      kanji       : '優香',
+      hiragana    : 'ゆか'
+    },
+    nickname      : 'ゆうたん',
+    date_of_birth : '2000-06-07',
+    blood_type    : 'AB',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'KIV' ],
+
+    gplus         : 'https://plus.google.com/112303747535405730870',
+  },
   谷真理佳
   : {
     surname       : {
