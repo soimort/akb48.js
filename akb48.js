@@ -649,6 +649,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kodama-haruka',
     twitter       : 'https://twitter.com/haruka_kdm919',
   },
+  後藤萌咲
+  : {
+    surname       : {
+      kanji       : '後藤',
+      hiragana    : 'ごとう'
+    },
+    given_name    : {
+      kanji       : '萌咲',
+      hiragana    : 'もえ'
+    },
+    nickname      : 'もえきゅん',
+    date_of_birth : '2001-05-20',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'B' ],
+
+    gplus         : 'https://plus.google.com/106575927859217364851',
+    nanagogo      : 'https://7gogo.jp/goto-moe',
+  },
   後藤楽々
   : {
     surname       : {
