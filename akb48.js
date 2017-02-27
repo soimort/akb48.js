@@ -983,6 +983,24 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/takita-kayoko',
     twitter       : 'https://twitter.com/kayoyon213',
   },
+  武田智加
+  : {
+    surname       : {
+      kanji       : '武田',
+      hiragana    : 'たけだ'
+    },
+    given_name    : {
+      kanji       : '智加',
+      hiragana    : 'ともか'
+    },
+    nickname      : 'もかちゃん',
+    date_of_birth : '2003-02-25',
+    blood_type    : '不明',
+    from          : '神奈川県',
+    office        : 'AKS',
+    current_teams : [ '研究生（HKT48）' ],
+
+  },
   田中美久
   : {
     surname       : {
