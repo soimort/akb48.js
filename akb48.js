@@ -1596,6 +1596,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yagura-fuuko',
     twitter       : 'https://twitter.com/ICECREAMFUKO',
   },
+  矢吹奈子
+  : {
+    surname       : {
+      kanji       : '矢吹',
+      hiragana    : 'やぶき'
+    },
+    given_name    : {
+      kanji       : '奈子',
+      hiragana    : 'なこ'
+    },
+    nickname      : 'なこ',
+    date_of_birth : '2001-06-18',
+    blood_type    : '不明',
+    from          : '東京都',
+    office        : 'AKS',
+    current_teams : [ 'H', 'B' ],
+
+    gplus         : 'https://plus.google.com/103577079977140124149',
+    nanagogo      : 'https://7gogo.jp/yabuki-nako',
+  },
   薮下柊
   : {
     surname       : {
