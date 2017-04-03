@@ -239,7 +239,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '千葉県',
     office        : '長良プロダクション',
-    current_teams : [ 'B' ],
+    current_teams : [],
 
     blog          : 'http://ameblo.jp/misaki-iwasa/',
     gplus         : 'https://plus.google.com/114038303885145553998',
@@ -366,7 +366,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '千葉県',
     office        : 'AKS',
-    current_teams : [ 'A' ],
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/116687308232450361343',
     instagram     : 'https://www.instagram.com/nanaowada_official/',
@@ -1162,7 +1162,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '静岡県',
     office        : 'AKS',
-    current_teams : [ '4' ],
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/100175103143355841978',
     nanagogo      : 'https://7gogo.jp/nishino-miki',
@@ -1485,7 +1485,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '愛知県',
     office        : '',
-    current_teams : [ '' ],
+    current_teams : [],
 
     twitter       : 'https://twitter.com/Murai_Junna',
   },
@@ -1696,7 +1696,7 @@ var AKBG = {
     blood_type    : '不明',
     from          : '愛知県',
     office        : 'AKS',
-    current_teams : [ 'B' ],
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/113609455784557057942',
     nanagogo      : 'https://7gogo.jp/yokoshima-aeri',
