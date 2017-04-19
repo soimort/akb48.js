@@ -1105,6 +1105,27 @@ var AKBG = {
     twitter       : 'https://twitter.com/o_megu1112',
   },
 
+  /* と */
+  豊永阿紀
+  : {
+    surname       : {
+      kanji       : '豊永',
+      hiragana    : 'とよなが'
+    },
+    given_name    : {
+      kanji       : '阿紀',
+      hiragana    : 'あき'
+    },
+    nickname      : 'あき',
+    date_of_birth : '1999-10-25',
+    blood_type    : 'B',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ '研究生（HKT48）' ],
+
+    nanagogo      : 'https://7gogo.jp/toyonaga-aki/',
+  },
+
   /* な */
   内木志
   : {
