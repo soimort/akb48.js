@@ -41,6 +41,26 @@ var AKBG = {
     gplus         : 'https://plus.google.com/100694627368957691223',
     instagram     : 'https://www.instagram.com/_abedesu/',
   },
+  荒巻美咲
+  : {
+    surname       : {
+      kanji       : '荒巻',
+      hiragana    : 'あらまき'
+    },
+    given_name    : {
+      kanji       : '美咲',
+      hiragana    : 'みさき'
+    },
+    nickname      : 'みるん',
+    date_of_birth : '2001-01-28',
+    blood_type    : '不明',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'TII' ],
+
+    gplus         : 'https://plus.google.com/110200146300913549655',
+    nanagogo      : 'https://7gogo.jp/aramaki-misaki',
+  },
 
   /* い */
   飯野雅
