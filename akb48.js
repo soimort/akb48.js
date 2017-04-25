@@ -371,6 +371,28 @@ var AKBG = {
     current_teams : [ '8' ],
 
   },
+  大森美優
+  : {
+    surname       : {
+      kanji       : '大森',
+      hiragana    : 'おおもり'
+    },
+    given_name    : {
+      kanji       : '美優',
+      hiragana    : 'みゆう'
+    },
+    nickname      : 'みゆぽん',
+    date_of_birth : '1998-09-03',
+    blood_type    : 'B',
+    from          : '神奈川県',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    gplus         : 'https://plus.google.com/104832409151547328144',
+    instagram     : 'https://www.instagram.com/omorimiyu/',
+    nanagogo      : 'https://7gogo.jp/omori-miyuu',
+    twitter       : 'https://twitter.com/omorimyu_pon',
+  },
   大和田南那
   : {
     surname       : {
