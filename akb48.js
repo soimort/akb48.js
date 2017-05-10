@@ -330,6 +330,8 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'KII' ],
 
+    nanagogo      : 'https://7gogo.jp/DmrHUXKJYf7l',
+    twitter       : 'https://twitter.com/Ayamelody0817',
   },
   太田夢莉
   : {
