@@ -516,6 +516,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kato-rena',
     twitter       : 'https://twitter.com/katorena_710',
   },
+  川上礼奈
+  : {
+    surname       : {
+      kanji       : '川上',
+      hiragana    : 'かわかみ'
+    },
+    given_name    : {
+      kanji       : '礼奈',
+      hiragana    : 'れな'
+    },
+    nickname      : 'れなぴょん',
+    date_of_birth : '1995-09-16',
+    blood_type    : 'O',
+    from          : '香川県',
+    office        : 'Showtitle',
+    current_teams : [ 'M' ],
+
+    gplus         : 'https://plus.google.com/113548903943701827498',
+    instagram     : 'https://www.instagram.com/rena_kawakami/',
+    nanagogo      : 'https://7gogo.jp/kawakami-rena',
+    twitter       : 'https://twitter.com/renapyon_udon',
+  },
   川崎成美
   : {
     surname       : {
