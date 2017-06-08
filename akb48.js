@@ -1234,6 +1234,27 @@ var AKBG = {
   },
 
   /* に */
+  西澤瑠莉奈
+  : {
+    surname       : {
+      kanji       : '西澤',
+      hiragana    : 'にしざわ'
+    },
+    given_name    : {
+      kanji       : '瑠莉奈',
+      hiragana    : 'るりな'
+    },
+    nickname      : 'るりりん',
+    date_of_birth : '1999-07-27',
+    blood_type    : 'B',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'M' ],
+
+    gplus         : 'https://plus.google.com/107951103633724735018/',
+    nanagogo      : 'https://7gogo.jp/nishizawa-rurina',
+    twitter       : 'https://twitter.com/2430rurina_G',
+  },
   西野未姫
   : {
     surname       : {
