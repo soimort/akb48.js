@@ -516,6 +516,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kato-rena',
     twitter       : 'https://twitter.com/katorena_710',
   },
+  鎌田菜月
+  : {
+    surname       : {
+      kanji       : '鎌田',
+      hiragana    : 'かまた'
+    },
+    given_name    : {
+      kanji       : '菜月',
+      hiragana    : 'なつき'
+    },
+    nickname      : 'なっきぃ',
+    date_of_birth : '1996-08-29',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'E' ],
+
+    gplus         : 'https://plus.google.com/111577742898202735013',
+    instagram     : 'https://www.instagram.com/nacky_k829/',
+    nanagogo      : 'https://7gogo.jp/kamata-natsuki',
+    twitter       : 'https://twitter.com/nacky_k829',
+  },
   川上礼奈
   : {
     surname       : {
