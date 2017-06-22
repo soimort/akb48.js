@@ -1683,6 +1683,26 @@ var AKBG = {
     gplus         : 'https://plus.google.com/115608720286302539308',
     twitter       : 'https://twitter.com/mogi0_0216',
   },
+  本村碧唯
+  : {
+    surname       : {
+      kanji       : '本村',
+      hiragana    : 'もとむら'
+    },
+    given_name    : {
+      kanji       : '碧唯',
+      hiragana    : 'あおい'
+    },
+    nickname      : 'あおいたん',
+    date_of_birth : '1997-05-31',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'KIV' ],
+
+    gplus         : 'https://plus.google.com/104185663412698594190',
+    nanagogo      : 'https://7gogo.jp/motomura-aoi',
+  },
   森保まどか
   : {
     surname       : {
