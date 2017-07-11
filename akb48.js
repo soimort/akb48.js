@@ -1029,6 +1029,26 @@ var AKBG = {
   },
 
   /* た */
+  高井つき奈
+  : {
+    surname       : {
+      kanji       : '高井',
+      hiragana    : 'たかい'
+    },
+    given_name    : {
+      kanji       : 'つき奈',
+      hiragana    : 'つきな'
+    },
+    nickname      : '',
+    date_of_birth : '1995-07-06',
+    blood_type    : 'AB',
+    from          : '愛知県',
+    office        : '',
+    current_teams : [ ],
+
+    instagram     : 'https://www.instagram.com/tsukinatakai/',
+    twitter       : 'https://twitter.com/tsukina76',
+  },
   高橋朱里
   : {
     surname       : {
