@@ -1109,6 +1109,27 @@ var AKBG = {
     current_teams : [ '研究生（HKT48）' ],
 
   },
+  田島芽瑠
+  : {
+    surname       : {
+      kanji       : '田島',
+      hiragana    : 'たしま'
+    },
+    given_name    : {
+      kanji       : '芽瑠',
+      hiragana    : 'める'
+    },
+    nickname      : 'める',
+    date_of_birth : '2000-01-07',
+    blood_type    : 'B',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'H' ],
+
+    gplus         : 'https://plus.google.com/101107068827865810697',
+    nanagogo      : 'https://7gogo.jp/tashima-meru',
+    twitter       : 'https://twitter.com/meru_chan_07',
+  },
   田中美久
   : {
     surname       : {
