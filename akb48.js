@@ -799,6 +799,26 @@ var AKBG = {
   },
 
   /* さ */
+  坂口理子
+  : {
+    surname       : {
+      kanji       : '坂口',
+      hiragana    : 'さかぐち'
+    },
+    given_name    : {
+      kanji       : '理子',
+      hiragana    : 'りこ'
+    },
+    nickname      : 'りこぴ',
+    date_of_birth : '1994-07-26',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'H' ],
+
+    gplus         : 'https://plus.google.com/102129137981135233143',
+    nanagogo      : 'https://7gogo.jp/sakaguchi-riko',
+  },
   佐々木優佳里
   : {
     surname       : {
