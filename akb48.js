@@ -881,6 +881,25 @@ var AKBG = {
   },
 
   /* し */
+  上西怜
+  : {
+    surname       : {
+      kanji       : '上西',
+      hiragana    : 'じょうにし'
+    },
+    given_name    : {
+      kanji       : '怜',
+      hiragana    : 'れい'
+    },
+    nickname      : 'れーちゃん',
+    date_of_birth : '2001-05-28',
+    blood_type    : 'A',
+    from          : '滋賀県',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    twitter       : 'https://twitter.com/jonishi_rei',
+  },
   篠崎彩奈
   : {
     surname       : {
