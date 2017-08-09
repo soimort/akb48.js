@@ -649,6 +649,24 @@ var AKBG = {
   },
 
   /* く */
+  久保怜音
+  : {
+    surname       : {
+      kanji       : '久保',
+      hiragana    : 'くぼ'
+    },
+    given_name    : {
+      kanji       : '怜音',
+      hiragana    : 'さとね'
+    },
+    nickname      : 'さとぴー',
+    date_of_birth : '2003-11-20',
+    blood_type    : 'O',
+    from          : '神奈川県',
+    office        : 'AKS',
+    current_teams : [ 'K' ],
+
+  },
   熊崎晴香
   : {
     surname       : {
