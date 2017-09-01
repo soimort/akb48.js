@@ -1332,7 +1332,9 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ '研究生（HKT48）' ],
 
-    nanagogo      : 'https://7gogo.jp/toyonaga-aki/',
+    instagram     : 'https://www.instagram.com/aki_t_official/',
+    nanagogo      : 'https://7gogo.jp/toyonaga-aki',
+    twitter       : 'https://twitter.com/aki_toyonaga',
   },
 
   /* な */
