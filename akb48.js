@@ -1637,6 +1637,26 @@ var AKBG = {
     current_teams : [ 'TII' ],
 
   },
+  松本日向
+  : {
+    surname       : {
+      kanji       : '松本',
+      hiragana    : 'まつもと'
+    },
+    given_name    : {
+      kanji       : '日向',
+      hiragana    : 'ひなた'
+    },
+    nickname      : 'ひなた',
+    date_of_birth : '2000-12-11',
+    blood_type    : 'AB',
+    from          : '大阪府',
+    office        : 'AKS',
+    current_teams : [ '研究生（HKT48）' ],
+
+    nanagogo      : 'https://7gogo.jp/matsumoto-hinata',
+    twitter       : 'https://twitter.com/hinata__1211',
+  },
 
   /* み */
   水野愛理
