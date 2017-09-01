@@ -316,10 +316,11 @@ var AKBG = {
     date_of_birth : '1998-10-21',
     blood_type    : 'O',
     from          : '神奈川県',
-    office        : 'AKS',
-    current_teams : [ 'B' ],
+    office        : 'Candee',
+    current_teams : [ '' ],
 
     gplus         : 'https://plus.google.com/113093719902034350018',
+    instagram     : 'https://www.instagram.com/ryoka_oshima/',
     nanagogo      : 'https://7gogo.jp/ooshima-ryoka',
     twitter       : 'https://twitter.com/oshimaryoka_48',
   },
@@ -422,7 +423,7 @@ var AKBG = {
     date_of_birth : '1999-09-15',
     blood_type    : 'A',
     from          : '千葉県',
-    office        : 'AKS',
+    office        : 'エイジアプロモーション',
     current_teams : [],
 
     gplus         : 'https://plus.google.com/116687308232450361343',
@@ -597,8 +598,8 @@ var AKBG = {
     office        : '',
     current_teams : [],
 
-    instagram     : 'https://www.instagram.com/11narumi27/',
-    twitter       : 'https://twitter.com/11narumi27',
+    instagram     : 'https://www.instagram.com/naru_1127/',
+    twitter       : 'https://twitter.com/naru_971127',
   },
   川本紗矢
   : {
@@ -686,6 +687,7 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'K' ],
 
+    nanagogo      : 'https://7gogo.jp/kubo-satone',
   },
   熊崎晴香
   : {
@@ -730,6 +732,7 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/108854773205091274205',
     nanagogo      : 'https://7gogo.jp/kojina-yui',
+    twitter       : 'https://twitter.com/kojinayui0124',
   },
   小嶋真子
   : {
@@ -812,7 +815,9 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'E' ],
 
+    instagram     : 'https://www.instagram.com/hahahalalala0723/',
     nanagogo      : 'https://7gogo.jp/4QpuS4hYtPUE',
+    twitter       : 'https://twitter.com/lalagoto0723',
   },
   込山榛香
   : {
@@ -834,6 +839,7 @@ var AKBG = {
     gplus         : 'https://plus.google.com/113695134887071992188',
     instagram     : 'https://www.instagram.com/komiharu_official/',
     nanagogo      : 'https://7gogo.jp/komiyama-haruka',
+    twitter       : 'https://twitter.com/912_komiharu',
   },
 
   /* さ */
@@ -856,6 +862,7 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/102129137981135233143',
     nanagogo      : 'https://7gogo.jp/sakaguchi-riko',
+    twitter       : 'https://twitter.com/ricopi_726',
   },
   佐々木優佳里
   : {
@@ -938,6 +945,7 @@ var AKBG = {
     current_teams : [ 'K' ],
 
     gplus         : 'https://plus.google.com/109604402297397821753',
+    instagram     : 'https://www.instagram.com/ayana.s_official/',
     nanagogo      : 'https://7gogo.jp/shinozaki-ayana',
     twitter       : 'https://twitter.com/ayana18_48',
   },
@@ -980,7 +988,6 @@ var AKBG = {
     office        : 'ビッグアップル',
     current_teams : [],
 
-    instagram     : 'https://www.instagram.com/harukashimazaki_official/',
     twitter       : 'https://twitter.com/paruruchan0330',
   },
   白井琴望
@@ -1001,7 +1008,9 @@ var AKBG = {
     current_teams : [ 'KII' ],
 
     blog          : 'http://www2.ske48.co.jp/blog_pc/detail/?writer=shirai_kotono',
+    instagram     : 'https://www.instagram.com/_shirai_kotono/',
     nanagogo      : 'https://7gogo.jp/6NfLxBWj1DgN',
+    twitter       : 'https://twitter.com/kotonoshirai',
   },
   白間美瑠
   : {
@@ -1044,6 +1053,9 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'E' ],
 
+    instagram     : 'https://www.instagram.com/ouka_ske0226/',
+    nanagogo      : 'https://7gogo.jp/U3A9h52wYBo4',
+    twitter       : 'https://twitter.com/Ouka_ske0226',
   },
   菅原茉椰
   : {
@@ -1062,7 +1074,9 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'E' ],
 
+    instagram     : 'https://www.instagram.com/maya_sugawara/',
     nanagogo      : 'https://7gogo.jp/3Jyr4G1n7Ikq',
+    twitter       : 'https://twitter.com/maya_sugawara',
   },
   杉山愛佳
   : {
@@ -1081,7 +1095,9 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'S' ],
 
+    instagram     : 'https://www.instagram.com/sugiyama_aika/',
     nanagogo      : 'https://7gogo.jp/F452ex8A8o3U',
+    twitter       : 'https://twitter.com/sugiyama_aika',
   },
   須藤凜々花
   : {
@@ -1097,10 +1113,11 @@ var AKBG = {
     date_of_birth : '1996-11-23',
     blood_type    : 'A',
     from          : '東京都',
-    office        : 'KYORAKU吉本.ホールディングス',
-    current_teams : [ 'N' ],
+    office        : 'Showtitle',
+    current_teams : [ ],
 
     gplus         : 'https://plus.google.com/116423111060576574137',
+    instagram     : 'https://www.instagram.com/suto_riripon/',
     nanagogo      : 'https://7gogo.jp/suto-ririka',
     twitter       : 'https://twitter.com/riripon48',
   },
@@ -1144,6 +1161,7 @@ var AKBG = {
     current_teams : [ '4' ],
 
     gplus         : 'https://plus.google.com/107910364578005352567',
+    instagram     : 'https://www.instagram.com/1003_j/',
     nanagogo      : 'https://7gogo.jp/takahashi-zyuri',
     twitter       : 'https://twitter.com/juri_t_official',
   },
@@ -1165,6 +1183,7 @@ var AKBG = {
     current_teams : [ 'A' ],
 
     gplus         : 'https://plus.google.com/102724558496534061739',
+    instagram     : 'https://www.instagram.com/kayoko_takita/',
     nanagogo      : 'https://7gogo.jp/takita-kayoko',
     twitter       : 'https://twitter.com/kayoyon213',
   },
@@ -1185,6 +1204,7 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ '研究生（HKT48）' ],
 
+    twitter       : 'https://twitter.com/moka__0225',
   },
   田島芽瑠
   : {
@@ -1204,6 +1224,7 @@ var AKBG = {
     current_teams : [ 'H' ],
 
     gplus         : 'https://plus.google.com/101107068827865810697',
+    instagram     : 'https://www.instagram.com/meru_chan_official/',
     nanagogo      : 'https://7gogo.jp/tashima-meru',
     twitter       : 'https://twitter.com/meru_chan_07',
   },
@@ -1286,6 +1307,7 @@ var AKBG = {
     current_teams : [ 'M' ],
 
     gplus         : 'https://plus.google.com/100515188323145163173',
+    instagram     : 'https://www.instagram.com/airingopero/',
     nanagogo      : 'https://7gogo.jp/tanigawa-airi',
     twitter       : 'https://twitter.com/_airi_tanigawa',
   },
@@ -1396,6 +1418,7 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'NIII' ],
 
+    instagram     : 'https://www.instagram.com/rika___n24x/',
   },
 
   /* に */
@@ -1417,6 +1440,7 @@ var AKBG = {
     current_teams : [ 'M' ],
 
     gplus         : 'https://plus.google.com/107951103633724735018/',
+    instagram     : 'https://www.instagram.com/rurina_nishizawa/',
     nanagogo      : 'https://7gogo.jp/nishizawa-rurina',
     twitter       : 'https://twitter.com/2430rurina_G',
   },
@@ -1460,7 +1484,9 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'S' ],
 
+    instagram     : 'https://www.instagram.com/nojimakano_0906/',
     nanagogo      : 'https://7gogo.jp/5Etf1XbrE31v',
+    twitter       : 'https://twitter.com/nojimakano_0906',
   },
 
   /* は */
@@ -1639,6 +1665,7 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/107241677527739013868',
     nanagogo      : 'https://7gogo.jp/matsuoka-natsumi',
+    twitter       : 'https://twitter.com/natsumi_m8',
   },
   松岡はな
   : {
@@ -1656,6 +1683,8 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'TII' ],
 
+    nanagogo      : 'https://7gogo.jp/matsuoka-hana',
+    twitter       : 'https://twitter.com/M_Hana119',
   },
   松本日向
   : {
@@ -1696,6 +1725,9 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'KII' ],
 
+    instagram     : 'https://www.instagram.com/mizunoairi_ske48/',
+    nanagogo      : 'https://7gogo.jp/FSQYPICtu0kq',
+    twitter       : 'https://twitter.com/airiSKE48_0921',
   },
   宮脇咲良
   : {
@@ -1780,6 +1812,7 @@ var AKBG = {
     office        : '',
     current_teams : [],
 
+    instagram     : 'https://www.instagram.com/murai_junna/',
     twitter       : 'https://twitter.com/Murai_Junna',
   },
   村瀬紗英
@@ -1864,7 +1897,9 @@ var AKBG = {
     current_teams : [ 'KIV' ],
 
     gplus         : 'https://plus.google.com/104185663412698594190',
+    instagram     : 'https://www.instagram.com/aoi0531.m/',
     nanagogo      : 'https://7gogo.jp/motomura-aoi',
+    twitter       : 'https://twitter.com/aoi_m_531',
   },
   森保まどか
   : {
@@ -1882,8 +1917,8 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'KIV' ],
 
-    instagram     : 'https://www.instagram.com/madokamera_48/',
     gplus         : 'https://plus.google.com/107858117023519021548',
+    instagram     : 'https://www.instagram.com/madokamera_48/',
     nanagogo      : 'https://7gogo.jp/moriyasu-madoka',
     twitter       : 'https://twitter.com/madoka_726_hkt',
   },
@@ -1930,6 +1965,7 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/103577079977140124149',
     nanagogo      : 'https://7gogo.jp/yabuki-nako',
+    twitter       : 'https://twitter.com/nako_yabuki_75',
   },
   薮下柊
   : {
@@ -1972,7 +2008,9 @@ var AKBG = {
     current_teams : [ 'TII' ],
 
     gplus         : 'https://plus.google.com/105493861434312425996',
+    instagram     : 'https://www.instagram.com/emiri_hkt48/',
     nanagogo      : 'https://7gogo.jp/yamashita-emili',
+    twitter       : 'https://twitter.com/emiri_hkt48_T2',
   },
   山田麻莉奈
   : {
@@ -1992,7 +2030,9 @@ var AKBG = {
     current_teams : [ 'H' ],
 
     gplus         : 'https://plus.google.com/104003652269738791415',
+    instagram     : 'http://www.instagram.com/marina.yamada_324/',
     nanagogo      : 'https://7gogo.jp/yamada-marina',
+    twitter       : 'https://twitter.com/maririchan_324',
   },
 
   /* よ */
@@ -2014,6 +2054,7 @@ var AKBG = {
     current_teams : [],
 
     gplus         : 'https://plus.google.com/113609455784557057942',
+    instagram     : 'https://www.instagram.com/_aeri_yokoshima/',
     nanagogo      : 'https://7gogo.jp/yokoshima-aeri',
     twitter       : 'https://twitter.com/aeringi_3',
   },
@@ -2035,6 +2076,7 @@ var AKBG = {
     current_teams : [ 'A' ],
 
     gplus         : 'https://plus.google.com/109380179669644031316',
+    instagram     : 'https://www.instagram.com/yokoyamayui_1208/',
     nanagogo      : 'https://7gogo.jp/yokoyama-yui',
     twitter       : 'https://twitter.com/Yui_Yoko1208',
   },
