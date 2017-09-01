@@ -300,6 +300,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/iwata-karen',
     twitter       : 'https://twitter.com/karen0513_',
   },
+  岩立沙穂
+  : {
+    surname       : {
+      kanji       : '岩立',
+      hiragana    : 'いわたて'
+    },
+    given_name    : {
+      kanji       : '沙穂',
+      hiragana    : 'さほ'
+    },
+    nickname      : 'さっほー',
+    date_of_birth : '1994-10-04',
+    blood_type    : 'B',
+    from          : '神奈川県',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    blog          : 'https://ameblo.jp/saho-iwatate',
+    gplus         : 'https://plus.google.com/116138450385389714584',
+    nanagogo      : 'https://7gogo.jp/iwatate-saho',
+    twitter       : 'https://twitter.com/yahho_sahho',
+  },
 
   /* お */
   大島涼花
