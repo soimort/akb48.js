@@ -1291,6 +1291,29 @@ var AKBG = {
     twitter       : 'https://twitter.com/o_megu1112',
   },
 
+  /* つ */
+  月足天音
+  : {
+    surname       : {
+      kanji       : '月足',
+      hiragana    : 'つきあし'
+    },
+    given_name    : {
+      kanji       : '天音',
+      hiragana    : 'あまね'
+    },
+    nickname      : 'あまねん',
+    date_of_birth : '1999-10-26',
+    blood_type    : 'O',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ '研究生（HKT48）' ],
+
+    instagram     : 'http://www.instagram.com/am1026_official/',
+    nanagogo      : 'https://7gogo.jp/tsukiashi-amane',
+    twitter       : 'https://twitter.com/am1026_official',
+  },
+
   /* と */
   豊永阿紀
   : {
