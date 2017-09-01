@@ -18,7 +18,9 @@ var AKBG = {
     from          : '福岡県',
     current_teams : [],
 
+    instagram     : 'https://www.instagram.com/chihiro_anai_official/',
     gplus         : 'https://plus.google.com/106102390858541443310',
+    twitter       : 'https://twitter.com/chi_tava0127',
   },
   阿部マリア
   : {
@@ -58,8 +60,10 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'TII' ],
 
+    instagram     : 'https://www.instagram.com/mirun.jellyfish.0128/',
     gplus         : 'https://plus.google.com/110200146300913549655',
     nanagogo      : 'https://7gogo.jp/aramaki-misaki',
+    twitter       : 'https://twitter.com/mirunrun_0128',
   },
 
   /* い */
@@ -80,6 +84,7 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ '4' ],
 
+    instagram     : 'https://www.instagram.com/biichan_/',
     gplus         : 'https://plus.google.com/103444419310947145740',
     nanagogo      : 'https://7gogo.jp/iino-miyabi',
     twitter       : 'https://twitter.com/miyabi_ichigo15',
@@ -100,6 +105,9 @@ var AKBG = {
     from          : '愛知県',
     office        : 'AKS',
     current_teams : [ '研究生（SKE48）' ],
+
+    instagram     : 'https://www.instagram.com/yuduyu1011/',
+    twitter       : 'https://twitter.com/yuzuki_ishiguro',
   },
   石田晴香
   : {
@@ -202,6 +210,8 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'S' ],
 
+    instagram     : 'https://www.instagram.com/isshikirena/',
+    twitter       : 'https://twitter.com/isshikirena0215',
   },
   井上由莉耶
   : {
@@ -330,6 +340,7 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'KII' ],
 
+    instagram     : 'https://www.instagram.com/ayamelody0817/',
     nanagogo      : 'https://7gogo.jp/DmrHUXKJYf7l',
     twitter       : 'https://twitter.com/Ayamelody0817',
   },
@@ -372,6 +383,8 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ '8' ],
 
+    instagram     : 'https://www.instagram.com/momo0920_official/',
+    nanagogo      : 'https://7gogo.jp/oonishi-momoka',
   },
   大森美優
   : {
@@ -455,6 +468,8 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ '8' ],
 
+    instagram     : 'https://www.instagram.com/beristagram_1107/',
+    nanagogo      : 'https://7gogo.jp/okabe-rin',
   },
   小栗有以
   : {
@@ -473,6 +488,8 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ '8' ],
 
+    instagram     : 'https://www.instagram.com/tokyo8marron/',
+    nanagogo      : 'https://7gogo.jp/oguri-yui',
   },
   小畑優奈
   : {
@@ -491,6 +508,9 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'KII' ],
 
+    instagram     : 'https://www.instagram.com/yuna_obata48/',
+    nanagogo      : 'https://7gogo.jp/t4WWsq7ibYCO',
+    twitter       : 'https://twitter.com/yuna_obata48',
   },
 
   /* か */
@@ -1862,8 +1882,10 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'KIV' ],
 
+    instagram     : 'https://www.instagram.com/madokamera_48/',
     gplus         : 'https://plus.google.com/107858117023519021548',
     nanagogo      : 'https://7gogo.jp/moriyasu-madoka',
+    twitter       : 'https://twitter.com/madoka_726_hkt',
   },
 
   /* や */
