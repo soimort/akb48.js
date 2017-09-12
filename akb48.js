@@ -1269,6 +1269,7 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/108158383330906277526',
     nanagogo      : 'https://7gogo.jp/tanaka-miku',
+    twitter       : 'https://twitter.com/miku_monmon3939',
   },
   田中優香
   : {
