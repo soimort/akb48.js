@@ -581,6 +581,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kamata-natsuki',
     twitter       : 'https://twitter.com/nacky_k829',
   },
+  上村亜柚香
+  : {
+    surname       : {
+      kanji       : '上村',
+      hiragana    : 'かみむら'
+    },
+    given_name    : {
+      kanji       : '亜柚香',
+      hiragana    : 'あゆか'
+    },
+    nickname      : 'あーちゃん',
+    date_of_birth : '2004-01-27',
+    blood_type    : 'A',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'S' ],
+
+    instagram     : 'https://www.instagram.com/kamimuraayuka/',
+    nanagogo      : 'https://7gogo.jp/8OGs42_RBi8w',
+    twitter       : 'https://twitter.com/ayuka_k0127',
+  },
   川上礼奈
   : {
     surname       : {
