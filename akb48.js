@@ -2034,6 +2034,29 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yabushita-syu',
     twitter       : 'https://twitter.com/shu__1202',
   },
+  山内鈴蘭
+  : {
+    surname       : {
+      kanji       : '山内',
+      hiragana    : 'やまうち'
+    },
+    given_name    : {
+      kanji       : '鈴蘭',
+      hiragana    : 'すずらん'
+    },
+    nickname      : 'らんらん',
+    date_of_birth : '1994-12-08',
+    blood_type    : 'O',
+    from          : '千葉県',
+    office        : 'ホリプロ',
+    current_teams : [ 'S' ],
+
+    blog          : 'https://lineblog.me/yamauchi_suzuran/',
+    gplus         : 'https://plus.google.com/101637952441360556747',
+    instagram     : 'https://www.instagram.com/xxsuzuranxx/',
+    nanagogo      : 'https://7gogo.jp/yamauchi-suzuran',
+    twitter       : 'https://twitter.com/suzuranchan1208',
+  },
   山下エミリー
   : {
     surname       : {
