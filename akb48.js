@@ -682,7 +682,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '愛知県',
     office        : 'AKS',
-    current_teams : [ 'B' ],
+    current_teams : [ ],
 
     gplus         : 'https://plus.google.com/111001986183198441065',
     instagram     : 'https://www.instagram.com/yuria_kizaki211/',
