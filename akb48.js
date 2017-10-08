@@ -551,7 +551,7 @@ var AKBG = {
     date_of_birth : '1997-07-10',
     blood_type    : 'B',
     from          : '千葉県',
-    office        : 'AKS',
+    office        : 'Mama&Son',
     current_teams : [ 'B' ],
 
     gplus         : 'https://plus.google.com/112984877710421269938',
@@ -1811,7 +1811,7 @@ var AKBG = {
     date_of_birth : '1998-01-29',
     blood_type    : 'O',
     from          : '埼玉県',
-    office        : 'AKS',
+    office        : 'Mama&Son',
     current_teams : [ 'K' ],
 
     gplus         : 'https://plus.google.com/104815465208323574550',
