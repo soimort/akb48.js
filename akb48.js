@@ -754,6 +754,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kumazaki-haruka',
     twitter       : 'https://twitter.com/kumachan9810',
   },
+  栗原紗英
+  : {
+    surname       : {
+      kanji       : '栗原',
+      hiragana    : 'くりはら'
+    },
+    given_name    : {
+      kanji       : '紗英',
+      hiragana    : 'さえ'
+    },
+    nickname      : 'さえちゃん',
+    date_of_birth : '1996-06-20',
+    blood_type    : 'O',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'TII' ],
+
+    gplus         : 'https://plus.google.com/106880477295979333654',
+    instagram     : 'https://www.instagram.com/hkt48_saekurihara/',
+    nanagogo      : 'https://7gogo.jp/kurihara-sae',
+  },
 
   /* こ */
   神志那結衣
