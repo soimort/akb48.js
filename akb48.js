@@ -970,6 +970,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/sashihara-rino',
     twitter       : 'https://twitter.com/345__chan',
   },
+  佐藤佳穂
+  : {
+    surname       : {
+      kanji       : '佐藤',
+      hiragana    : 'さとう'
+    },
+    given_name    : {
+      kanji       : '佳穂',
+      hiragana    : 'かほ'
+    },
+    nickname      : 'さとかほ',
+    date_of_birth : '1997-05-16',
+    blood_type    : 'A',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'E' ],
+
+    twitter       : 'https://twitter.com/BCNOkaho',
+  },
 
   /* し */
   上西怜
