@@ -1010,6 +1010,25 @@ var AKBG = {
 
     twitter       : 'https://twitter.com/jonishi_rei',
   },
+  下尾みう
+  : {
+    surname       : {
+      kanji       : '下尾',
+      hiragana    : 'したお'
+    },
+    given_name    : {
+      hiragana    : 'みう'
+    },
+    nickname      : 'みう',
+    date_of_birth : '2001-04-03',
+    blood_type    : 'A',
+    from          : '山口県',
+    office        : 'AKS',
+    current_teams : [ '8' ],
+
+    instagram     : 'https://www.instagram.com/miumiu1343/',
+    nanagogo      : 'https://7gogo.jp/shitao-miu',
+  },
   篠崎彩奈
   : {
     surname       : {
