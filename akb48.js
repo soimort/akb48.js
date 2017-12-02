@@ -1304,8 +1304,9 @@ var AKBG = {
     blood_type    : '不明',
     from          : '神奈川県',
     office        : 'AKS',
-    current_teams : [ '研究生（HKT48）' ],
+    current_teams : [ 'TII' ],
 
+    nanagogo      : 'https://7gogo.jp/takeda-tomoka',
     twitter       : 'https://twitter.com/moka__0225',
   },
   田島芽瑠
@@ -1452,7 +1453,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '福岡県',
     office        : 'AKS',
-    current_teams : [ '研究生（HKT48）' ],
+    current_teams : [ 'TII' ],
 
     instagram     : 'http://www.instagram.com/am1026_official/',
     nanagogo      : 'https://7gogo.jp/tsukiashi-amane',
@@ -1475,7 +1476,7 @@ var AKBG = {
     blood_type    : 'B',
     from          : '福岡県',
     office        : 'AKS',
-    current_teams : [ '研究生（HKT48）' ],
+    current_teams : [ 'H' ],
 
     instagram     : 'https://www.instagram.com/aki_t_official/',
     nanagogo      : 'https://7gogo.jp/toyonaga-aki',
@@ -1804,7 +1805,7 @@ var AKBG = {
     blood_type    : 'AB',
     from          : '大阪府',
     office        : 'AKS',
-    current_teams : [ '研究生（HKT48）' ],
+    current_teams : [ 'TII' ],
 
     nanagogo      : 'https://7gogo.jp/matsumoto-hinata',
     twitter       : 'https://twitter.com/hinata__1211',
