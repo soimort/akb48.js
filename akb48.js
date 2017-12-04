@@ -1524,6 +1524,26 @@ var AKBG = {
 
     instagram     : 'https://www.instagram.com/rika___n24x/',
   },
+  中野郁海
+  : {
+    surname       : {
+      kanji       : '中野',
+      hiragana    : 'なかの'
+    },
+    given_name    : {
+      kanji       : '郁海',
+      hiragana    : 'いくみ'
+    },
+    nickname      : 'いくみん',
+    date_of_birth : '2000-08-20',
+    blood_type    : '不明',
+    from          : '鳥取県',
+    office        : 'AKS',
+    current_teams : [ '8' ],
+
+    instagram     : 'https://www.instagram.com/ikumin193_888/',
+    nanagogo      : 'https://7gogo.jp/nakano-ikumi',
+  },
 
   /* に */
   西澤瑠莉奈
