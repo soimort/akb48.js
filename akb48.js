@@ -2114,6 +2114,24 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yabushita-syu',
     twitter       : 'https://twitter.com/shu__1202',
   },
+  薮下楓
+  : {
+    surname       : {
+      kanji       : '薮下',
+      hiragana    : 'やぶした'
+    },
+    given_name    : {
+      kanji       : '楓',
+      hiragana    : 'ふう'
+    },
+    nickname      : 'ふう',
+    date_of_birth : '2000-10-07',
+    blood_type    : 'AB',
+    from          : '大阪府',
+    office        : 'AKS',
+    current_teams : [ 'STU48' ],
+
+  },
   山内鈴蘭
   : {
     surname       : {
