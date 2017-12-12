@@ -324,6 +324,25 @@ var AKBG = {
   },
 
   /* お */
+  大芝りんか
+  : {
+    surname       : {
+      kanji       : '大芝',
+      hiragana    : 'おおしば'
+    },
+    given_name    : {
+      hiragana    : 'りんか'
+    },
+    nickname      : 'りんか',
+    date_of_birth : '2001-10-29',
+    blood_type    : 'B',
+    from          : '埼玉県',
+    office        : 'AKS',
+    current_teams : [ '研究生（SKE48）' ],
+
+    instagram     : 'https://www.instagram.com/rinka_1029_ske48/',
+    twitter       : 'https://twitter.com/rinka1029_ske48',
+  },
   大島涼花
   : {
     surname       : {
