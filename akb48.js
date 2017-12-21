@@ -556,6 +556,25 @@ var AKBG = {
   },
 
   /* か */
+  加藤美南
+  : {
+    surname       : {
+      kanji       : '加藤',
+      hiragana    : 'かとう'
+    },
+    given_name    : {
+      kanji       : '美南',
+      hiragana    : 'みなみ'
+    },
+    nickname      : 'かとみな',
+    date_of_birth : '1999-01-15',
+    blood_type    : 'O',
+    from          : '新潟県',
+    office        : 'AKS',
+    current_teams : [ 'NIII' ],
+
+    instagram     : 'https://www.instagram.com/katominami_ngt48/',
+  },
   加藤玲奈
   : {
     surname       : {
