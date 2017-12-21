@@ -1631,6 +1631,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/5Etf1XbrE31v',
     twitter       : 'https://twitter.com/nojimakano_0906',
   },
+  野村実代
+  : {
+    surname       : {
+      kanji       : '野村',
+      hiragana    : 'のむら'
+    },
+    given_name    : {
+      kanji       : '実代',
+      hiragana    : 'みよ'
+    },
+    nickname      : 'みよまる',
+    date_of_birth : '2003-02-01',
+    blood_type    : 'A',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'S' ],
+
+    instagram     : 'https://www.instagram.com/miyomaruko_0201/',
+    twitter       : 'https://twitter.com/MIYOMARUKO',
+  },
 
   /* は */
   林萌々香
