@@ -1499,6 +1499,28 @@ var AKBG = {
   },
 
   /* と */
+  朝長美桜
+  : {
+    surname       : {
+      kanji       : '朝長',
+      hiragana    : 'ともなが'
+    },
+    given_name    : {
+      kanji       : '美桜',
+      hiragana    : 'みお'
+    },
+    nickname      : 'みお',
+    date_of_birth : '1998-05-17',
+    blood_type    : 'O',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'KIV' ],
+
+    gplus         : 'https://plus.google.com/113498563179644571221',
+    instagram     : 'https://www.instagram.com/miochan_0517/',
+    nanagogo      : 'https://7gogo.jp/tomonaga-mio',
+    twitter       : 'https://twitter.com/30_mio_0517',
+  },
   豊永阿紀
   : {
     surname       : {
