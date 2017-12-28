@@ -1784,6 +1784,29 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/fujie-reina',
     twitter       : 'https://twitter.com/nya_n017',
   },
+  藤田奈那
+  : {
+    surname       : {
+      kanji       : '藤田',
+      hiragana    : 'ふじた'
+    },
+    given_name    : {
+      kanji       : '奈那',
+      hiragana    : 'なな'
+    },
+    nickname      : 'なぁな',
+    date_of_birth : '1996-12-28',
+    blood_type    : 'A',
+    from          : '東京都',
+    office        : 'AKS',
+    current_teams : [ 'K' ],
+
+    blog          : 'https://ameblo.jp/nana-fujita/',
+    gplus         : 'https://plus.google.com/100063943132747828422',
+    instagram     : 'https://www.instagram.com/fujitanana_official/',
+    nanagogo      : 'https://7gogo.jp/fujita-nana',
+    twitter       : 'https://twitter.com/fujitanana_1228',
+  },
   二村春香
   : {
     surname       : {
