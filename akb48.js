@@ -985,6 +985,7 @@ var AKBG = {
 
     gplus         : 'https://plus.google.com/105835152133357364264',
     nanagogo      : 'https://7gogo.jp/sasaki-yukari',
+    twitter       : 'https://twitter.com/yukari__0828',
   },
   指原莉乃
   : {
@@ -1910,6 +1911,7 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'TII' ],
 
+    instagram     : 'https://www.instagram.com/hana_matsuoka_/',
     nanagogo      : 'https://7gogo.jp/matsuoka-hana',
     twitter       : 'https://twitter.com/M_Hana119',
   },
@@ -2191,6 +2193,7 @@ var AKBG = {
     current_teams : [ 'H' ],
 
     gplus         : 'https://plus.google.com/103577079977140124149',
+    instagram     : 'https://www.instagram.com/75_yabuki/',
     nanagogo      : 'https://7gogo.jp/yabuki-nako',
     twitter       : 'https://twitter.com/nako_yabuki_75',
   },
