@@ -1475,6 +1475,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/taniguchi-megu',
     twitter       : 'https://twitter.com/o_megu1112',
   },
+  田野優花
+  : {
+    surname       : {
+      kanji       : '田野',
+      hiragana    : 'たの'
+    },
+    given_name    : {
+      kanji       : '優花',
+      hiragana    : 'ゆか'
+    },
+    nickname      : 'たのちゃん',
+    date_of_birth : '1997-03-07',
+    blood_type    : 'O',
+    from          : '東京都',
+    office        : 'AKS',
+    current_teams : [ 'K' ],
+
+    gplus         : 'https://plus.google.com/115940285904755808895',
+    instagram     : 'https://www.instagram.com/tanoyuka_official/',
+    nanagogo      : 'https://7gogo.jp/tano-yuka',
+    twitter       : 'https://twitter.com/tanoyuka_0307',
+  },
 
   /* つ */
   月足天音
