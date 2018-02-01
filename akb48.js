@@ -1607,6 +1607,28 @@ var AKBG = {
 
     instagram     : 'https://www.instagram.com/rika___n24x/',
   },
+  永尾まりや
+  : {
+    surname       : {
+      kanji       : '永尾',
+      hiragana    : 'ながお'
+    },
+    given_name    : {
+      hiragana    : 'まりや',
+    },
+    nickname      : 'まりや',
+    date_of_birth : '1994-03-10',
+    blood_type    : 'O',
+    from          : '神奈川県',
+    office        : 'アービング',
+    current_teams : [ ],
+
+    blog          : 'https://ameblo.jp/nagao--mariya',
+    gplus         : 'https://plus.google.com/107953103521320651388',
+    instagram     : 'https://www.instagram.com/mariyagi_san/',
+    nanagogo      : 'https://7gogo.jp/nagao-mariya',
+    twitter       : 'https://twitter.com/mariyagiii310',
+  },
   中野郁海
   : {
     surname       : {
