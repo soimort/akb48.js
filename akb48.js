@@ -427,6 +427,7 @@ var AKBG = {
 
     instagram     : 'https://www.instagram.com/momo0920_official/',
     nanagogo      : 'https://7gogo.jp/oonishi-momoka',
+    twitter       : 'https://twitter.com/momo_0x0_920',
   },
   大森美優
   : {
@@ -512,6 +513,7 @@ var AKBG = {
 
     instagram     : 'https://www.instagram.com/beristagram_1107/',
     nanagogo      : 'https://7gogo.jp/okabe-rin',
+    twitter       : 'https://twitter.com/Berin_official',
   },
   小栗有以
   : {
@@ -532,6 +534,7 @@ var AKBG = {
 
     instagram     : 'https://www.instagram.com/tokyo8marron/',
     nanagogo      : 'https://7gogo.jp/oguri-yui',
+    twitter       : 'https://twitter.com/yuiyui_maromaro',
   },
   小畑優奈
   : {
@@ -1066,7 +1069,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '岩手県',
     office        : 'AKS',
-    current_teams : [ '8' ],
+    current_teams : [ '8', '4' ],
 
     instagram     : 'https://www.instagram.com/773_sevensea_satonanami/',
     nanagogo      : 'https://7gogo.jp/sato-nanami',
