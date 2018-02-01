@@ -749,6 +749,29 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kitagawa-ryoha',
     twitter       : 'https://twitter.com/ryoha_1009',
   },
+  北原里英
+  : {
+    surname       : {
+      kanji       : '北原',
+      hiragana    : 'きたはら'
+    },
+    given_name    : {
+      kanji       : '里英',
+      hiragana    : 'りえ'
+    },
+    nickname      : 'きたりえ',
+    date_of_birth : '1991-06-24',
+    blood_type    : 'A',
+    from          : '愛知県',
+    office        : '太田プロダクション',
+    current_teams : [ 'NIII' ],
+
+    blog          : 'https://ameblo.jp/kitahara-rie/',
+    gplus         : 'https://plus.google.com/114392080665434978357',
+    instagram     : 'https://www.instagram.com/rie_kitahara_3/',
+    nanagogo      : 'https://7gogo.jp/kitahara-rie',
+    twitter       : 'https://twitter.com/Rie_Kitahara3',
+  },
 
   /* く */
   久保怜音
