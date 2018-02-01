@@ -1051,6 +1051,26 @@ var AKBG = {
 
     twitter       : 'https://twitter.com/BCNOkaho',
   },
+  佐藤七海
+  : {
+    surname       : {
+      kanji       : '佐藤',
+      hiragana    : 'さとう'
+    },
+    given_name    : {
+      kanji       : '七海',
+      hiragana    : 'ななみ'
+    },
+    nickname      : 'ななみん',
+    date_of_birth : '2000-01-19',
+    blood_type    : 'A',
+    from          : '岩手県',
+    office        : 'AKS',
+    current_teams : [ '8' ],
+
+    instagram     : 'https://www.instagram.com/773_sevensea_satonanami/',
+    nanagogo      : 'https://7gogo.jp/sato-nanami',
+  },
 
   /* し */
   上西怜
