@@ -1544,6 +1544,29 @@ var AKBG = {
     twitter       : 'https://twitter.com/tanoyuka_0307',
   },
 
+  /* ち */
+  長久玲奈
+  : {
+    surname       : {
+      kanji       : '長',
+      hiragana    : 'ちょう'
+    },
+    given_name    : {
+      kanji       : '久玲奈',
+      hiragana    : 'くれな'
+    },
+    nickname      : 'くれな',
+    date_of_birth : '2000-05-11',
+    blood_type    : 'O',
+    from          : '福井県',
+    office        : 'AKS',
+    current_teams : [ '8', 'A' ],
+
+    instagram     : 'https://www.instagram.com/kurena_0511/',
+    nanagogo      : 'https://7gogo.jp/chou-kurena',
+    twitter       : 'https://twitter.com/__cho__kurena8',
+  },
+
   /* つ */
   月足天音
   : {
