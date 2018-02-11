@@ -1942,6 +1942,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/futamura-haruka',
     twitter       : 'https://twitter.com/harutamchan',
   },
+  福岡聖菜
+  : {
+    surname       : {
+      kanji       : '福岡',
+      hiragana    : 'ふくおか'
+    },
+    given_name    : {
+      kanji       : '聖菜',
+      hiragana    : 'せいな'
+    },
+    nickname      : 'せいちゃん',
+    date_of_birth : '2000-08-01',
+    blood_type    : 'O',
+    from          : '神奈川県',
+    office        : 'AKS',
+    current_teams : [ 'B' ],
+
+    gplus         : 'https://plus.google.com/100152011451294188233',
+    instagram     : 'https://www.instagram.com/seina___ff/',
+    nanagogo      : 'https://7gogo.jp/fukuoka-seina',
+    twitter       : 'https://twitter.com/seina_fuku48',
+  },
 
   /* ま */
   松井珠理奈
