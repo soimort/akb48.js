@@ -2442,6 +2442,25 @@ var AKBG = {
   },
 
   /* よ */
+  與儀ケイラ
+  : {
+    surname       : {
+      kanji       : '與儀',
+      hiragana    : 'よぎ'
+    },
+    given_name    : {
+      katakana    : 'ケイラ',
+      hiragana    : 'けいら'
+    },
+    nickname      : 'ケイラ',
+    date_of_birth : '1999-10-18',
+    blood_type    : 'O',
+    from          : '大阪府',
+    office        : '',
+    current_teams : [ ],
+
+    instagram     : 'https://www.instagram.com/keila___1018/',
+  },
   横島亜衿
   : {
     surname       : {
