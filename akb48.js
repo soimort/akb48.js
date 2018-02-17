@@ -1114,6 +1114,26 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/miumiu1343/',
     nanagogo      : 'https://7gogo.jp/shitao-miu',
   },
+  地頭江音々
+  : {
+    surname       : {
+      kanji       : '地頭江',
+      hiragana    : 'ぢとうえ'
+    },
+    given_name    : {
+      kanji       : '音々',
+      hiragana    : 'ねね'
+    },
+    nickname      : 'ねねちゃん',
+    date_of_birth : '2000-09-27',
+    blood_type    : '',
+    from          : '宮崎県',
+    office        : 'AKS',
+    current_teams : [ 'KIV' ],
+
+    nanagogo      : 'https://7gogo.jp/jitoue-nene',
+    twitter       : 'https://twitter.com/nenechan0927',
+  },
   篠崎彩奈
   : {
     surname       : {
