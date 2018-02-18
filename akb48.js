@@ -323,6 +323,28 @@ var AKBG = {
     twitter       : 'https://twitter.com/yahho_sahho',
   },
 
+  /* う */
+  運上弘菜
+  : {
+    surname       : {
+      kanji       : '運上',
+      hiragana    : 'うんじょう'
+    },
+    given_name    : {
+      kanji       : '弘菜',
+      hiragana    : 'ひろな'
+    },
+    nickname      : 'なっぴ',
+    date_of_birth : '1998-08-09',
+    blood_type    : 'B',
+    from          : '北海道',
+    office        : 'AKS',
+    current_teams : [ 'KIV' ],
+
+    nanagogo      : 'https://7gogo.jp/unjo-hirona',
+    twitter       : 'https://twitter.com/nappi_0809',
+  },
+
   /* お */
   大芝りんか
   : {
