@@ -2113,6 +2113,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/FSQYPICtu0kq',
     twitter       : 'https://twitter.com/airiSKE48_0921',
   },
+  宮島亜弥
+  : {
+    surname       : {
+      kanji       : '宮島',
+      hiragana    : 'みやじま'
+    },
+    given_name    : {
+      kanji       : '亜弥',
+      hiragana    : 'あや'
+    },
+    nickname      : 'あやにゃん',
+    date_of_birth : '1997-11-27',
+    blood_type    : 'O',
+    from          : '新潟県',
+    office        : 'AKS',
+    current_teams : [ '研究生（NGT48）' ],
+
+    instagram     : 'https://www.instagram.com/aya_nyan_san/',
+  },
   宮脇咲良
   : {
     surname       : {
