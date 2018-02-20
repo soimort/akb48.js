@@ -1760,6 +1760,25 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/ikumin193_888/',
     nanagogo      : 'https://7gogo.jp/nakano-ikumi',
   },
+  奈良未遥
+  : {
+    surname       : {
+      kanji       : '奈良',
+      hiragana    : 'なら'
+    },
+    given_name    : {
+      kanji       : '未遥',
+      hiragana    : 'みはる'
+    },
+    nickname      : 'みはちゃん',
+    date_of_birth : '1998-03-20',
+    blood_type    : 'A',
+    from          : '青森県',
+    office        : 'AKS',
+    current_teams : [ '研究生（NGT48）' ],
+
+    instagram     : 'https://www.instagram.com/mihapiyo._.48/',
+  },
 
   /* に */
   西澤瑠莉奈
