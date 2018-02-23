@@ -1,0 +1,23 @@
+
+{
+  "name": "akb48",
+  "version": "1.0.0",
+  "description": "AKB48 member profiles as a JavaScript library",
+  "main": "akb48.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soimort/akb48.js.git"
+  },
+  "keywords": [
+    "akb48"
+  ],
+  "author": "soimort",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/soimort/akb48.js/issues"
+  },
+  "homepage": "https://github.com/soimort/akb48.js#readme"
+}
