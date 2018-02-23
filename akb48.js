@@ -1542,6 +1542,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/tanigawa-airi',
     twitter       : 'https://twitter.com/_airi_tanigawa',
   },
+  谷川聖
+  : {
+    surname       : {
+      kanji       : '谷川',
+      hiragana    : 'たにかわ'
+    },
+    given_name    : {
+      kanji       : '聖',
+      hiragana    : 'ひじり'
+    },
+    nickname      : 'ひじりん',
+    date_of_birth : '2000-12-26',
+    blood_type    : 'A',
+    from          : '秋田県',
+    office        : 'AKS',
+    current_teams : [ '8', 'A' ],
+
+    instagram     : 'https://www.instagram.com/tani1212_/',
+    nanagogo      : 'https://7gogo.jp/tanikawa-hijiri',
+    twitter       : 'https://twitter.com/_12chan_',
+  },
   谷口めぐ
   : {
     surname       : {
