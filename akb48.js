@@ -817,6 +817,7 @@ var AKBG = {
     current_teams : [ 'B' ],
 
     nanagogo      : 'https://7gogo.jp/kubo-satone',
+    twitter       : 'https://twitter.com/AKB48K5',
   },
   熊崎晴香
   : {
