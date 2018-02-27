@@ -841,6 +841,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kumazaki-haruka',
     twitter       : 'https://twitter.com/kumachan9810',
   },
+  倉野尾成美
+  : {
+    surname       : {
+      kanji       : '倉野尾',
+      hiragana    : 'くらのお'
+    },
+    given_name    : {
+      kanji       : '成美',
+      hiragana    : 'なるみ'
+    },
+    nickname      : 'なる',
+    date_of_birth : '2000-11-08',
+    blood_type    : 'A',
+    from          : '熊本県',
+    office        : 'AKS',
+    current_teams : [ '8', 'K' ],
+
+    instagram     : 'https://www.instagram.com/noochan_1108/',
+    nanagogo      : 'https://7gogo.jp/kuranoo-narumi',
+  },
   栗原紗英
   : {
     surname       : {
