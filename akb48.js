@@ -1514,10 +1514,11 @@ var AKBG = {
     date_of_birth : '2000-06-07',
     blood_type    : 'AB',
     from          : '福岡県',
-    office        : 'AKS',
-    current_teams : [ 'KIV' ],
+    office        : '',
+    current_teams : [ ],
 
     gplus         : 'https://plus.google.com/112303747535405730870',
+    nanagogo      : 'https://7gogo.jp/E2bR-0GyClkk',
   },
   谷真理佳
   : {
