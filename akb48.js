@@ -2001,6 +2001,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/hirata-rina',
     twitter       : 'https://twitter.com/hirari_official',
   },
+  樋渡結依
+  : {
+    surname       : {
+      kanji       : '樋渡',
+      hiragana    : 'ひわたし'
+    },
+    given_name    : {
+      kanji       : '結依',
+      hiragana    : 'ゆい'
+    },
+    nickname      : 'ひーわたん',
+    date_of_birth : '2000-04-30',
+    blood_type    : 'A',
+    from          : '埼玉県',
+    office        : 'AKS',
+    current_teams : [ 'A' ],
+
+    twitter       : 'https://twitter.com/yui_hiwata430',
+  },
 
   /* ふ */
   藤江れいな
