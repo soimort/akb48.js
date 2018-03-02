@@ -1653,6 +1653,26 @@ var AKBG = {
   },
 
   /* ち */
+  千葉恵里
+  : {
+    surname       : {
+      kanji       : '千葉',
+      hiragana    : 'ちば'
+    },
+    given_name    : {
+      kanji       : '恵里',
+      hiragana    : 'えりい'
+    },
+    nickname      : 'えりい',
+    date_of_birth : '2003-10-27',
+    blood_type    : '不明',
+    from          : '神奈川県',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    nanagogo      : 'https://7gogo.jp/chiba-erii',
+    twitter       : 'https://twitter.com/erii_20031027',
+  },
   長久玲奈
   : {
     surname       : {
