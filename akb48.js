@@ -1098,6 +1098,28 @@ var AKBG = {
 
     twitter       : 'https://twitter.com/BCNOkaho',
   },
+  佐藤妃星
+  : {
+    surname       : {
+      kanji       : '佐藤',
+      hiragana    : 'さとう'
+    },
+    given_name    : {
+      kanji       : '妃星',
+      hiragana    : 'きあら'
+    },
+    nickname      : 'きぃちゃん',
+    date_of_birth : '2000-08-11',
+    blood_type    : 'B',
+    from          : '千葉県',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    blog          : 'http://ameblo.jp/kiara-sato',
+    gplus         : 'https://plus.google.com/+佐藤妃星',
+    nanagogo      : 'https://7gogo.jp/sato_kiara',
+    twitter       : 'https://twitter.com/ki_cyaco48',
+  },
   佐藤七海
   : {
     surname       : {
