@@ -1718,6 +1718,29 @@ var AKBG = {
     twitter       : 'https://twitter.com/am1026_official',
   },
 
+  /* て */
+  寺田美咲
+  : {
+    surname       : {
+      kanji       : '寺田',
+      hiragana    : 'てらだ'
+    },
+    given_name    : {
+      kanji       : '美咲',
+      hiragana    : 'みさき'
+    },
+    nickname      : 'みさっきー',
+    date_of_birth : '1999-12-28',
+    blood_type    : 'A',
+    from          : '長崎県',
+    office        : 'AKS',
+    current_teams : [ '8' ],
+
+    instagram     : 'https://www.instagram.com/8misakki1228/',
+    nanagogo      : 'https://7gogo.jp/terada-misaki',
+    twitter       : 'https://twitter.com/misakki_team8',
+  },
+
   /* と */
   朝長美桜
   : {
