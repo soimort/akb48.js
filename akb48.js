@@ -881,6 +881,7 @@ var AKBG = {
     gplus         : 'https://plus.google.com/106880477295979333654',
     instagram     : 'https://www.instagram.com/hkt48_saekurihara/',
     nanagogo      : 'https://7gogo.jp/kurihara-sae',
+    twitter       : 'https://twitter.com/38sae_kurihara',
   },
 
   /* こ */
