@@ -1783,6 +1783,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/nagao-mariya',
     twitter       : 'https://twitter.com/mariyagiii310',
   },
+  中西智代梨
+  : {
+    surname       : {
+      kanji       : '中西',
+      hiragana    : 'なかにし'
+    },
+    given_name    : {
+      kanji       : '智代梨',
+      hiragana    : 'ちより'
+    },
+    nickname      : 'ちょり',
+    date_of_birth : '1995-05-12',
+    blood_type    : 'O',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'A' ],
+
+    gplus         : 'https://plus.google.com/105015705151101532017',
+    instagram     : 'https://www.instagram.com/sukiyaki_daisuki512/',
+    nanagogo      : 'https://7gogo.jp/nakanishi-chiyori',
+    twitter       : 'https://twitter.com/chiyori_n512',
+  },
   中野郁海
   : {
     surname       : {
