@@ -2177,6 +2177,28 @@ var AKBG = {
   },
 
   /* ま */
+  松井咲子
+  : {
+    surname       : {
+      kanji       : '松井',
+      hiragana    : 'まつい'
+    },
+    given_name    : {
+      kanji       : '咲子',
+      hiragana    : 'さきこ'
+    },
+    nickname      : 'さきこ',
+    date_of_birth : '1990-12-10',
+    blood_type    : 'O',
+    from          : '埼玉県',
+    office        : 'サムデイ',
+    current_teams : [ ],
+
+    blog          : 'http://ameblo.jp/sakikomatsui1210/',
+    gplus         : 'https://plus.google.com/111700319553120354024',
+    instagram     : 'https://www.instagram.com/sakiko___official/',
+    twitter       : 'https://twitter.com/skc1210',
+  },
   松井珠理奈
   : {
     surname       : {
