@@ -324,6 +324,28 @@ var AKBG = {
   },
 
   /* う */
+  植木南央
+  : {
+    surname       : {
+      kanji       : '植木',
+      hiragana    : 'うえき'
+    },
+    given_name    : {
+      kanji       : '南央',
+      hiragana    : 'なお'
+    },
+    nickname      : 'なお',
+    date_of_birth : '1997-08-12',
+    blood_type    : 'AB',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'KIV' ],
+
+    gplus         : 'https://plus.google.com/107850647144188324652',
+    instagram     : 'https://www.instagram.com/70_naoueki/',
+    nanagogo      : 'https://7gogo.jp/ueki-nao',
+    twitter       : 'https://twitter.com/70_naoueki',
+  },
   運上弘菜
   : {
     surname       : {
