@@ -1201,6 +1201,7 @@ var AKBG = {
 
     instagram     : 'https://www.instagram.com/miumiu1343/',
     nanagogo      : 'https://7gogo.jp/shitao-miu',
+    twitter       : 'https://twitter.com/miumiu_0403',
   },
   地頭江音々
   : {
