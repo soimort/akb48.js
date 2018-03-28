@@ -925,6 +925,7 @@ var AKBG = {
     current_teams : [ 'H' ],
 
     gplus         : 'https://plus.google.com/108854773205091274205',
+    instagram     : 'https://www.instagram.com/jiina27/',
     nanagogo      : 'https://7gogo.jp/kojina-yui',
     twitter       : 'https://twitter.com/kojinayui0124',
   },
