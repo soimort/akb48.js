@@ -1419,6 +1419,27 @@ var AKBG = {
     twitter       : 'https://twitter.com/riripon48',
   },
 
+  /* せ */
+  清司麗菜
+  : {
+    surname       : {
+      kanji       : '清司',
+      hiragana    : 'せいじ'
+    },
+    given_name    : {
+      kanji       : '麗菜',
+      hiragana    : 'れいな'
+    },
+    nickname      : 'れいにゃー',
+    date_of_birth : '2001-04-19',
+    blood_type    : 'O',
+    from          : '埼玉県',
+    office        : 'AKS',
+    current_teams : [ '研究生（NGT48）' ],
+
+    instagram     : 'https://www.instagram.com/seiji_0007/',
+  },
+
   /* た */
   高井つき奈
   : {
