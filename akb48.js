@@ -1077,6 +1077,7 @@ var AKBG = {
     current_teams : [ 'B' ],
 
     gplus         : 'https://plus.google.com/105835152133357364264',
+    instagram     : 'https://www.instagram.com/yuka_mocha_roll/',
     nanagogo      : 'https://7gogo.jp/sasaki-yukari',
     twitter       : 'https://twitter.com/yukari__0828',
   },
