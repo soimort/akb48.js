@@ -559,6 +559,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/okabe-rin',
     twitter       : 'https://twitter.com/Berin_official',
   },
+  荻野由佳
+  : {
+    surname       : {
+      kanji       : '荻野',
+      hiragana    : 'おぎの'
+    },
+    given_name    : {
+      kanji       : '由佳',
+      hiragana    : 'ゆか'
+    },
+    nickname      : 'おぎゆか',
+    date_of_birth : '1999-02-16',
+    blood_type    : 'A',
+    from          : '埼玉県',
+    office        : 'ホリプロ',
+    current_teams : [ 'NIII' ],
+
+    instagram     : 'https://www.instagram.com/ogiyuka_ippaiwarae216/',
+    twitter       : 'https://twitter.com/yuka_ippaiwarae',
+  },
   小栗有以
   : {
     surname       : {
