@@ -2242,6 +2242,25 @@ var AKBG = {
     twitter       : 'https://twitter.com/seina_fuku48',
   },
 
+  /* ほ */
+  本田柚萱
+  : {
+    surname       : {
+      kanji       : '本田',
+      hiragana    : 'ほんだ'
+    },
+    given_name    : {
+      kanji       : '柚萱',
+      hiragana    : 'ゆずか'
+    },
+    nickname      : 'ゆず',
+    date_of_birth : '2006-03-15',
+    blood_type    : '',
+    from          : '台湾 新竹市',
+    office        : 'TPE Entertainment',
+    current_teams : [ 'TPE48' ],
+  },
+
   /* ま */
   松井咲子
   : {
