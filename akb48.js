@@ -346,6 +346,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/ueki-nao',
     twitter       : 'https://twitter.com/70_naoueki',
   },
+  歌田初夏
+  : {
+    surname       : {
+      kanji       : '歌田',
+      hiragana    : 'うただ'
+    },
+    given_name    : {
+      kanji       : '初夏',
+      hiragana    : 'はつか'
+    },
+    nickname      : 'はっつ',
+    date_of_birth : '2002-07-08',
+    blood_type    : 'A',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ '8', '4' ],
+
+    instagram     : 'https://www.instagram.com/utahatsu78/',
+    nanagogo      : 'https://7gogo.jp/utada-hatsuka',
+    twitter       : 'https://twitter.com/hatsu_akb',
+  },
   運上弘菜
   : {
     surname       : {
