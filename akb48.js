@@ -2406,6 +2406,7 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'TII' ],
 
+    instagram     : 'https://www.instagram.com/matsumoto_hinata/',
     nanagogo      : 'https://7gogo.jp/matsumoto-hinata',
     twitter       : 'https://twitter.com/hinata__1211',
   },
