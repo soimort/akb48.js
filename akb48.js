@@ -2715,6 +2715,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yagura-fuuko',
     twitter       : 'https://twitter.com/ICECREAMFUKO',
   },
+  矢作有紀奈
+  : {
+    surname       : {
+      kanji       : '矢作',
+      hiragana    : 'やはぎ'
+    },
+    given_name    : {
+      kanji       : '有紀奈',
+      hiragana    : 'ゆきな'
+    },
+    nickname      : 'きな',
+    date_of_birth : '1995-03-13',
+    blood_type    : 'B',
+    from          : '埼玉県',
+    office        : 'AKS',
+    current_teams : [ 'KII' ],
+
+    twitter       : 'https://twitter.com/dental_ske48',
+  },
   矢吹奈子
   : {
     surname       : {
