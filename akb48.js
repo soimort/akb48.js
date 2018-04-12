@@ -128,6 +128,7 @@ var AKBG = {
 
     blog          : 'http://lineblog.me/ishida_haruka/',
     gplus         : 'https://plus.google.com/101026469701528255144',
+    instagram     : 'https://www.instagram.com/can1202can/',
     twitter       : 'https://twitter.com/can2525can',
   },
   石塚朱莉
@@ -1161,6 +1162,7 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ 'E' ],
 
+    instagram     : 'https://www.instagram.com/biosato_3/',
     twitter       : 'https://twitter.com/BCNOkaho',
   },
   佐藤妃星
