@@ -347,6 +347,29 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/ueki-nao',
     twitter       : 'https://twitter.com/70_naoueki',
   },
+  植村梓
+  : {
+    surname       : {
+      kanji       : '植村',
+      hiragana    : 'うえむら'
+    },
+    given_name    : {
+      kanji       : '梓',
+      hiragana    : 'あずさ'
+    },
+    nickname      : 'あずさ',
+    date_of_birth : '1999-02-04',
+    blood_type    : 'O',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    blog          : 'http://ameblo.jp/nmb48/theme-10089279306.html',
+    gplus         : 'https://plus.google.com/104439643812463829576',
+    instagram     : 'https://www.instagram.com/nyanazu_o2o4/',
+    nanagogo      : 'https://7gogo.jp/uemura-azusa',
+    twitter       : 'https://twitter.com/o2o4__azusa',
+  },
   歌田初夏
   : {
     surname       : {
