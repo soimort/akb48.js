@@ -2624,6 +2624,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/motomura-aoi',
     twitter       : 'https://twitter.com/aoi_m_531',
   },
+  森あんな
+  : {
+    surname       : {
+      kanji       : '森',
+      hiragana    : 'もり'
+    },
+    given_name    : {
+      kanji       : '杏奈',
+      hiragana    : 'あんな'
+    },
+    nickname      : 'なんちゃん',
+    date_of_birth : '1994-03-21',
+    blood_type    : 'O',
+    from          : '千葉県',
+    office        : 'フレオ',
+    current_teams : [ ],
+
+    blog          : 'http://lineblog.me/morianna/',
+    instagram     : 'https://www.instagram.com/_morianna/',
+    twitter       : 'https://twitter.com/_morianna',
+  },
   森保まどか
   : {
     surname       : {
