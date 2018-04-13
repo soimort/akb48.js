@@ -1502,7 +1502,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '埼玉県',
     office        : 'AKS',
-    current_teams : [ '研究生（NGT48）' ],
+    current_teams : [ 'NIII' ],
 
     instagram     : 'https://www.instagram.com/seiji_0007/',
   },
@@ -2018,7 +2018,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '青森県',
     office        : 'AKS',
-    current_teams : [ '研究生（NGT48）' ],
+    current_teams : [ 'G' ],
 
     instagram     : 'https://www.instagram.com/mihapiyo._.48/',
   },
@@ -2473,7 +2473,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '新潟県',
     office        : 'AKS',
-    current_teams : [ '研究生（NGT48）' ],
+    current_teams : [ 'NIII' ],
 
     instagram     : 'https://www.instagram.com/aya_nyan_san/',
   },
