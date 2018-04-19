@@ -412,6 +412,30 @@ var AKBG = {
     twitter       : 'https://twitter.com/nappi_0809',
   },
 
+  /* え */
+  江籠裕奈
+  : {
+    surname       : {
+      kanji       : '江籠',
+      hiragana    : 'えご'
+    },
+    given_name    : {
+      kanji       : '裕奈',
+      hiragana    : 'ゆうな'
+    },
+    nickname      : 'えごちゃん',
+    date_of_birth : '2000-03-29',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'KII' ],
+
+    gplus         : 'https://plus.google.com/107626904264065248069',
+    instagram     : 'https://www.instagram.com/egochan_329/',
+    nanagogo      : 'https://7gogo.jp/ego-yuna',
+    twitter       : 'https://twitter.com/egoyuna_329',
+  },
+
   /* お */
   大芝りんか
   : {
