@@ -2330,6 +2330,25 @@ var AKBG = {
     office        : 'TPE Entertainment',
     current_teams : [ 'TPE48' ],
   },
+  本間日陽
+  : {
+    surname       : {
+      kanji       : '本間',
+      hiragana    : 'ほんま'
+    },
+    given_name    : {
+      kanji       : '日陽',
+      hiragana    : 'ひなた'
+    },
+    nickname      : 'ひなたん',
+    date_of_birth : '1999-11-10',
+    blood_type    : 'B',
+    from          : '新潟県',
+    office        : 'AKS',
+    current_teams : [ 'NIII' ],
+
+    instagram     : 'https://www.instagram.com/hinata_homma1110/',
+  },
 
   /* ま */
   松井咲子
