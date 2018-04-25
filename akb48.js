@@ -2027,6 +2027,27 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/ikumin193_888/',
     nanagogo      : 'https://7gogo.jp/nakano-ikumi',
   },
+  永野芹佳
+  : {
+    surname       : {
+      kanji       : '永野',
+      hiragana    : 'ながの'
+    },
+    given_name    : {
+      kanji       : '芹佳',
+      hiragana    : 'せりか'
+    },
+    nickname      : 'SERIKA',
+    date_of_birth : '2001-03-27',
+    blood_type    : 'O',
+    from          : '大阪府',
+    office        : 'AKS',
+    current_teams : [ '8', '4' ],
+
+    instagram     : 'https://www.instagram.com/iroziro_serika/',
+    nanagogo      : 'https://7gogo.jp/nagano-serika',
+    twitter       : 'https://twitter.com/akb48serika',
+  },
   奈良未遥
   : {
     surname       : {
