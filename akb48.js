@@ -692,6 +692,29 @@ var AKBG = {
   },
 
   /* か */
+  柏木由紀
+  : {
+    surname       : {
+      kanji       : '柏木',
+      hiragana    : 'かしわぎ'
+    },
+    given_name    : {
+      kanji       : '由紀',
+      hiragana    : 'ゆき'
+    },
+    nickname      : 'ゆきりん',
+    date_of_birth : '1991-07-15',
+    blood_type    : 'B',
+    from          : '鹿児島県',
+    office        : 'ワタナベエンターテインメント',
+    current_teams : [ 'B', 'NIII' ],
+
+    blog          : 'http://ameblo.jp/yuki-kashiwagi-we/',
+    gplus         : 'https://plus.google.com/109547251260290757268',
+    instagram     : 'https://www.instagram.com/yukikashiwagi_official/',
+    nanagogo      : 'https://7gogo.jp/kashiwagi-yuki',
+    twitter       : 'https://twitter.com/Yukiriiiin__K',
+  },
   加藤美南
   : {
     surname       : {
