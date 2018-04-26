@@ -81,8 +81,8 @@ var AKBG = {
     date_of_birth : '1997-09-29',
     blood_type    : 'B',
     from          : '東京都',
-    office        : 'AKS',
-    current_teams : [ '4' ],
+    office        : '',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/biichan_/',
     gplus         : 'https://plus.google.com/103444419310947145740',
@@ -2410,7 +2410,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '埼玉県',
     office        : 'サムデイ',
-    current_teams : [ ],
+    current_teams : [],
 
     blog          : 'http://ameblo.jp/sakikomatsui1210/',
     gplus         : 'https://plus.google.com/111700319553120354024',
@@ -2751,7 +2751,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '千葉県',
     office        : 'フレオ',
-    current_teams : [ ],
+    current_teams : [],
 
     blog          : 'http://lineblog.me/morianna/',
     instagram     : 'https://www.instagram.com/_morianna/',
@@ -2795,7 +2795,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '大阪府',
     office        : 'KYORAKU吉本.ホールディングス',
-    current_teams : [ 'M' ],
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/110515811233847190239',
     instagram     : 'https://www.instagram.com/fufu_ice/',
@@ -2943,8 +2943,8 @@ var AKBG = {
     date_of_birth : '1995-03-24',
     blood_type    : 'B',
     from          : '福岡県',
-    office        : 'AKS',
-    current_teams : [ 'H' ],
+    office        : 'クロコダイル',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/104003652269738791415',
     instagram     : 'http://www.instagram.com/marina.yamada_324/',
@@ -2968,7 +2968,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '大阪府',
     office        : '',
-    current_teams : [ ],
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/keila___1018/',
   },
