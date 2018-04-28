@@ -451,7 +451,7 @@ var AKBG = {
     blood_type    : 'B',
     from          : '埼玉県',
     office        : 'AKS',
-    current_teams : [ '研究生（SKE48）' ],
+    current_teams : [ 'KII' ],
 
     instagram     : 'https://www.instagram.com/rinka_1029_ske48/',
     twitter       : 'https://twitter.com/rinka1029_ske48',
