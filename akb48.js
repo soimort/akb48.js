@@ -2355,6 +2355,29 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/fukuoka-seina',
     twitter       : 'https://twitter.com/seina_fuku48',
   },
+  古畑奈和
+  : {
+    surname       : {
+      kanji       : '古畑',
+      hiragana    : 'ふるはた'
+    },
+    given_name    : {
+      kanji       : '奈和',
+      hiragana    : 'なお'
+    },
+    nickname      : 'なお',
+    date_of_birth : '1996-09-15',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'AKS',
+    current_teams : [ 'KII' ],
+
+    blog          : 'http://www2.ske48.co.jp/blog_pc/detail/?writer=furuhata_nao',
+    gplus         : 'https://plus.google.com/104194696388777073954',
+    instagram     : 'https://www.instagram.com/nao_furuhata/',
+    nanagogo      : 'https://7gogo.jp/furuhata-nao',
+    twitter       : 'https://twitter.com/alto_nao',
+  },
 
   /* ほ */
   本田柚萱
