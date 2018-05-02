@@ -1985,6 +1985,7 @@ var AKBG = {
     current_teams : [ 'NIII' ],
 
     instagram     : 'https://www.instagram.com/rika___n24x/',
+    twitter       : 'https://twitter.com/rika_nakai823',
   },
   永尾まりや
   : {
