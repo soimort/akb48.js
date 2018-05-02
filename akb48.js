@@ -2203,6 +2203,27 @@ var AKBG = {
   },
 
   /* ひ */
+  肥川彩愛
+  : {
+    surname       : {
+      kanji       : '肥川',
+      hiragana    : 'ひかわ'
+    },
+    given_name    : {
+      kanji       : '彩愛',
+      hiragana    : 'あやめ'
+    },
+    nickname      : 'あやにゃん',
+    date_of_birth : '1994-11-08',
+    blood_type    : 'B',
+    from          : '兵庫県',
+    office        : 'イリア・モデルエージェンシー',
+    current_teams : [],
+
+    blog          : 'https://ameblo.jp/1108ayanyan',
+    instagram     : 'https://www.instagram.com/ayame_1108/',
+    twitter       : 'https://twitter.com/aym_aym113',
+  },
   日高優月
   : {
     surname       : {
