@@ -301,6 +301,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/iwata-karen',
     twitter       : 'https://twitter.com/karen0513_',
   },
+  岩田桃夏
+  : {
+    surname       : {
+      kanji       : '岩田',
+      hiragana    : 'いわた'
+    },
+    given_name    : {
+      kanji       : '桃夏',
+      hiragana    : 'ももか'
+    },
+    nickname      : 'ももるん',
+    date_of_birth : '2001-07-02',
+    blood_type    : 'O',
+    from          : '京都府',
+    office        : 'Showtitle',
+    current_teams : [ 'M' ],
+
+    blog          : 'https://ameblo.jp/nmb48/theme-10099359296.html',
+    twitter       : 'https://twitter.com/momorun_runrun',
+  },
   岩立沙穂
   : {
     surname       : {
