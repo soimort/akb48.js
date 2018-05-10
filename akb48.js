@@ -2460,6 +2460,28 @@ var AKBG = {
   },
 
   /* ま */
+  馬嘉伶
+  : {
+    surname       : {
+      kanji       : '馬',
+      katakana    : 'マ',
+      hiragana    : 'ま'
+    },
+    given_name    : {
+      kanji       : '嘉伶',
+      katakana    : 'チャリン',
+      hiragana    : 'ちゃりん'
+    },
+    nickname      : 'まちゃりん',
+    date_of_birth : '1996-12-21',
+    blood_type    : 'A',
+    from          : '台湾 台中市',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    instagram     : 'https://www.instagram.com/macyacyarin/',
+    twitter       : 'https://twitter.com/macyacyarin',
+  },
   松井咲子
   : {
     surname       : {
