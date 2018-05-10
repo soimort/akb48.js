@@ -2610,6 +2610,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/FSQYPICtu0kq',
     twitter       : 'https://twitter.com/airiSKE48_0921',
   },
+  峯岸みなみ
+  : {
+    surname       : {
+      kanji       : '峯岸',
+      hiragana    : 'みねぎし'
+    },
+    given_name    : {
+      hiragana    : 'みなみ'
+    },
+    nickname      : 'みぃちゃん',
+    date_of_birth : '1992-11-15',
+    blood_type    : 'B',
+    from          : '東京都',
+    office        : 'プロダクション尾木',
+    current_teams : [ 'K' ],
+
+    gplus         : 'https://plus.google.com/113175170244847276511',
+    instagram     : 'https://www.instagram.com/minegishi_31chan/',
+    nanagogo      : 'https://7gogo.jp/minegishi-minami',
+    twitter       : 'https://twitter.com/chan__31',
+  },
   宮島亜弥
   : {
     surname       : {
