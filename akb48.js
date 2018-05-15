@@ -1296,6 +1296,7 @@ var AKBG = {
 
     instagram     : 'https://www.instagram.com/773_sevensea_satonanami/',
     nanagogo      : 'https://7gogo.jp/sato-nanami',
+    twitter       : 'https://twitter.com/Nanami0119Love8',
   },
 
   /* し */
