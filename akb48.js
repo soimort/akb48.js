@@ -3038,6 +3038,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yamashita-emili',
     twitter       : 'https://twitter.com/emiri_hkt48_T2',
   },
+  山田菜々美
+  : {
+    surname       : {
+      kanji       : '山田',
+      hiragana    : 'やまだ'
+    },
+    given_name    : {
+      kanji       : '菜々美',
+      hiragana    : 'ななみ'
+    },
+    nickname      : '山田',
+    date_of_birth : '1999-02-09',
+    blood_type    : 'B',
+    from          : '兵庫県',
+    office        : 'AKS',
+    current_teams : [ '8', 'A' ],
+
+    instagram     : 'https://www.instagram.com/team8yamada0209/',
+    nanagogo      : 'https://7gogo.jp/yamada-nanami',
+    twitter       : 'https://twitter.com/pipipi_yamada',
+  },
   山田麻莉奈
   : {
     surname       : {
