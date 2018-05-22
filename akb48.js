@@ -2202,6 +2202,27 @@ var AKBG = {
   },
 
   /* は */
+  服部有菜
+  : {
+    surname       : {
+      kanji       : '服部',
+      hiragana    : 'はっとり'
+    },
+    given_name    : {
+      kanji       : '有菜',
+      hiragana    : 'ゆうな'
+    },
+    nickname      : 'ゆうな',
+    date_of_birth : '2001-03-30',
+    blood_type    : 'A',
+    from          : '岐阜県',
+    office        : 'AKS',
+    current_teams : [ '8', 'B' ],
+
+    instagram     : 'https://www.instagram.com/yuna__0330.48/',
+    nanagogo      : 'https://7gogo.jp/hattori-yuuna',
+    twitter       : 'https://twitter.com/__03yuna30',
+  },
   林萌々香
   : {
     surname       : {
