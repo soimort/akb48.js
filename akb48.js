@@ -1422,6 +1422,27 @@ var AKBG = {
 
     twitter       : 'https://twitter.com/paruruchan0330',
   },
+  下青木香鈴
+  : {
+    surname       : {
+      kanji       : '下青木',
+      hiragana    : 'しもあおき'
+    },
+    given_name    : {
+      kanji       : '香鈴',
+      hiragana    : 'かりん'
+    },
+    nickname      : 'かりん',
+    date_of_birth : '2000-10-28',
+    blood_type    : 'A',
+    from          : '鹿児島県',
+    office        : 'AKS',
+    current_teams : [ '8', 'A' ],
+
+    instagram     : 'https://www.instagram.com/sekashimo1028/',
+    nanagogo      : 'https://7gogo.jp/shimoaoki-karin',
+    twitter       : 'https://twitter.com/shimoaoki_karin',
+  },
   白井琴望
   : {
     surname       : {
