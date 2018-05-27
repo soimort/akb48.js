@@ -1170,6 +1170,27 @@ var AKBG = {
   },
 
   /* さ */
+  坂口渚沙
+  : {
+    surname       : {
+      kanji       : '坂口',
+      hiragana    : 'さかぐち'
+    },
+    given_name    : {
+      kanji       : '渚沙',
+      hiragana    : 'なぎさ'
+    },
+    nickname      : 'なぎ',
+    date_of_birth : '2000-12-23',
+    blood_type    : 'A',
+    from          : '北海道',
+    office        : 'AKS',
+    current_teams : [ '8', 'B' ],
+
+    instagram     : 'https://www.instagram.com/nagisa_sakaguchi/',
+    nanagogo      : 'https://7gogo.jp/sakaguchi-nagisa',
+    twitter       : 'https://twitter.com/s_snowgirl_n',
+  },
   坂口理子
   : {
     surname       : {
@@ -2088,7 +2109,7 @@ var AKBG = {
     blood_type    : '不明',
     from          : '鳥取県',
     office        : 'AKS',
-    current_teams : [ 'K' ],
+    current_teams : [ '8', 'K' ],
 
     instagram     : 'https://www.instagram.com/ikumin193_888/',
     nanagogo      : 'https://7gogo.jp/nakano-ikumi',
