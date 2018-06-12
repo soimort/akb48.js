@@ -3079,6 +3079,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yamauchi-suzuran',
     twitter       : 'https://twitter.com/suzuranchan1208',
   },
+  山内瑞葵
+  : {
+    surname       : {
+      kanji       : '山内',
+      hiragana    : 'やまうち'
+    },
+    given_name    : {
+      kanji       : '瑞葵',
+      hiragana    : 'みずき'
+    },
+    nickname      : 'ずっきー',
+    date_of_birth : '2001-09-20',
+    blood_type    : 'O',
+    from          : '東京都',
+    office        : 'AKS',
+    current_teams : [ '4' ],
+
+    nanagogo      : 'https://7gogo.jp/yamauchi-mizuki',
+    twitter       : 'https://twitter.com/mizukiyamauchi',
+  },
   山下エミリー
   : {
     surname       : {
