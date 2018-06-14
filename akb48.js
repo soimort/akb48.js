@@ -1123,7 +1123,9 @@ var AKBG = {
     current_teams : [ 'A' ],
 
     gplus         : 'https://plus.google.com/106575927859217364851',
+    instagram     : 'https://www.instagram.com/moe_goto0520/',
     nanagogo      : 'https://7gogo.jp/goto-moe',
+    twitter       : 'https://twitter.com/moe_goto0520',
   },
   後藤楽々
   : {
