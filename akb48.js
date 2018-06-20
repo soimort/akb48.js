@@ -1597,6 +1597,29 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/F452ex8A8o3U',
     twitter       : 'https://twitter.com/sugiyama_aika',
   },
+  須田亜香里
+  : {
+    surname       : {
+      kanji       : '須田',
+      hiragana    : 'すだ'
+    },
+    given_name    : {
+      kanji       : '亜香里',
+      hiragana    : 'あかり'
+    },
+    nickname      : 'あかりん',
+    date_of_birth : '1991-10-31',
+    blood_type    : 'A',
+    from          : '愛知県',
+    office        : 'TWIN PLANET ENTERTAINMENT',
+    current_teams : [ 'E' ],
+
+    blog          : 'http://www2.ske48.co.jp/blog_pc/detail/?writer=suda_akari',
+    gplus         : 'https://plus.google.com/115975634910643785199',
+    instagram     : 'https://www.instagram.com/akarisuda/',
+    nanagogo      : 'https://7gogo.jp/suda-akari',
+    twitter       : 'https://twitter.com/dasuwaikaa',
+  },
   須藤凜々花
   : {
     surname       : {
