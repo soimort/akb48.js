@@ -1061,6 +1061,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kojina-yui',
     twitter       : 'https://twitter.com/kojinayui0124',
   },
+  小嶋陽菜
+  : {
+    surname       : {
+      kanji       : '小嶋',
+      hiragana    : 'こじま'
+    },
+    given_name    : {
+      kanji       : '陽菜',
+      hiragana    : 'はるな'
+    },
+    nickname      : 'こじはる',
+    date_of_birth : '1988-04-19',
+    blood_type    : 'O',
+    from          : '埼玉県',
+    office        : 'プロダクション尾木',
+    current_teams : [ ],
+
+    blog          : 'https://lineblog.me/harunakojima/',
+    gplus         : 'https://plus.google.com/114739367195523292316',
+    instagram     : 'https://www.instagram.com/nyanchan22/',
+    twitter       : 'https://twitter.com/kojiharunyan',
+  },
   小嶋真子
   : {
     surname       : {
