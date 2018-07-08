@@ -2676,6 +2676,7 @@ var AKBG = {
     current_teams : [ 'H' ],
 
     gplus         : 'https://plus.google.com/107241677527739013868',
+    instagram     : 'https://www.instagram.com/natsustagram_hkt/',
     nanagogo      : 'https://7gogo.jp/matsuoka-natsumi',
     twitter       : 'https://twitter.com/natsumi_m8',
   },
