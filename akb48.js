@@ -2119,6 +2119,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/nagao-mariya',
     twitter       : 'https://twitter.com/mariyagiii310',
   },
+  中川美音
+  : {
+    surname       : {
+      kanji       : '中川',
+      hiragana    : 'なかがわ'
+    },
+    given_name    : {
+      kanji       : '美音',
+      hiragana    : 'みおん'
+    },
+    nickname      : 'みおん',
+    date_of_birth : '2002-11-16',
+    blood_type    : '',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    twitter       : 'https://twitter.com/nmb_mionchan',
+  },
   中西智代梨
   : {
     surname       : {
