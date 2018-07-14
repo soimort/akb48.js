@@ -519,6 +519,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/DmrHUXKJYf7l',
     twitter       : 'https://twitter.com/Ayamelody0817',
   },
+  太田奈緒
+  : {
+    surname       : {
+      kanji       : '太田',
+      hiragana    : 'おおた'
+    },
+    given_name    : {
+      kanji       : '奈緒',
+      hiragana    : 'なお'
+    },
+    nickname      : 'なお',
+    date_of_birth : '1994-12-05',
+    blood_type    : 'AB',
+    from          : '京都府',
+    office        : 'AKS',
+    current_teams : [ '8', 'B' ],
+
+    instagram     : 'https://www.instagram.com/tanao_official/',
+    nanagogo      : 'https://7gogo.jp/oota-nao',
+    twitter       : 'https://twitter.com/otanao_1205',
+  },
   太田夢莉
   : {
     surname       : {
