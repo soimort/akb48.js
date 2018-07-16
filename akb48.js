@@ -645,6 +645,7 @@ var AKBG = {
     current_teams : [ '4' ],
 
     gplus         : 'https://plus.google.com/113163959577431341409',
+    instagram     : 'https://www.instagram.com/okada7_akb48_stu48/',
     nanagogo      : 'https://7gogo.jp/okada-nana',
     twitter       : 'https://twitter.com/okadanana_1107',
   },
