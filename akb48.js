@@ -1036,6 +1036,7 @@ var AKBG = {
 
     instagram     : 'https://www.instagram.com/noochan_1108/',
     nanagogo      : 'https://7gogo.jp/kuranoo-narumi',
+    twitter       : 'https://twitter.com/Kuranoo_Narumi_',
   },
   栗原紗英
   : {
