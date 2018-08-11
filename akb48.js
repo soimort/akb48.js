@@ -2822,7 +2822,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '新潟県',
     office        : 'AKS',
-    current_teams : [ 'NIII' ],
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/aya_nyan_san/',
   },
