@@ -3189,6 +3189,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yamauchi-mizuki',
     twitter       : 'https://twitter.com/mizukiyamauchi',
   },
+  山口真帆
+  : {
+    surname       : {
+      kanji       : '山口',
+      hiragana    : 'やまぐち'
+    },
+    given_name    : {
+      kanji       : '真帆',
+      hiragana    : 'まほ'
+    },
+    nickname      : 'まほほん',
+    date_of_birth : '1995-09-17',
+    blood_type    : 'O',
+    from          : '青森県',
+    office        : 'AKS',
+    current_teams : [ 'G' ],
+
+    instagram     : 'https://www.instagram.com/nohohon_mahohon/',
+  },
   山下エミリー
   : {
     surname       : {
