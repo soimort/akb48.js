@@ -711,6 +711,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/oguri-yui',
     twitter       : 'https://twitter.com/yuiyui_maromaro',
   },
+  小田彩加
+  : {
+    surname       : {
+      kanji       : '小田',
+      hiragana    : 'おだ'
+    },
+    given_name    : {
+      kanji       : '彩加',
+      hiragana    : 'あやか'
+    },
+    nickname      : 'ODA',
+    date_of_birth : '1999-02-09',
+    blood_type    : '不明',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'TII' ],
+
+    instagram     : 'https://www.instagram.com/odachan_official/',
+    nanagogo      : 'https://7gogo.jp/oda-ayaka',
+    twitter       : 'https://twitter.com/odachan_hkt48',
+  },
   小畑優奈
   : {
     surname       : {
