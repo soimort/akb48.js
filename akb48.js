@@ -1511,6 +1511,26 @@ var AKBG = {
 
     twitter       : 'https://twitter.com/paruruchan0330',
   },
+  清水里香
+  : {
+    surname       : {
+      kanji       : '清水',
+      hiragana    : 'しみず'
+    },
+    given_name    : {
+      kanji       : '里香',
+      hiragana    : 'りか'
+    },
+    nickname      : 'りかてぃー',
+    date_of_birth : '1998-09-15',
+    blood_type    : 'O',
+    from          : '千葉県',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    instagram     : 'https://www.instagram.com/partyyy_chu/',
+    twitter       : 'https://twitter.com/party_rikaty',
+  },
   下青木香鈴
   : {
     surname       : {
