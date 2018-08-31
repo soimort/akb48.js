@@ -1366,6 +1366,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/sato_kiara',
     twitter       : 'https://twitter.com/ki_cyaco48',
   },
+  佐藤栞
+  : {
+    surname       : {
+      kanji       : '佐藤',
+      hiragana    : 'さとう'
+    },
+    given_name    : {
+      kanji       : '栞',
+      hiragana    : 'しおり'
+    },
+    nickname      : 'しおりん',
+    date_of_birth : '1998-02-03',
+    blood_type    : 'O',
+    from          : '新潟県',
+    office        : 'AKS',
+    current_teams : [ '8', 'B' ],
+
+    instagram     : 'https://www.instagram.com/bookmarker_23/',
+    nanagogo      : 'https://7gogo.jp/sato-shiori',
+    twitter       : 'https://twitter.com/b00kmarker_nii3',
+  },
   佐藤七海
   : {
     surname       : {
