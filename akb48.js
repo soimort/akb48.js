@@ -1526,7 +1526,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '鹿児島県',
     office        : 'AKS',
-    current_teams : [ '8', 'A' ],
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/sekashimo1028/',
     nanagogo      : 'https://7gogo.jp/shimoaoki-karin',
