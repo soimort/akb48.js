@@ -996,6 +996,28 @@ var AKBG = {
   },
 
   /* く */
+  久代梨奈
+  : {
+    surname       : {
+      kanji       : '久代',
+      hiragana    : 'くしろ'
+    },
+    given_name    : {
+      kanji       : '梨奈',
+      hiragana    : 'りな'
+    },
+    nickname      : 'りなっち',
+    date_of_birth : '1999-01-29',
+    blood_type    : 'O',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    gplus         : 'https://plus.google.com/116018916399618465239',
+    instagram     : 'https://www.instagram.com/rina.kushiro_official/',
+    nanagogo      : 'https://7gogo.jp/kushiro-rina',
+    twitter       : 'https://twitter.com/Rinacchi_NMB48',
+  },
   久保怜音
   : {
     surname       : {
