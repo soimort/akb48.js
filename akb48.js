@@ -971,6 +971,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kitagawa-ryoha',
     twitter       : 'https://twitter.com/ryoha_1009',
   },
+  北野瑠華
+  : {
+    surname       : {
+      kanji       : '北野',
+      hiragana    : 'きたの'
+    },
+    given_name    : {
+      kanji       : '瑠華',
+      hiragana    : 'るか'
+    },
+    nickname      : 'るかてぃん',
+    date_of_birth : '1999-05-25',
+    blood_type    : 'A',
+    from          : '岐阜県',
+    office        : 'AKS',
+    current_teams : [ 'KII' ],
+
+    gplus         : 'https://plus.google.com/109823086254169095183',
+    instagram     : 'https://www.instagram.com/rukakitano0525/',
+    nanagogo      : 'https://7gogo.jp/kitano-ruka',
+    twitter       : 'https://twitter.com/official_ruka25',
+  },
   北原里英
   : {
     surname       : {
