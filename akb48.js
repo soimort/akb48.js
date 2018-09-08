@@ -732,6 +732,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/oda-ayaka',
     twitter       : 'https://twitter.com/odachan_hkt48',
   },
+  小田えりな
+  : {
+    surname       : {
+      kanji       : '小田',
+      hiragana    : 'おだ'
+    },
+    given_name    : {
+      hiragana    : 'えりな'
+    },
+    nickname      : 'おだえり',
+    date_of_birth : '1997-04-25',
+    blood_type    : 'A',
+    from          : '神奈川県',
+    office        : 'AKS',
+    current_teams : [ '8', 'K' ],
+
+    instagram     : 'https://www.instagram.com/odenchannn/',
+    nanagogo      : 'https://7gogo.jp/oda-erina',
+    twitter       : 'https://twitter.com/odaeri_425',
+  },
   小畑優奈
   : {
     surname       : {
