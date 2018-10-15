@@ -2368,6 +2368,7 @@ var AKBG = {
     current_teams : [ 'G' ],
 
     instagram     : 'https://www.instagram.com/mihapiyo._.48/',
+    twitter       : 'https://twitter.com/piyomi48',
   },
 
   /* に */
