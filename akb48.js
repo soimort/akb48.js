@@ -1278,6 +1278,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/4QpuS4hYtPUE',
     twitter       : 'https://twitter.com/lalagoto0723',
   },
+  駒田京伽
+  : {
+    surname       : {
+      kanji       : '駒田',
+      hiragana    : 'こまだ'
+    },
+    given_name    : {
+      kanji       : '京伽',
+      hiragana    : 'ひろか'
+    },
+    nickname      : 'ぴーちゃん',
+    date_of_birth : '1996-11-21',
+    blood_type    : 'A',
+    from          : '宮崎県',
+    office        : 'AKS',
+    current_teams : [ 'H' ],
+
+    gplus         : 'https://plus.google.com/113849034080168289470',
+    nanagogo      : 'https://7gogo.jp/komada-hiroka',
+    twitter       : 'https://twitter.com/komada_pychan',
+  },
   込山榛香
   : {
     surname       : {
