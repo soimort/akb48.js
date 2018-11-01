@@ -2955,6 +2955,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/minegishi-minami',
     twitter       : 'https://twitter.com/chan__31',
   },
+  宮﨑想乃
+  : {
+    surname       : {
+      kanji       : '宮﨑',
+      hiragana    : 'みやざき'
+    },
+    given_name    : {
+      kanji       : '想乃',
+      hiragana    : 'その'
+    },
+    nickname      : 'そのちん',
+    date_of_birth : '2000-10-30',
+    blood_type    : 'A',
+    from          : '佐賀県',
+    office        : 'AKS',
+    current_teams : [ 'TII' ],
+
+    instagram     : 'https://www.instagram.com/m_sono_1030/',
+    nanagogo      : 'https://7gogo.jp/miyazaki-sono',
+    twitter       : 'https://twitter.com/sono_m_1030',
+  },
   宮島亜弥
   : {
     surname       : {
