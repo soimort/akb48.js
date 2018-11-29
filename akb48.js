@@ -689,6 +689,24 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/okabe-rin',
     twitter       : 'https://twitter.com/Berin_official',
   },
+  沖侑果
+  : {
+    surname       : {
+      kanji       : '沖',
+      hiragana    : 'おき'
+    },
+    given_name    : {
+      kanji       : '侑果',
+      hiragana    : 'ゆうか'
+    },
+    nickname      : '沖ちゃん',
+    date_of_birth : '1999-12-01',
+    blood_type    : 'A',
+    from          : '岡山県',
+    office        : 'STU',
+    current_teams : [ 'STU48' ],
+
+  },
   荻野由佳
   : {
     surname       : {
