@@ -1899,6 +1899,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/takita-kayoko',
     twitter       : 'https://twitter.com/kayoyon213',
   },
+  瀧野由美子
+  : {
+    surname       : {
+      kanji       : '瀧野',
+      hiragana    : 'たきの'
+    },
+    given_name    : {
+      kanji       : '由美子',
+      hiragana    : 'ゆみこ'
+    },
+    nickname      : 'ゆみりん',
+    date_of_birth : '1997-09-24',
+    blood_type    : 'O',
+    from          : '山口県',
+    office        : 'STU',
+    current_teams : [ 'STU48' ],
+
+    twitter       : 'https://twitter.com/stu48_yumianko',
+  },
   武田智加
   : {
     surname       : {
