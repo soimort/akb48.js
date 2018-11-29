@@ -3311,9 +3311,10 @@ var AKBG = {
     date_of_birth : '2000-10-07',
     blood_type    : 'AB',
     from          : '大阪府',
-    office        : 'AKS',
+    office        : 'STU',
     current_teams : [ 'STU48' ],
 
+    twitter       : 'https://twitter.com/FUU_Y_stu48',
   },
   山内鈴蘭
   : {
