@@ -109,6 +109,25 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/yuduyu1011/',
     twitter       : 'https://twitter.com/yuzuki_ishiguro',
   },
+  石田千穂
+  : {
+    surname       : {
+      kanji       : '石田',
+      hiragana    : 'いしだ'
+    },
+    given_name    : {
+      kanji       : '千穂',
+      hiragana    : 'ちほ'
+    },
+    nickname      : 'ちほ',
+    date_of_birth : '2002-03-17',
+    blood_type    : 'O',
+    from          : '広島県',
+    office        : 'STU',
+    current_teams : [ 'STU48' ],
+
+    instagram     : 'https://www.instagram.com/chiho_ishida/',
+  },
   石田晴香
   : {
     surname       : {
