@@ -2990,6 +2990,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/FSQYPICtu0kq',
     twitter       : 'https://twitter.com/airiSKE48_0921',
   },
+  光宗薫
+  : {
+    surname       : {
+      kanji       : '光宗',
+      hiragana    : 'みつむね'
+    },
+    given_name    : {
+      kanji       : '薫',
+      hiragana    : 'かおる'
+    },
+    nickname      : 'かおる',
+    date_of_birth : '1993-04-26',
+    blood_type    : 'O',
+    from          : '大阪府',
+    office        : 'フレイヴ エンターテインメント',
+    current_teams : [ ],
+
+    instagram     : 'https://www.instagram.com/mtmnkor/',
+    twitter       : 'https://twitter.com/mtmnkor',
+  },
   峯岸みなみ
   : {
     surname       : {
