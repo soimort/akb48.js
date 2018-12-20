@@ -1073,6 +1073,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kitahara-rie',
     twitter       : 'https://twitter.com/Rie_Kitahara3',
   },
+  行天優莉奈
+  : {
+    surname       : {
+      kanji       : '行天',
+      hiragana    : 'ぎょうてん'
+    },
+    given_name    : {
+      kanji       : '優莉奈',
+      hiragana    : 'ゆりな'
+    },
+    nickname      : 'ゆりな',
+    date_of_birth : '1999-03-14',
+    blood_type    : 'O',
+    from          : '香川県',
+    office        : 'AKS',
+    current_teams : [ '8', '4' ],
+
+    instagram     : 'https://www.instagram.com/Yurina.0314/',
+    nanagogo      : 'https://7gogo.jp/gyoten-yurina',
+    twitter       : 'https://twitter.com/tenten_yurina',
+  },
 
   /* く */
   久代梨奈
