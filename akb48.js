@@ -3309,6 +3309,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yagura-fuuko',
     twitter       : 'https://twitter.com/ICECREAMFUKO',
   },
+  矢作萌夏
+  : {
+    surname       : {
+      kanji       : '矢作',
+      hiragana    : 'やはぎ'
+    },
+    given_name    : {
+      kanji       : '萌夏',
+      hiragana    : 'もえか'
+    },
+    nickname      : 'もえちゃん',
+    date_of_birth : '2002-07-05',
+    blood_type    : 'O',
+    from          : '埼玉県',
+    office        : 'AKS',
+    current_teams : [ 'K' ],
+
+    instagram     : 'https://www.instagram.com/akb48moeka_yahagi/',
+    twitter       : 'https://twitter.com/48moeka_yahagi',
+  },
   矢作有紀奈
   : {
     surname       : {
@@ -3324,7 +3344,7 @@ var AKBG = {
     blood_type    : 'B',
     from          : '埼玉県',
     office        : 'AKS',
-    current_teams : [ 'KII' ],
+    current_teams : [ ],
 
     twitter       : 'https://twitter.com/dental_ske48',
   },
