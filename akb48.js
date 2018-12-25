@@ -1227,6 +1227,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kojina-yui',
     twitter       : 'https://twitter.com/kojinayui0124',
   },
+  小嶋花梨
+  : {
+    surname       : {
+      kanji       : '小嶋',
+      hiragana    : 'こじま'
+    },
+    given_name    : {
+      kanji       : '花梨',
+      hiragana    : 'かりん'
+    },
+    nickname      : 'こじりん',
+    date_of_birth : '1999-07-16',
+    blood_type    : 'A',
+    from          : '埼玉県',
+    office        : 'Showtitle',
+    current_teams : [ 'N' ],
+
+    instagram     : 'https://www.instagram.com/nmb_kojima_48/',
+    twitter       : 'https://twitter.com/nmb_KOJIMA_48',
+  },
   小嶋陽菜
   : {
     surname       : {
