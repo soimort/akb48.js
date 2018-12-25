@@ -3648,6 +3648,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/watanabe-mayu',
     twitter       : 'https://twitter.com/karaage_mayu',
   },
+  渡辺美優紀
+  : {
+    surname       : {
+      kanji       : '渡辺',
+      hiragana    : 'わたなべ'
+    },
+    given_name    : {
+      kanji       : '美優紀',
+      hiragana    : 'みゆき'
+    },
+    nickname      : 'みるきー',
+    date_of_birth : '1993-09-19',
+    blood_type    : 'B',
+    from          : '奈良県',
+    office        : 'roundcell',
+    current_teams : [ ],
+
+    blog          : 'https://ameblo.jp/watanabemiyuki-official/',
+    gplus         : 'https://plus.google.com/109544372058574620997',
+    instagram     : 'https://www.instagram.com/miyukichan919/',
+    twitter       : 'https://twitter.com/miyukiofficial9',
+  },
 
 }
 
