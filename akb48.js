@@ -227,8 +227,8 @@ var AKBG = {
     date_of_birth : '2002-02-15',
     blood_type    : 'O',
     from          : '神奈川県',
-    office        : 'AKS',
-    current_teams : [ 'S' ],
+    office        : '',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/isshikirena/',
     twitter       : 'https://twitter.com/isshikirena0215',
@@ -400,8 +400,8 @@ var AKBG = {
     date_of_birth : '1999-02-04',
     blood_type    : 'O',
     from          : '大阪府',
-    office        : 'Showtitle',
-    current_teams : [ 'BII' ],
+    office        : '',
+    current_teams : [],
 
     blog          : 'http://ameblo.jp/nmb48/theme-10089279306.html',
     gplus         : 'https://plus.google.com/104439643812463829576',
@@ -1262,7 +1262,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '埼玉県',
     office        : 'プロダクション尾木',
-    current_teams : [ ],
+    current_teams : [],
 
     blog          : 'https://lineblog.me/harunakojima/',
     gplus         : 'https://plus.google.com/114739367195523292316',
@@ -1729,7 +1729,7 @@ var AKBG = {
     date_of_birth : '2000-10-28',
     blood_type    : 'A',
     from          : '鹿児島県',
-    office        : 'AKS',
+    office        : '',
     current_teams : [],
 
     instagram     : 'https://www.instagram.com/sekashimo1028/',
@@ -2074,7 +2074,7 @@ var AKBG = {
     blood_type    : 'AB',
     from          : '福岡県',
     office        : '',
-    current_teams : [ ],
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/112303747535405730870',
     nanagogo      : 'https://7gogo.jp/E2bR-0GyClkk',
@@ -2378,7 +2378,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '神奈川県',
     office        : 'アービング',
-    current_teams : [ ],
+    current_teams : [],
 
     blog          : 'https://ameblo.jp/nagao--mariya',
     gplus         : 'https://plus.google.com/107953103521320651388',
@@ -3046,7 +3046,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '大阪府',
     office        : 'フレイヴ エンターテインメント',
-    current_teams : [ ],
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/mtmnkor/',
     twitter       : 'https://twitter.com/mtmnkor',
@@ -3107,7 +3107,7 @@ var AKBG = {
     date_of_birth : '1997-11-27',
     blood_type    : 'O',
     from          : '新潟県',
-    office        : 'AKS',
+    office        : '',
     current_teams : [],
 
     instagram     : 'https://www.instagram.com/aya_nyan_san/',
@@ -3385,7 +3385,7 @@ var AKBG = {
     blood_type    : 'B',
     from          : '埼玉県',
     office        : 'AKS',
-    current_teams : [ ],
+    current_teams : [],
 
     twitter       : 'https://twitter.com/dental_ske48',
   },
@@ -3683,7 +3683,7 @@ var AKBG = {
     blood_type    : 'B',
     from          : '奈良県',
     office        : 'roundcell',
-    current_teams : [ ],
+    current_teams : [],
 
     blog          : 'https://ameblo.jp/watanabemiyuki-official/',
     gplus         : 'https://plus.google.com/109544372058574620997',
