@@ -1065,7 +1065,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '愛知県',
     office        : '太田プロダクション',
-    current_teams : [ 'NIII' ],
+    current_teams : [],
 
     blog          : 'https://ameblo.jp/kitahara-rie/',
     gplus         : 'https://plus.google.com/114392080665434978357',
@@ -2223,8 +2223,8 @@ var AKBG = {
     date_of_birth : '2000-05-11',
     blood_type    : 'O',
     from          : '福井県',
-    office        : 'AKS',
-    current_teams : [ '8', 'A' ],
+    office        : '',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/kurena_0511/',
     nanagogo      : 'https://7gogo.jp/chou-kurena',
