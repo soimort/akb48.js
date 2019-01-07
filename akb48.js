@@ -191,6 +191,27 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/isoharakyoka_box/',
     twitter       : 'https://twitter.com/isoharakyokaBOX',
   },
+  板野友美
+  : {
+    surname       : {
+      kanji       : '板野',
+      hiragana    : 'いたの'
+    },
+    given_name    : {
+      kanji       : '友美',
+      hiragana    : 'ともみ'
+    },
+    nickname      : 'ともちん',
+    date_of_birth : '1991-07-03',
+    blood_type    : 'A',
+    from          : '神奈川県',
+    office        : 'ホリプロ',
+    current_teams : [],
+
+    blog          : 'https://ameblo.jp/xanadu11/',
+    instagram     : 'https://www.instagram.com/tomo.i_0703/',
+    twitter       : 'https://twitter.com/tomo_coco73',
+  },
   市川愛美
   : {
     surname       : {
