@@ -2879,6 +2879,27 @@ var AKBG = {
   },
 
   /* ま */
+  増田有華
+  : {
+    surname       : {
+      kanji       : '増田',
+      hiragana    : 'ますだ'
+    },
+    given_name    : {
+      kanji       : '有華',
+      hiragana    : 'ゆか'
+    },
+    nickname      : 'ゆか',
+    date_of_birth : '1991-08-03',
+    blood_type    : 'B',
+    from          : '大阪府',
+    office        : 'フレイヴ エンターテインメント',
+    current_teams : [],
+
+    blog          : 'https://ameblo.jp/massuuu-yuttan/',
+    instagram     : 'https://www.instagram.com/masuyuka_official/',
+    twitter       : 'https://twitter.com/yuka_masuda',
+  },
   馬嘉伶
   : {
     surname       : {
