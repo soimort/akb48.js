@@ -919,6 +919,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kamata-natsuki',
     twitter       : 'https://twitter.com/nacky_k829',
   },
+  上枝恵美加
+  : {
+    surname       : {
+      kanji       : '上枝',
+      hiragana    : 'かみえだ'
+    },
+    given_name    : {
+      kanji       : '恵美加',
+      hiragana    : 'えみか'
+    },
+    nickname      : 'えみち',
+    date_of_birth : '1994-07-13',
+    blood_type    : 'B',
+    from          : '大阪府',
+    office        : 'La Central',
+    current_teams : [],
+
+    gplus         : 'https://plus.google.com/101590036846564916771',
+    instagram     : 'https://www.instagram.com/emika_kamieda/',
+    twitter       : 'https://twitter.com/Emika_Kamieda',
+  },
   上村亜柚香
   : {
     surname       : {
