@@ -1443,6 +1443,27 @@ var AKBG = {
   },
 
   /* さ */
+  堺萌香
+  : {
+    surname       : {
+      kanji       : '堺',
+      hiragana    : 'さかい'
+    },
+    given_name    : {
+      kanji       : '萌香',
+      hiragana    : 'もえか'
+    },
+    nickname      : 'おいもちゃん',
+    date_of_birth : '1998-08-25',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'TII' ],
+
+    instagram     : 'https://www.instagram.com/hkt48_moeka/',
+    nanagogo      : 'https://7gogo.jp/sakai-moeka',
+    twitter       : 'https://twitter.com/hkt48_moeka',
+  },
   坂口渚沙
   : {
     surname       : {
