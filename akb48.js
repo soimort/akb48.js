@@ -104,7 +104,7 @@ var AKBG = {
     blood_type    : 'AB',
     from          : '愛知県',
     office        : 'AKS',
-    current_teams : [ '研究生（SKE48）' ],
+    current_teams : [ 'S' ],
 
     instagram     : 'https://www.instagram.com/yuduyu1011/',
     twitter       : 'https://twitter.com/yuzuki_ishiguro',
@@ -3598,6 +3598,25 @@ var AKBG = {
     current_teams : [ 'G' ],
 
     instagram     : 'https://www.instagram.com/nohohon_mahohon/',
+  },
+  山崎美里衣
+  : {
+    surname       : {
+      kanji       : '山崎',
+      hiragana    : 'やまざき'
+    },
+    given_name    : {
+      kanji       : '美里衣',
+      hiragana    : 'みりい'
+    },
+    nickname      : 'みぃ',
+    date_of_birth : '2000-11-21',
+    blood_type    : 'A',
+    from          : '北海道',
+    office        : 'AKS',
+    current_teams : [ '研究生（NGT48）' ],
+
+    instagram     : 'https://www.instagram.com/mirii_ngt48_ymzk/',
   },
   山下エミリー
   : {
