@@ -37,7 +37,7 @@ var AKBG = {
     blood_type    : 'B',
     from          : '神奈川県',
     office        : 'ジャパン・ミュージックエンターテインメント',
-    current_teams : [ 'TPE48' ],
+    current_teams : [ 'TP' ],
 
     blog          : 'http://ameblo.jp/abemaria-1129/',
     gplus         : 'https://plus.google.com/100694627368957691223',
@@ -2897,8 +2897,8 @@ var AKBG = {
     date_of_birth : '2006-03-15',
     blood_type    : '',
     from          : '台湾 新竹市',
-    office        : 'TPE Entertainment',
-    current_teams : [ 'TPE48' ],
+    office        : '好言娯樂',
+    current_teams : [ 'TP' ],
   },
   本間日陽
   : {
