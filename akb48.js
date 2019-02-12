@@ -961,6 +961,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/8OGs42_RBi8w',
     twitter       : 'https://twitter.com/ayuka_k0127',
   },
+  川栄李奈
+  : {
+    surname       : {
+      kanji       : '川栄',
+      hiragana    : 'かわえい'
+    },
+    given_name    : {
+      kanji       : '李奈',
+      hiragana    : 'りな'
+    },
+    nickname      : 'りっちゃん',
+    date_of_birth : '1995-02-12',
+    blood_type    : 'O',
+    from          : '神奈川県',
+    office        : 'エイベックス・マネジメント',
+    current_teams : [ ],
+
+    blog          : 'https://ameblo.jp/rina-kawaei-blog/',
+    gplus         : 'https://plus.google.com/106346370911183711893',
+    instagram     : 'https://www.instagram.com/rina_kawaei.official/',
+    twitter       : 'https://twitter.com/_kawaei_rina_',
+  },
   川上礼奈
   : {
     surname       : {
