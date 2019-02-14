@@ -689,6 +689,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/okada-nana',
     twitter       : 'https://twitter.com/okadanana_1107',
   },
+  岡田美紅
+  : {
+    surname       : {
+      kanji       : '岡田',
+      hiragana    : 'おかだ'
+    },
+    given_name    : {
+      kanji       : '美紅',
+      hiragana    : 'みく'
+    },
+    nickname      : 'みぃぽぽ',
+    date_of_birth : '1997-11-13',
+    blood_type    : 'A',
+    from          : '徳島県',
+    office        : 'AKS',
+    current_teams : [ 'S' ],
+
+    instagram     : 'https://www.instagram.com/miipopo_39/',
+    nanagogo      : 'https://7gogo.jp/okada-miku',
+    twitter       : 'https://twitter.com/popo39_official',
+  },
   岡部麟
   : {
     surname       : {
