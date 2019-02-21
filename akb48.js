@@ -896,6 +896,28 @@ var AKBG = {
 
     instagram     : 'https://www.instagram.com/katominami_ngt48/',
   },
+  加藤夕夏
+  : {
+    surname       : {
+      kanji       : '加藤',
+      hiragana    : 'かとう'
+    },
+    given_name    : {
+      kanji       : '夕夏',
+      hiragana    : 'ゆうか'
+    },
+    nickname      : 'うーか',
+    date_of_birth : '1997-08-01',
+    blood_type    : 'A',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'M' ],
+
+    gplus         : 'https://plus.google.com/116300481938868290370',
+    instagram     : 'https://www.instagram.com/uuka_nmb/',
+    nanagogo      : 'https://7gogo.jp/kato_yuuka',
+    twitter       : 'https://twitter.com/u_ka0801',
+  },
   加藤玲奈
   : {
     surname       : {
