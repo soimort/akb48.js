@@ -1026,6 +1026,28 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/rina_kawaei.official/',
     twitter       : 'https://twitter.com/_kawaei_rina_',
   },
+  川上千尋
+  : {
+    surname       : {
+      kanji       : '川上',
+      hiragana    : 'かわかみ'
+    },
+    given_name    : {
+      kanji       : '千尋',
+      hiragana    : 'ちひろ'
+    },
+    nickname      : 'ちっひー',
+    date_of_birth : '1998-12-17',
+    blood_type    : 'A',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'N' ],
+
+    gplus         : 'https://plus.google.com/111353003766284590010',
+    instagram     : 'https://www.instagram.com/this_chihhi/',
+    nanagogo      : 'https://7gogo.jp/kawakami-chihiro',
+    twitter       : 'https://twitter.com/kchi_hi1217',
+  },
   川上礼奈
   : {
     surname       : {
