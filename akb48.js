@@ -3391,6 +3391,25 @@ var AKBG = {
   },
 
   /* も */
+  舞木香純
+  : {
+    surname       : {
+      kanji       : '舞木',
+      hiragana    : 'もうぎ'
+    },
+    given_name    : {
+      kanji       : '香純',
+      hiragana    : 'かすみ'
+    },
+    nickname      : 'かすみん',
+    date_of_birth : '1997-04-28',
+    blood_type    : 'O',
+    from          : '福島県',
+    office        : '',
+    current_teams : [ ],
+
+    instagram     : 'https://www.instagram.com/Kasuminn_World/',
+  },
   茂木忍
   : {
     surname       : {
