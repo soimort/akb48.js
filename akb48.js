@@ -1630,7 +1630,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '大分県',
     office        : '太田プロダクション',
-    current_teams : [ 'H' ],
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/104375100134443203420',
     instagram     : 'https://www.instagram.com/345insta/',
