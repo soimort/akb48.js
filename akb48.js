@@ -3721,10 +3721,11 @@ var AKBG = {
     date_of_birth : '1995-09-17',
     blood_type    : 'O',
     from          : '青森県',
-    office        : 'AKS',
-    current_teams : [ 'G' ],
+    office        : '',
+    current_teams : [ ],
 
     instagram     : 'https://www.instagram.com/nohohon_mahohon/',
+    twitter       : 'https://twitter.com/maho_yamaguchi',
   },
   山崎美里衣
   : {
