@@ -3853,6 +3853,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yokoshima-aeri',
     twitter       : 'https://twitter.com/aeringi_3',
   },
+  横道侑里
+  : {
+    surname       : {
+      kanji       : '横道',
+      hiragana    : 'よこみち'
+    },
+    given_name    : {
+      kanji       : '侑里',
+      hiragana    : 'ゆり'
+    },
+    nickname      : 'ゆり',
+    date_of_birth : '2000-10-23',
+    blood_type    : 'A',
+    from          : '静岡県',
+    office        : '',
+    current_teams : [ ],
+
+    instagram     : 'https://www.instagram.com/sideroad615/',
+    nanagogo      : 'https://7gogo.jp/yokomichi-yuri',
+    twitter       : 'https://twitter.com/sideroad_lily',
+  },
   横山由依
   : {
     surname       : {
