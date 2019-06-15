@@ -2556,6 +2556,27 @@ var AKBG = {
 
     twitter       : 'https://twitter.com/nmb_mionchan',
   },
+  長友彩海
+  : {
+    surname       : {
+      kanji       : '長友',
+      hiragana    : 'ながとも'
+    },
+    given_name    : {
+      kanji       : '彩海',
+      hiragana    : 'あやみ'
+    },
+    nickname      : 'あやみん',
+    date_of_birth : '2000-11-02',
+    blood_type    : 'O',
+    from          : '神奈川県',
+    office        : 'AKS',
+    current_teams : [ 'K' ],
+
+    instagram     : 'https://www.instagram.com/ayami.n_48/',
+    nanagogo      : 'https://7gogo.jp/nagatomo-ayami',
+    twitter       : 'https://twitter.com/ayamin_112',
+  },
   中西智代梨
   : {
     surname       : {
