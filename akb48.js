@@ -3583,6 +3583,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yagura-fuuko',
     twitter       : 'https://twitter.com/ICECREAMFUKO',
   },
+  安田桃寧
+  : {
+    surname       : {
+      kanji       : '安田',
+      hiragana    : 'やすだ'
+    },
+    given_name    : {
+      kanji       : '桃寧',
+      hiragana    : 'ももね'
+    },
+    nickname      : 'ももね',
+    date_of_birth : '2001-06-08',
+    blood_type    : 'O',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'M' ],
+
+    instagram     : 'https://www.instagram.com/peachpeach_o6o8/',
+    twitter       : 'https://twitter.com/momone_0608',
+  },
   矢作萌夏
   : {
     surname       : {
