@@ -3919,6 +3919,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yokoyama-yui',
     twitter       : 'https://twitter.com/Yui_Yoko1208',
   },
+  吉川七瀬
+  : {
+    surname       : {
+      kanji       : '吉川',
+      hiragana    : 'よしかわ'
+    },
+    given_name    : {
+      kanji       : '七瀬',
+      hiragana    : 'ななせ'
+    },
+    nickname      : 'ななせ',
+    date_of_birth : '1998-07-21',
+    blood_type    : 'A',
+    from          : '千葉県',
+    office        : 'AKS',
+    current_teams : [ '8', 'B' ],
+
+    instagram     : 'https://www.instagram.com/yoshikawa_nanase/',
+    nanagogo      : 'https://7gogo.jp/yoshikawa-nanase',
+    twitter       : 'https://twitter.com/nanaseworld_7',
+  },
 
   /* わ */
   渡辺麻友
