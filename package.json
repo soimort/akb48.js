@@ -1,7 +1,7 @@
 
 {
   "name": "akb48",
-  "version": "1.0.0",
+  "version": "2.6.18",
   "description": "AKB48 member profiles as a JavaScript library",
   "main": "akb48.js",
   "scripts": {
