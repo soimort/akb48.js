@@ -1740,6 +1740,7 @@ var AKBG = {
     office        : 'Showtitle',
     current_teams : [ 'BII' ],
 
+    instagram     : 'https://www.instagram.com/jonishi_rei/',
     twitter       : 'https://twitter.com/jonishi_rei',
   },
   下尾みう
