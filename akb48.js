@@ -3824,8 +3824,8 @@ var AKBG = {
     date_of_birth : '1999-02-09',
     blood_type    : 'B',
     from          : '兵庫県',
-    office        : 'AKS',
-    current_teams : [ '8', 'K' ],
+    office        : '',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/team8yamada0209/',
     nanagogo      : 'https://7gogo.jp/yamada-nanami',
