@@ -3897,6 +3897,24 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yokoshima-aeri',
     twitter       : 'https://twitter.com/aeringi_3',
   },
+  横野すみれ
+  : {
+    surname       : {
+      kanji       : '横野',
+      hiragana    : 'よこの'
+    },
+    given_name    : {
+      hiragana    : 'すみれ'
+    },
+    nickname      : 'すーちゃん',
+    date_of_birth : '2000-12-12',
+    blood_type    : 'A',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ '研究生（NMB48）' ],
+
+    twitter       : 'http://twitter.com/suchan_nmb48',
+  },
   横道侑里
   : {
     surname       : {
