@@ -121,7 +121,7 @@ var AKBG = {
     date_of_birth : '2003-10-11',
     blood_type    : 'AB',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'S' ],
 
     instagram     : 'https://www.instagram.com/yuduyu1011/',
@@ -505,7 +505,7 @@ var AKBG = {
     date_of_birth : '2000-03-29',
     blood_type    : 'O',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'KII' ],
 
     gplus         : 'https://plus.google.com/107626904264065248069',
@@ -528,7 +528,7 @@ var AKBG = {
     date_of_birth : '2001-10-29',
     blood_type    : 'B',
     from          : '埼玉県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'KII' ],
 
     instagram     : 'https://www.instagram.com/rinka_1029_ske48/',
@@ -570,7 +570,7 @@ var AKBG = {
     date_of_birth : '2000-08-17',
     blood_type    : 'B',
     from          : '岐阜県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'KII' ],
 
     instagram     : 'https://www.instagram.com/ayamelody0817/',
@@ -972,7 +972,7 @@ var AKBG = {
     date_of_birth : '1996-08-29',
     blood_type    : 'O',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'E' ],
 
     gplus         : 'https://plus.google.com/111577742898202735013',
@@ -1015,7 +1015,7 @@ var AKBG = {
     date_of_birth : '2004-01-27',
     blood_type    : 'A',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'S' ],
 
     instagram     : 'https://www.instagram.com/kamimuraayuka/',
@@ -1167,7 +1167,7 @@ var AKBG = {
     date_of_birth : '1998-10-09',
     blood_type    : 'B',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'S' ],
 
     gplus         : 'https://plus.google.com/113971612493421284619',
@@ -1189,7 +1189,7 @@ var AKBG = {
     date_of_birth : '1999-05-25',
     blood_type    : 'A',
     from          : '岐阜県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'KII' ],
 
     gplus         : 'https://plus.google.com/109823086254169095183',
@@ -1299,7 +1299,7 @@ var AKBG = {
     date_of_birth : '1997-08-10',
     blood_type    : 'O',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'E' ],
 
     gplus         : 'https://plus.google.com/105061858596196255815',
@@ -1669,7 +1669,7 @@ var AKBG = {
     date_of_birth : '1997-05-16',
     blood_type    : 'A',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'E' ],
 
     instagram     : 'https://www.instagram.com/biosato_3/',
@@ -1965,7 +1965,7 @@ var AKBG = {
     date_of_birth : '2002-02-26',
     blood_type    : 'A',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'E' ],
 
     instagram     : 'https://www.instagram.com/ouka_ske0226/',
@@ -1986,7 +1986,7 @@ var AKBG = {
     date_of_birth : '2000-01-10',
     blood_type    : '',
     from          : '宮城県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'E' ],
 
     instagram     : 'https://www.instagram.com/maya_sugawara/',
@@ -2007,7 +2007,7 @@ var AKBG = {
     date_of_birth : '2002-03-05',
     blood_type    : 'B',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'S' ],
 
     instagram     : 'https://www.instagram.com/sugiyama_aika/',
@@ -2263,7 +2263,7 @@ var AKBG = {
     date_of_birth : '1996-01-05',
     blood_type    : 'B',
     from          : '福岡県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'E' ],
 
     gplus         : 'https://plus.google.com/109503962668698372253',
@@ -2740,7 +2740,7 @@ var AKBG = {
     date_of_birth : '2001-09-06',
     blood_type    : 'O',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'S' ],
 
     instagram     : 'https://www.instagram.com/nojimakano_0906/',
@@ -2761,7 +2761,7 @@ var AKBG = {
     date_of_birth : '2003-02-01',
     blood_type    : 'A',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'S' ],
 
     instagram     : 'https://www.instagram.com/miyomaruko_0201/',
@@ -2848,7 +2848,7 @@ var AKBG = {
     date_of_birth : '1998-04-01',
     blood_type    : 'O',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'KII' ],
 
     gplus         : 'https://plus.google.com/106829664684074866626',
@@ -3000,7 +3000,7 @@ var AKBG = {
     date_of_birth : '1996-09-15',
     blood_type    : 'O',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'KII' ],
 
     blog          : 'http://www2.ske48.co.jp/blog_pc/detail/?writer=furuhata_nao',
@@ -3128,7 +3128,7 @@ var AKBG = {
     date_of_birth : '1997-03-08',
     blood_type    : 'B',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'S' ],
 
     gplus         : 'https://plus.google.com/102372344957102189329',
@@ -3236,7 +3236,7 @@ var AKBG = {
     date_of_birth : '2002-09-21',
     blood_type    : 'A',
     from          : '愛知県',
-    office        : 'SKE',
+    office        : 'ゼスト',
     current_teams : [ 'KII' ],
 
     instagram     : 'https://www.instagram.com/mizunoairi_ske48/',
