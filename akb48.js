@@ -22,6 +22,24 @@ var AKBG = {
     gplus         : 'https://plus.google.com/106102390858541443310',
     twitter       : 'https://twitter.com/chi_tava0127',
   },
+  青海ひな乃
+  : {
+    surname       : {
+      kanji       : '青海',
+      hiragana    : 'あおうみ'
+    },
+    given_name    : {
+      kanji       : 'ひな乃',
+      hiragana    : 'ひなの'
+    },
+    nickname      : 'ひなぴよ',
+    date_of_birth : '2000-11-02',
+    blood_type    : 'A',
+    from          : '愛知県',
+    office        : 'ゼスト',
+    current_teams : [ '研究生（SKE48）' ],
+
+  },
   阿部マリア
   : {
     surname       : {
