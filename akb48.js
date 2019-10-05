@@ -469,6 +469,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/utada-hatsuka',
     twitter       : 'https://twitter.com/hatsu_akb',
   },
+  梅山恋和
+  : {
+    surname       : {
+      kanji       : '梅山',
+      hiragana    : 'うめやま'
+    },
+    given_name    : {
+      kanji       : '恋和',
+      hiragana    : 'ここな'
+    },
+    nickname      : 'ココナ',
+    date_of_birth : '2003-08-07',
+    blood_type    : 'O',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    instagram     : 'https://www.instagram.com/cocona_umeyama/',
+    twitter       : 'https://twitter.com/cocona_umeyama_',
+  },
   運上弘菜
   : {
     surname       : {
