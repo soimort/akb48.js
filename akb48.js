@@ -2963,27 +2963,6 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/fujita-nana',
     twitter       : 'https://twitter.com/fujitanana_1228',
   },
-  二村春香
-  : {
-    surname       : {
-      kanji       : '二村',
-      hiragana    : 'ふたむら'
-    },
-    given_name    : {
-      kanji       : '春香',
-      hiragana    : 'はるか'
-    },
-    nickname      : 'はるたむ',
-    date_of_birth : '1996-05-14',
-    blood_type    : 'O',
-    from          : '愛知県',
-    office        : '',
-    current_teams : [],
-
-    gplus         : 'https://plus.google.com/107238963481347254445',
-    nanagogo      : 'https://7gogo.jp/futamura-haruka',
-    twitter       : 'https://twitter.com/harutamchan',
-  },
   福岡聖菜
   : {
     surname       : {
@@ -3005,6 +2984,48 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/seina___ff/',
     nanagogo      : 'https://7gogo.jp/fukuoka-seina',
     twitter       : 'https://twitter.com/seina_fuku48',
+  },
+  二村春香
+  : {
+    surname       : {
+      kanji       : '二村',
+      hiragana    : 'ふたむら'
+    },
+    given_name    : {
+      kanji       : '春香',
+      hiragana    : 'はるか'
+    },
+    nickname      : 'はるたむ',
+    date_of_birth : '1996-05-14',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : '',
+    current_teams : [],
+
+    gplus         : 'https://plus.google.com/107238963481347254445',
+    nanagogo      : 'https://7gogo.jp/futamura-haruka',
+    twitter       : 'https://twitter.com/harutamchan',
+  },
+  渕上舞
+  : {
+    surname       : {
+      kanji       : '渕上',
+      hiragana    : 'ふちがみ'
+    },
+    given_name    : {
+      kanji       : '舞',
+      hiragana    : 'まい'
+    },
+    nickname      : 'まいちゃん',
+    date_of_birth : '1996-09-21',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : 'AKS',
+    current_teams : [ 'KIV' ],
+
+    instagram     : 'https://www.instagram.com/mai_fuchigami_48/',
+    nanagogo      : 'https://7gogo.jp/fuchigami-mai',
+    twitter       : 'https://twitter.com/maichan_F_0921',
   },
   古畑奈和
   : {
