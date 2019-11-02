@@ -705,6 +705,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/owada-nana',
     twitter       : 'https://twitter.com/Nana_Owada728',
   },
+  岡田彩花
+  : {
+    surname       : {
+      kanji       : '岡田',
+      hiragana    : 'おかだ'
+    },
+    given_name    : {
+      kanji       : '彩花',
+      hiragana    : 'あやか'
+    },
+    nickname      : 'あやか',
+    date_of_birth : '1998-11-6',
+    blood_type    : 'A',
+    from          : '東京都',
+    office        : '松竹芸能',
+    current_teams : [ ],
+
+    instagram     : 'https://www.instagram.com/ayaka_o.official/',
+    twitter       : 'https://twitter.com/ayaka_o1106',
+  },
   岡田奈々
   : {
     surname       : {
