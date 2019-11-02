@@ -1791,8 +1791,8 @@ var AKBG = {
     date_of_birth : '2000-01-19',
     blood_type    : 'A',
     from          : '岩手県',
-    office        : 'AKS',
-    current_teams : [ '8', '4' ],
+    office        : '',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/773_sevensea_satonanami/',
     nanagogo      : 'https://7gogo.jp/sato-nanami',
