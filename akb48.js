@@ -1514,8 +1514,8 @@ var AKBG = {
     date_of_birth : '2001-05-20',
     blood_type    : 'O',
     from          : '愛知県',
-    office        : 'AKS',
-    current_teams : [ 'A' ],
+    office        : '',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/106575927859217364851',
     instagram     : 'https://www.instagram.com/moe_goto0520/',
