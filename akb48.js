@@ -1536,8 +1536,8 @@ var AKBG = {
     date_of_birth : '2000-07-23',
     blood_type    : 'AB',
     from          : '愛知県',
-    office        : 'AKS',
-    current_teams : [ 'E' ],
+    office        : 'セント・フォース',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/hahahalalala0723/',
     nanagogo      : 'https://7gogo.jp/4QpuS4hYtPUE',
