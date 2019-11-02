@@ -1543,6 +1543,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/4QpuS4hYtPUE',
     twitter       : 'https://twitter.com/lalagoto0723',
   },
+  小林莉奈
+  : {
+    surname       : {
+      kanji       : '小林',
+      hiragana    : 'こばやし'
+    },
+    given_name    : {
+      kanji       : '莉奈',
+      hiragana    : 'りな'
+    },
+    nickname      : 'りなちー',
+    date_of_birth : '2001-04-20',
+    blood_type    : 'B',
+    from          : '埼玉県',
+    office        : 'Showtitle',
+    current_teams : [ '研究生（NMB48）' ],
+
+    twitter       : 'https://twitter.com/___42rina',
+  },
   駒田京伽
   : {
     surname       : {
