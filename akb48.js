@@ -640,6 +640,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/oota-yuuri',
     twitter       : 'https://twitter.com/yuuriso_1201',
   },
+  大谷満理奈
+  : {
+    surname       : {
+      kanji       : '大谷',
+      hiragana    : 'おおたに'
+    },
+    given_name    : {
+      kanji       : '満理奈',
+      hiragana    : 'まりな'
+    },
+    nickname      : 'マリーナ',
+    date_of_birth : '2004-02-14',
+    blood_type    : 'A',
+    from          : '山口県',
+    office        : 'STU',
+    current_teams : [ 'STU48' ],
+
+    twitter       : 'https://twitter.com/marina_stu48',
+  },
   大西桃香
   : {
     surname       : {
