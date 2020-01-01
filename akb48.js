@@ -1577,7 +1577,7 @@ var AKBG = {
     blood_type    : 'B',
     from          : '埼玉県',
     office        : 'Showtitle',
-    current_teams : [ '研究生（NMB48）' ],
+    current_teams : [ 'N' ],
 
     twitter       : 'https://twitter.com/___42rina',
   },
@@ -4028,7 +4028,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '大阪府',
     office        : 'Showtitle',
-    current_teams : [ '研究生（NMB48）' ],
+    current_teams : [ 'BII' ],
 
     twitter       : 'http://twitter.com/suchan_nmb48',
   },
