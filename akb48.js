@@ -4030,6 +4030,7 @@ var AKBG = {
     office        : 'Showtitle',
     current_teams : [ 'BII' ],
 
+    instagram     : 'https://www.instagram.com/yokono_sumire/',
     twitter       : 'http://twitter.com/suchan_nmb48',
   },
   横道侑里
