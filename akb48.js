@@ -2111,6 +2111,24 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/F452ex8A8o3U',
     twitter       : 'https://twitter.com/sugiyama_aika',
   },
+  鈴木優香
+  : {
+    surname       : {
+      kanji       : '鈴木',
+      hiragana    : 'すずき'
+    },
+    given_name    : {
+      kanji       : '優香',
+      hiragana    : 'ゆうか'
+    },
+    nickname      : 'ゆうかりん',
+    date_of_birth : '2000-08-15',
+    blood_type    : 'AB',
+    from          : '静岡県',
+    office        : 'AKS',
+    current_teams : [ '8' ],
+
+  },
   須田亜香里
   : {
     surname       : {
