@@ -3185,6 +3185,25 @@ var AKBG = {
   },
 
   /* ま */
+  前田令子
+  : {
+    surname       : {
+      kanji       : '前田',
+      hiragana    : 'まえだ'
+    },
+    given_name    : {
+      kanji       : '令子',
+      hiragana    : 'れいこ'
+    },
+    nickname      : 'れいこ',
+    date_of_birth : '2000-09-26',
+    blood_type    : 'B',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'M' ],
+
+    twitter       : 'http://twitter.com/r_ko__9',
+  },
   増田有華
   : {
     surname       : {
