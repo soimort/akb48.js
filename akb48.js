@@ -808,6 +808,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/okabe-rin',
     twitter       : 'https://twitter.com/Berin_official',
   },
+  小川結夏
+  : {
+    surname       : {
+      kanji       : '小川',
+      hiragana    : 'おがわ'
+    },
+    given_name    : {
+      kanji       : '結夏',
+      hiragana    : 'ゆうか'
+    },
+    nickname      : 'ゆうか',
+    date_of_birth : '1998-06-24',
+    blood_type    : 'A',
+    from          : '神奈川県',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    twitter       : 'https://twitter.com/yu_kanosns',
+  },
   沖侑果
   : {
     surname       : {
