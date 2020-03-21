@@ -2905,6 +2905,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/hattori-yuuna',
     twitter       : 'https://twitter.com/__03yuna30',
   },
+  原かれん
+  : {
+    surname       : {
+      kanji       : '原',
+      hiragana    : 'はら'
+    },
+    given_name    : {
+      hiragana    : 'かれん'
+    },
+    nickname      : 'かれんたん',
+    date_of_birth : '2001-03-15',
+    blood_type    : '不明',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    instagram     : 'https://www.instagram.com/karen_hara315/',
+    twitter       : 'https://twitter.com/karen_hara315',
+  },
   林萌々香
   : {
     surname       : {
