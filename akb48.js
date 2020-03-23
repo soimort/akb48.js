@@ -1880,26 +1880,6 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/shitao-miu',
     twitter       : 'https://twitter.com/miumiu_0403',
   },
-  地頭江音々
-  : {
-    surname       : {
-      kanji       : '地頭江',
-      hiragana    : 'ぢとうえ'
-    },
-    given_name    : {
-      kanji       : '音々',
-      hiragana    : 'ねね'
-    },
-    nickname      : 'ねねちゃん',
-    date_of_birth : '2000-09-27',
-    blood_type    : '',
-    from          : '宮崎県',
-    office        : 'AKS',
-    current_teams : [ 'KIV' ],
-
-    nanagogo      : 'https://7gogo.jp/jitoue-nene',
-    twitter       : 'https://twitter.com/nenechan0927',
-  },
   篠崎彩奈
   : {
     surname       : {
@@ -1962,6 +1942,27 @@ var AKBG = {
     current_teams : [],
 
     twitter       : 'https://twitter.com/paruruchan0330',
+  },
+  清水麻璃亜
+  : {
+    surname       : {
+      kanji       : '清水',
+      hiragana    : 'しみず'
+    },
+    given_name    : {
+      kanji       : '麻璃亜',
+      hiragana    : 'まりあ'
+    },
+    nickname      : 'まりあ',
+    date_of_birth : '1997-09-29',
+    blood_type    : 'A',
+    from          : '群馬県',
+    office        : 'AKS',
+    current_teams : [ '8', 'B' ],
+
+    instagram     : 'https://instagram.com/gn___maria/',
+    nanagogo      : 'https://7gogo.jp/shimizu-maria',
+    twitter       : 'http://twitter.com/gn___maria',
   },
   清水里香
   : {
@@ -2476,6 +2477,26 @@ var AKBG = {
   },
 
   /* ち */
+  地頭江音々
+  : {
+    surname       : {
+      kanji       : '地頭江',
+      hiragana    : 'ぢとうえ'
+    },
+    given_name    : {
+      kanji       : '音々',
+      hiragana    : 'ねね'
+    },
+    nickname      : 'ねねちゃん',
+    date_of_birth : '2000-09-27',
+    blood_type    : '',
+    from          : '宮崎県',
+    office        : 'AKS',
+    current_teams : [ 'KIV' ],
+
+    nanagogo      : 'https://7gogo.jp/jitoue-nene',
+    twitter       : 'https://twitter.com/nenechan0927',
+  },
   千葉恵里
   : {
     surname       : {
