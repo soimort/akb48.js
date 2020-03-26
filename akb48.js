@@ -1038,6 +1038,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kato-rena',
     twitter       : 'https://twitter.com/katorena_710',
   },
+  門脇実優菜
+  : {
+    surname       : {
+      kanji       : '門脇',
+      hiragana    : 'かどわき'
+    },
+    given_name    : {
+      kanji       : '実優菜',
+      hiragana    : 'みゆな'
+    },
+    nickname      : 'みゆみゆ',
+    date_of_birth : '2003-03-11',
+    blood_type    : 'O',
+    from          : '兵庫県',
+    office        : 'STU',
+    current_teams : [ 'STU48' ],
+
+    twitter       : 'https://twitter.com/Iloveyou_onion',
+  },
   鎌田菜月
   : {
     surname       : {
