@@ -4088,6 +4088,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yamada-marina',
     twitter       : 'https://twitter.com/maririchan_324',
   },
+  山本望叶
+  : {
+    surname       : {
+      kanji       : '山本',
+      hiragana    : 'やまもと'
+    },
+    given_name    : {
+      kanji       : '望叶',
+      hiragana    : 'みかな'
+    },
+    nickname      : 'みかにゃん',
+    date_of_birth : '2002-03-11',
+    blood_type    : 'B',
+    from          : '山口県',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    twitter       : 'https://twitter.com/_nyanmika_',
+  },
 
   /* よ */
   與儀ケイラ
