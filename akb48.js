@@ -3208,6 +3208,26 @@ var AKBG = {
   },
 
   /* ほ */
+  堀詩音
+  : {
+    surname       : {
+      kanji       : '堀',
+      hiragana    : 'ほり'
+    },
+    given_name    : {
+      kanji       : '詩音',
+      hiragana    : 'しおん'
+    },
+    nickname      : 'しおん',
+    date_of_birth : '1996-05-29',
+    blood_type    : 'O',
+    from          : '北海道',
+    office        : 'Showtitle',
+    current_teams : [ 'M' ],
+
+    instagram     : 'https://www.instagram.com/shion_hori/',
+    twitter       : 'https://twitter.com/shion_0529_hori',
+  },
   本田柚萱
   : {
     surname       : {
