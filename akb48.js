@@ -2297,7 +2297,7 @@ var AKBG = {
     date_of_birth : '1997-09-24',
     blood_type    : 'O',
     from          : '山口県',
-    office        : 'STU',
+    office        : 'Mama&Son',
     current_teams : [ 'STU48' ],
 
     twitter       : 'https://twitter.com/stu48_yumianko',
