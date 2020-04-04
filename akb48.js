@@ -4232,6 +4232,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yokoyama-yui',
     twitter       : 'https://twitter.com/Yui_Yoko1208',
   },
+  横山結衣
+  : {
+    surname       : {
+      kanji       : '横山',
+      hiragana    : 'よこやま'
+    },
+    given_name    : {
+      kanji       : '結衣',
+      hiragana    : 'ゆい'
+    },
+    nickname      : 'ヨコちゃん',
+    date_of_birth : '2001-02-22',
+    blood_type    : 'O',
+    from          : '青森県',
+    office        : 'DH',
+    current_teams : [ '8', 'K' ],
+
+    instagram     : 'https://instagram.com/yoko_yui_team8/',
+    nanagogo      : 'https://7gogo.jp/yokoyamayui',
+    twitter       : 'http://twitter.com/_yokoyuichan_',
+  },
   吉川七瀬
   : {
     surname       : {
