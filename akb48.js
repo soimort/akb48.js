@@ -1859,6 +1859,25 @@ var AKBG = {
   },
 
   /* し */
+  新澤菜央
+  : {
+    surname       : {
+      kanji       : '新澤',
+      hiragana    : 'しんざわ'
+    },
+    given_name    : {
+      kanji       : '菜央',
+      hiragana    : 'なお'
+    },
+    nickname      : 'しんしん',
+    date_of_birth : '1998-08-02',
+    blood_type    : 'B',
+    from          : '兵庫県',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    twitter       : 'http://twitter.com/_shinshin_48',
+  },
   上西怜
   : {
     surname       : {
