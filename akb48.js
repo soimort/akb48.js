@@ -2470,6 +2470,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/tanikawa-hijiri',
     twitter       : 'https://twitter.com/_12chan_',
   },
+  谷口愛理
+  : {
+    surname       : {
+      kanji       : '谷口',
+      hiragana    : 'たにぐち'
+    },
+    given_name    : {
+      kanji       : '愛理',
+      hiragana    : 'あいり'
+    },
+    nickname      : 'あいりす',
+    date_of_birth : '1999-03-14',
+    blood_type    : 'AB',
+    from          : '福岡県',
+    office        : '',
+    current_teams : [],
+
+    instagram     : 'https://www.instagram.com/ah_rinman/',
+    twitter       : 'https://twitter.com/ah_rinman',
+  },
   谷口めぐ
   : {
     surname       : {
