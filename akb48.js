@@ -361,6 +361,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/iwata-karen',
     twitter       : 'https://twitter.com/karen0513_',
   },
+  岩田陽菜
+  : {
+    surname       : {
+      kanji       : '岩田',
+      hiragana    : 'いわた'
+    },
+    given_name    : {
+      kanji       : '陽菜',
+      hiragana    : 'ひな'
+    },
+    nickname      : 'ひなちゃん',
+    date_of_birth : '2003-02-21',
+    blood_type    : 'A',
+    from          : '山口県',
+    office        : 'STU',
+    current_teams : [ 'STU48' ],
+
+    instagram     : 'https://www.instagram.com/hina_naso_STU48/',
+    twitter       : 'https://twitter.com/sukinasoo_hina',
+  },
   岩田桃夏
   : {
     surname       : {
