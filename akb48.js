@@ -4187,6 +4187,27 @@ var AKBG = {
     twitter       : 'https://twitter.com/_nyanmika_',
   },
 
+  /* ゆ */
+  由良朱合
+  : {
+    surname       : {
+      kanji       : '由良',
+      hiragana    : 'ゆら'
+    },
+    given_name    : {
+      kanji       : '朱合',
+      hiragana    : 'あかり'
+    },
+    nickname      : 'ゆらりん',
+    date_of_birth : '1999-03-12',
+    blood_type    : 'O',
+    from          : '広島県',
+    office        : '',
+    current_teams : [],
+
+    twitter       : 'https://twitter.com/yura0312akari',
+  },
+
   /* よ */
   與儀ケイラ
   : {
