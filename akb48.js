@@ -3747,6 +3747,25 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/murai_junna/',
     twitter       : 'https://twitter.com/Murai_Junna',
   },
+  村上和叶
+  : {
+    surname       : {
+      kanji       : '村上',
+      hiragana    : 'むらかみ'
+    },
+    given_name    : {
+      kanji       : '和叶',
+      hiragana    : 'わかな'
+    },
+    nickname      : 'わかにゃん',
+    date_of_birth : '2003-03-30',
+    blood_type    : '不明',
+    from          : '埼玉県',
+    office        : 'Mercury',
+    current_teams : [ '研究生（HKT48）' ],
+
+    twitter       : 'http://twitter.com/wakana_hkt48',
+  },
   村瀬紗英
   : {
     surname       : {
