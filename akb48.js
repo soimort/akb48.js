@@ -1749,6 +1749,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/sakaguchi-riko',
     twitter       : 'https://twitter.com/ricopi_726',
   },
+  坂本愛玲菜
+  : {
+    surname       : {
+      kanji       : '坂本',
+      hiragana    : 'さかもと'
+    },
+    given_name    : {
+      kanji       : '愛玲菜',
+      hiragana    : 'えれな'
+    },
+    nickname      : 'えれたん',
+    date_of_birth : '2000-09-12',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : 'Mercury',
+    current_teams : [ 'TII' ],
+
+    instagram     : 'https://instagram.com/erena_hkt48',
+    nanagogo      : 'https://7gogo.jp/sakamoto-erena',
+    twitter       : 'http://twitter.com/Ern807hkt',
+  },
   佐々木優佳里
   : {
     surname       : {
