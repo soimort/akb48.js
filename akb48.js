@@ -294,6 +294,27 @@ var AKBG = {
     gplus         : 'https://plus.google.com/106166082359574012420',
     nanagogo      : 'https://7gogo.jp/inoue-yuriya',
   },
+  今村麻莉愛
+  : {
+    surname       : {
+      kanji       : '今村',
+      hiragana    : 'いまむら'
+    },
+    given_name    : {
+      kanji       : '麻莉愛',
+      hiragana    : 'まりあ'
+    },
+    nickname      : 'まーさん',
+    date_of_birth : '2003-09-14',
+    blood_type    : '不明',
+    from          : '群馬県',
+    office        : 'Mercury',
+    current_teams : [ 'TII' ],
+
+    instagram     : 'https://www.instagram.com/maria_0914_/',
+    nanagogo      : 'https://7gogo.jp/maria-imamura',
+    twitter       : 'http://twitter.com/maria_0914_',
+  },
   入山杏奈
   : {
     surname       : {
