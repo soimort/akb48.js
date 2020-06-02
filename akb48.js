@@ -3309,6 +3309,26 @@ var AKBG = {
   },
 
   /* ほ */
+  外薗葉月
+  : {
+    surname       : {
+      kanji       : '外薗',
+      hiragana    : 'ほかぞの'
+    },
+    given_name    : {
+      kanji       : '葉月',
+      hiragana    : 'はづき'
+    },
+    nickname      : 'はづき',
+    date_of_birth : '1999-01-17',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : 'Mercury',
+    current_teams : [ 'TII' ],
+
+    instagram     : 'https://www.instagram.com/hazuki_hokazono/',
+    twitter       : 'https://twitter.com/hazuki___0117',
+  },
   堀詩音
   : {
     surname       : {
