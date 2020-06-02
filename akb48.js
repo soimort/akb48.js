@@ -1447,6 +1447,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kumazaki-haruka',
     twitter       : 'https://twitter.com/kumachan9810',
   },
+  熊沢世莉奈
+  : {
+    surname       : {
+      kanji       : '熊沢',
+      hiragana    : 'くまざわ'
+    },
+    given_name    : {
+      kanji       : '世莉奈',
+      hiragana    : 'せりな'
+    },
+    nickname      : 'せりーぬ',
+    date_of_birth : '1997-04-17',
+    blood_type    : 'O',
+    from          : '福岡県',
+    office        : 'Mercury',
+    current_teams : [ 'KIV' ],
+
+    instagram     : 'https://www.instagram.com/kuma_0417/',
+    nanagogo      : 'https://7gogo.jp/kumazawa-serina',
+    twitter       : 'https://twitter.com/kuma_Seri',
+  },
   倉野尾成美
   : {
     surname       : {
