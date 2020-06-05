@@ -2938,6 +2938,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/nagano-serika',
     twitter       : 'https://twitter.com/akb48serika',
   },
+  中村歩加
+  : {
+    surname       : {
+      kanji       : '中村',
+      hiragana    : 'なかむら'
+    },
+    given_name    : {
+      kanji       : '歩加',
+      hiragana    : 'あゆか'
+    },
+    nickname      : 'あゆたろう',
+    date_of_birth : '1998-07-28',
+    blood_type    : 'AB',
+    from          : '新潟県',
+    office        : 'Flora',
+    current_teams : [ 'NGT48' ],
+
+    instagram     : 'https://www.instagram.com/nakamuland_official/',
+    twitter       : 'https://twitter.com/ayutaro_ngt48',
+  },
   奈良未遥
   : {
     surname       : {
