@@ -1030,7 +1030,7 @@ var AKBG = {
     date_of_birth : '1999-01-15',
     blood_type    : 'O',
     from          : '新潟県',
-    office        : 'AKS',
+    office        : 'Flora',
     current_teams : [ 'NGT48' ],
 
     instagram     : 'https://www.instagram.com/katominami_ngt48/',
@@ -2314,7 +2314,7 @@ var AKBG = {
     date_of_birth : '2001-04-19',
     blood_type    : 'O',
     from          : '埼玉県',
-    office        : 'AKS',
+    office        : 'Flora',
     current_teams : [ 'NGT48' ],
 
     instagram     : 'https://www.instagram.com/seiji_0007/',
@@ -2972,7 +2972,7 @@ var AKBG = {
     date_of_birth : '1998-03-20',
     blood_type    : 'A',
     from          : '青森県',
-    office        : 'AKS',
+    office        : 'Flora',
     current_teams : [ 'NGT48' ],
 
     instagram     : 'https://www.instagram.com/mihapiyo._.48/',
@@ -3442,7 +3442,7 @@ var AKBG = {
     date_of_birth : '1999-11-10',
     blood_type    : 'B',
     from          : '新潟県',
-    office        : 'AKS',
+    office        : 'Flora',
     current_teams : [ 'NGT48' ],
 
     instagram     : 'https://www.instagram.com/hinata_homma1110/',
