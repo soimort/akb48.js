@@ -3238,6 +3238,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/fujie-reina',
     twitter       : 'https://twitter.com/nya_n017',
   },
+  藤崎未夢
+  : {
+    surname       : {
+      kanji       : '藤崎',
+      hiragana    : 'ふじさき'
+    },
+    given_name    : {
+      kanji       : '未夢',
+      hiragana    : 'みゆ'
+    },
+    nickname      : 'みゆみゆ',
+    date_of_birth : '2000-11-17',
+    blood_type    : 'A',
+    from          : '新潟県',
+    office        : 'Flora',
+    current_teams : [ 'NGT48' ],
+
+    instagram     : 'https://www.instagram.com/miyu_miyu_ngt48/',
+    nanagogo      : 'https://7gogo.jp/fujisaki-miyu',
+    twitter       : 'https://twitter.com/miyu_miyu_NGT48',
+  },
   藤田奈那
   : {
     surname       : {
