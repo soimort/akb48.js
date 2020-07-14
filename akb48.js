@@ -3995,6 +3995,26 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/_morianna/',
     twitter       : 'https://twitter.com/_morianna',
   },
+  森香穂
+  : {
+    surname       : {
+      kanji       : '森',
+      hiragana    : 'もり'
+    },
+    given_name    : {
+      kanji       : '香穂',
+      hiragana    : 'かほ'
+    },
+    nickname      : 'かほたる',
+    date_of_birth : '1997-06-01',
+    blood_type    : 'B',
+    from          : '三重県',
+    office        : 'ゼロイチファミリア',
+    current_teams : [],
+
+    instagram     : 'https://www.instagram.com/kaho_mori0601/',
+    twitter       : 'https://twitter.com/mori_kaho0601',
+  },
   森保まどか
   : {
     surname       : {
