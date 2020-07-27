@@ -4330,6 +4330,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yamada-marina',
     twitter       : 'https://twitter.com/maririchan_324',
   },
+  山本彩加
+  : {
+    surname       : {
+      kanji       : '山本',
+      hiragana    : 'やまもと'
+    },
+    given_name    : {
+      kanji       : '彩加',
+      hiragana    : 'あやか'
+    },
+    nickname      : 'あーやん',
+    date_of_birth : '2002-08-06',
+    blood_type    : 'A',
+    from          : '兵庫県',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    instagram     : 'https://www.instagram.com/ayaka48_yanyan/',
+    twitter       : 'https://twitter.com/ayaka48_yan',
+  },
   山本望叶
   : {
     surname       : {
