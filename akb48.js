@@ -970,6 +970,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/oda-erina',
     twitter       : 'https://twitter.com/odaeri_425',
   },
+  尾上美月
+  : {
+    surname       : {
+      kanji       : '尾上',
+      hiragana    : 'おのうえ'
+    },
+    given_name    : {
+      kanji       : '美月',
+      hiragana    : 'みづき'
+    },
+    nickname      : 'おみづき',
+    date_of_birth : '2000-05-22',
+    blood_type    : 'B',
+    from          : '長崎県',
+    office        : 'DH',
+    current_teams : [ '8' ],
+
+    nanagogo      : 'https://7gogo.jp/mizuki-onoue',
+  },
   小畑優奈
   : {
     surname       : {
