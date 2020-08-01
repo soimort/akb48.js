@@ -63,6 +63,26 @@ var AKBG = {
     gplus         : 'https://plus.google.com/100694627368957691223',
     instagram     : 'https://www.instagram.com/_abedesu/',
   },
+  安部若菜
+  : {
+    surname       : {
+      kanji       : '安部',
+      hiragana    : 'あべ'
+    },
+    given_name    : {
+      kanji       : '若菜',
+      hiragana    : 'わかな'
+    },
+    nickname      : 'わかぽん',
+    date_of_birth : '2001-07-18',
+    blood_type    : 'O',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'M' ],
+
+    instagram     : 'https://www.instagram.com/_pon_0718/',
+    twitter       : 'https://twitter.com/wakapon_48',
+  },
   荒巻美咲
   : {
     surname       : {
