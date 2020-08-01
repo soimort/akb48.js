@@ -3089,24 +3089,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/hattori-yuuna',
     twitter       : 'https://twitter.com/__03yuna30',
   },
-  原かれん
+  濵咲友菜
   : {
     surname       : {
-      kanji       : '原',
-      hiragana    : 'はら'
+      kanji       : '濵',
+      hiragana    : 'はま'
     },
     given_name    : {
-      hiragana    : 'かれん'
+      kanji       : '咲友菜',
+      hiragana    : 'さゆな'
     },
-    nickname      : 'かれんたん',
-    date_of_birth : '2001-03-15',
-    blood_type    : '不明',
-    from          : '大阪府',
-    office        : 'Showtitle',
-    current_teams : [ 'BII' ],
+    nickname      : 'はまちゃん',
+    date_of_birth : '2001-08-20',
+    blood_type    : 'A',
+    from          : '滋賀県',
+    office        : 'DH',
+    current_teams : [ '8', '4' ],
 
-    instagram     : 'https://www.instagram.com/karen_hara315/',
-    twitter       : 'https://twitter.com/karen_hara315',
+    instagram     : 'https://www.instagram.com/sayuna_hamachan/',
+    nanagogo      : 'https://7gogo.jp/hama-sayuna',
+    twitter       : 'https://twitter.com/hamachan_0820',
   },
   林萌々香
   : {
@@ -3128,6 +3130,25 @@ var AKBG = {
     gplus         : 'https://plus.google.com/105975378768005691666',
     instagram     : 'https://www.instagram.com/momoka_hayashi/',
     twitter       : 'https://twitter.com/moka9_11',
+  },
+  原かれん
+  : {
+    surname       : {
+      kanji       : '原',
+      hiragana    : 'はら'
+    },
+    given_name    : {
+      hiragana    : 'かれん'
+    },
+    nickname      : 'かれんたん',
+    date_of_birth : '2001-03-15',
+    blood_type    : '不明',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    instagram     : 'https://www.instagram.com/karen_hara315/',
+    twitter       : 'https://twitter.com/karen_hara315',
   },
 
   /* ひ */
