@@ -4597,6 +4597,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yoshikawa-nanase',
     twitter       : 'https://twitter.com/nanaseworld_7',
   },
+  吉田朱里
+  : {
+    surname       : {
+      kanji       : '吉田',
+      hiragana    : 'よしだ'
+    },
+    given_name    : {
+      kanji       : '朱里',
+      hiragana    : 'あかり'
+    },
+    nickname      : 'アカリン',
+    date_of_birth : '1996-08-16',
+    blood_type    : 'AB',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'N' ],
+
+    instagram     : 'https://www.instagram.com/_yoshida_akari/',
+    nanagogo      : 'https://7gogo.jp/yoshida-akari',
+    twitter       : 'https://twitter.com/_yoshida_akari',
+  },
 
   /* わ */
   渡辺麻友
