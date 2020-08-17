@@ -211,6 +211,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/ishizuka-akari',
     twitter       : 'https://twitter.com/akari_0711',
   },
+  磯佳奈江
+  : {
+    surname       : {
+      kanji       : '磯',
+      hiragana    : 'いそ'
+    },
+    given_name    : {
+      kanji       : '佳奈江',
+      hiragana    : 'かなえ'
+    },
+    nickname      : 'いそちゃん',
+    date_of_birth : '1993-08-09',
+    blood_type    : 'B',
+    from          : '茨城県',
+    office        : '',
+    current_teams : [],
+
+    instagram     : 'https://www.instagram.com/isochan89/',
+    twitter       : 'https://twitter.com/isokana89',
+  },
   磯原杏華
   : {
     surname       : {
