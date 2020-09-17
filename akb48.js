@@ -965,7 +965,7 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ '8', 'A' ],
 
-    instagram     : 'https://www.instagram.com/tokyo8marron/',
+    instagram     : 'https://www.instagram.com/yuioguri_1226/',
     nanagogo      : 'https://7gogo.jp/oguri-yui',
     twitter       : 'https://twitter.com/yuiyui_maromaro',
   },
