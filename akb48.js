@@ -763,6 +763,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/oonishi-momoka',
     twitter       : 'https://twitter.com/momo_0x0_920',
   },
+  大場美奈
+  : {
+    surname       : {
+      kanji       : '大場',
+      hiragana    : 'おおば'
+    },
+    given_name    : {
+      kanji       : '美奈',
+      hiragana    : 'みな'
+    },
+    nickname      : 'みなるん',
+    date_of_birth : '1992-04-03',
+    blood_type    : 'A',
+    from          : '神奈川県',
+    office        : 'ジャパン・ミュージックエンターテインメント',
+    current_teams : [ 'KII' ],
+
+    instagram     : 'https://www.instagram.com/obamina__43/',
+    nanagogo      : 'https://7gogo.jp/oba-mina',
+    twitter       : 'https://twitter.com/mina_ovo',
+  },
   大森美優
   : {
     surname       : {
