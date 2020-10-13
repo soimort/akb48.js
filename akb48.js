@@ -2250,6 +2250,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/shiroma-miru',
     twitter       : 'https://twitter.com/shiromiru36',
   },
+  菖蒲まりん
+  : {
+    surname       : {
+      kanji       : '菖蒲',
+      hiragana    : 'しょうぶ'
+    },
+    given_name    : {
+      hiragana    : 'まりん'
+    },
+    nickname      : 'マリン',
+    date_of_birth : '1999-12-29',
+    blood_type    : 'O',
+    from          : '北海道',
+    office        : 'Showtitle',
+    current_teams : [ 'N' ],
+
+    instagram     : 'https://www.instagram.com/_marinshobu_/',
+    twitter       : 'https://twitter.com/_marinshobu_',
+  },
 
   /* す */
   末永桜花
