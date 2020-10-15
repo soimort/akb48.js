@@ -552,6 +552,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/utada-hatsuka',
     twitter       : 'https://twitter.com/hatsu_akb',
   },
+  梅田彩佳
+  : {
+    surname       : {
+      kanji       : '梅田',
+      hiragana    : 'うめだ'
+    },
+    given_name    : {
+      kanji       : '彩佳',
+      hiragana    : 'あやか'
+    },
+    nickname      : 'うめちゃん',
+    date_of_birth : '1989-01-03',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : 'TRUSTAR',
+    current_teams : [],
+
+    blog          : 'https://ameblo.jp/dance-ayapon/',
+    instagram     : 'https://www.instagram.com/ayaka_umeda_official/',
+    twitter       : 'https://twitter.com/AyakaUmeda',
+  },
   梅山恋和
   : {
     surname       : {
