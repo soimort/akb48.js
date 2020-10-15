@@ -2566,6 +2566,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/tashima-meru',
     twitter       : 'https://twitter.com/meru_chan_07',
   },
+  田中菜津美
+  : {
+    surname       : {
+      kanji       : '田中',
+      hiragana    : 'たなか'
+    },
+    given_name    : {
+      kanji       : '菜津美',
+      hiragana    : 'なつみ'
+    },
+    nickname      : 'なつみかん',
+    date_of_birth : '2000-08-10',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : '',
+    current_teams : [],
+
+    instagram     : 'https://www.instagram.com/natsumitanaka_0810/',
+    twitter       : 'https://twitter.com/mikanchiyan723',
+  },
   田中美久
   : {
     surname       : {
