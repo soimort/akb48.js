@@ -860,7 +860,7 @@ var AKBG = {
       hiragana    : 'あやか'
     },
     nickname      : 'あやか',
-    date_of_birth : '1998-11-6',
+    date_of_birth : '1998-11-06',
     blood_type    : 'A',
     from          : '東京都',
     office        : '松竹芸能',
@@ -932,6 +932,26 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/beristagram_1107/',
     nanagogo      : 'https://7gogo.jp/okabe-rin',
     twitter       : 'https://twitter.com/Berin_official',
+  },
+  岡本怜奈
+  : {
+    surname       : {
+      kanji       : '岡本',
+      hiragana    : 'おかもと'
+    },
+    given_name    : {
+      kanji       : '怜奈',
+      hiragana    : 'れな'
+    },
+    nickname      : 'れなたん',
+    date_of_birth : '2005-12-22',
+    blood_type    : 'O',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    instagram     : 'https://www.instagram.com/renatan1222/',
+    twitter       : 'https://twitter.com/12_Renatan_22',
   },
   小川結夏
   : {
