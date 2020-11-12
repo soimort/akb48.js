@@ -4407,6 +4407,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yamauchi-mizuki',
     twitter       : 'https://twitter.com/mizukiyamauchi',
   },
+  山内祐奈
+  : {
+    surname       : {
+      kanji       : '山内',
+      hiragana    : 'やまうち'
+    },
+    given_name    : {
+      kanji       : '山内',
+      hiragana    : 'ゆうな'
+    },
+    nickname      : 'ゆうな',
+    date_of_birth : '1999-07-06',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : 'Mercury',
+    current_teams : [ 'TII' ],
+
+    instagram     : 'https://www.instagram.com/yuna_hkt48/',
+    nanagogo      : 'https://7gogo.jp/yamauchi-yuna',
+    twitter       : 'https://twitter.com/yuna_0706hkt',
+  },
   山口真帆
   : {
     surname       : {
