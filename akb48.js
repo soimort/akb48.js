@@ -2392,6 +2392,7 @@ var AKBG = {
     office        : 'AKS',
     current_teams : [ '8' ],
 
+    twitter       : 'https://twitter.com/SUZUKIYUUKARIN_',
   },
   須田亜香里
   : {
