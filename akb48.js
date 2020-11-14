@@ -3648,6 +3648,7 @@ var AKBG = {
     office        : 'Showtitle',
     current_teams : [ 'M' ],
 
+    instagram     : 'https://www.instagram.com/rrr_9_m/',
     twitter       : 'http://twitter.com/r_ko__9',
   },
   増田有華
