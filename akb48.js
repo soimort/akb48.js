@@ -1349,6 +1349,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kawakami-rena',
     twitter       : 'https://twitter.com/renapyon_udon',
   },
+  川越紗彩
+  : {
+    surname       : {
+      kanji       : '川越',
+      hiragana    : 'かわごえ'
+    },
+    given_name    : {
+      kanji       : '紗彩',
+      hiragana    : 'さあや'
+    },
+    nickname      : 'さあやん',
+    date_of_birth : '2000-10-14',
+    blood_type    : 'B',
+    from          : '茨城県',
+    office        : 'Flora',
+    current_teams : [ 'NGT48' ],
+
+    instagram     : 'https://www.instagram.com/saaya_kawagoe_ngt48/',
+    nanagogo      : 'https://7gogo.jp/kawagoe-saaya',
+    twitter       : 'https://twitter.com/saaya_kawagoe48',
+  },
   川崎成美
   : {
     surname       : {
