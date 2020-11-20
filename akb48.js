@@ -190,6 +190,27 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/can1202can/',
     twitter       : 'https://twitter.com/can2525can',
   },
+  石田優美
+  : {
+    surname       : {
+      kanji       : '石田',
+      hiragana    : 'いしだ'
+    },
+    given_name    : {
+      kanji       : '優美',
+      hiragana    : 'ゆうみ'
+    },
+    nickname      : 'ゆうみん',
+    date_of_birth : '1998-10-12',
+    blood_type    : 'B',
+    from          : '兵庫県',
+    office        : 'Showtitle',
+    current_teams : [ 'N' ],
+
+    instagram     : 'https://www.instagram.com/yu_mi_1012/',
+    nanagogo      : 'https://7gogo.jp/ishida-yuumi',
+    twitter       : 'https://twitter.com/yuumi_1012',
+  },
   石塚朱莉
   : {
     surname       : {
