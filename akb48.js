@@ -1158,6 +1158,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kashiwagi-yuki',
     twitter       : 'https://twitter.com/Yukiriiiin__K',
   },
+  片山陽加
+  : {
+    surname       : {
+      kanji       : '片山',
+      hiragana    : 'かたやま'
+    },
+    given_name    : {
+      kanji       : '陽加',
+      hiragana    : 'はるか'
+    },
+    nickname      : 'はーちゃん',
+    date_of_birth : '1990-05-10',
+    blood_type    : 'A',
+    from          : '愛知県',
+    office        : 'アービング',
+    current_teams : [],
+
+    blog          : 'https://ameblo.jp/harukatayama/',
+    instagram     : 'https://www.instagram.com/haachandyoo/',
+    twitter       : 'http://twitter.com/haachandayoo',
+  },
   加藤美南
   : {
     surname       : {
