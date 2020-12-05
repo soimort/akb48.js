@@ -3141,6 +3141,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/nagano-serika',
     twitter       : 'https://twitter.com/akb48serika',
   },
+  長野雅
+  : {
+    surname       : {
+      kanji       : '長野',
+      hiragana    : 'ながの'
+    },
+    given_name    : {
+      kanji       : '雅',
+      hiragana    : 'みやび'
+    },
+    nickname      : 'みやびーむ',
+    date_of_birth : '1999-10-03',
+    blood_type    : 'O',
+    from          : '愛知県',
+    office        : 'Mercury',
+    current_teams : [ '研究生（HKT48）' ],
+
+    twitter       : 'http://twitter.com/naganomiyabi',
+  },
   中村歩加
   : {
     surname       : {
