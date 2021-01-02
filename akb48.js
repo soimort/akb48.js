@@ -2810,7 +2810,7 @@ var AKBG = {
     date_of_birth : '1998-11-12',
     blood_type    : 'A',
     from          : '東京都',
-    office        : 'AKS',
+    office        : 'A.M.Entertainment',
     current_teams : [ 'B' ],
 
     gplus         : 'https://plus.google.com/105078910574942856246',
