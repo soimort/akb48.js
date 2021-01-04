@@ -2126,6 +2126,25 @@ var AKBG = {
   },
 
   /* し */
+  塩月希依音
+  : {
+    surname       : {
+      kanji       : '塩月',
+      hiragana    : 'しおつき'
+    },
+    given_name    : {
+      kanji       : 'けいと',
+      hiragana    : '希依音'
+    },
+    nickname      : 'けいと',
+    date_of_birth : '2005-12-15',
+    blood_type    : 'A',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    twitter       : 'http://twitter.com/keity_1215',
+  },
   新澤菜央
   : {
     surname       : {
