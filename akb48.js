@@ -2133,8 +2133,8 @@ var AKBG = {
       hiragana    : 'しおつき'
     },
     given_name    : {
-      kanji       : 'けいと',
-      hiragana    : '希依音'
+      kanji       : '希依音',
+      hiragana    : 'けいと'
     },
     nickname      : 'けいと',
     date_of_birth : '2005-12-15',
