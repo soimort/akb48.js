@@ -2970,6 +2970,26 @@ var AKBG = {
   },
 
   /* と */
+  徳永羚海
+  : {
+    surname       : {
+      kanji       : '徳永',
+      hiragana    : 'とくなが'
+    },
+    given_name    : {
+      kanji       : '羚海',
+      hiragana    : 'れみ'
+    },
+    nickname      : 'れみい',
+    date_of_birth : '2006-10-01',
+    blood_type    : 'O',
+    from          : '鳥取県',
+    office        : 'DH',
+    current_teams : [ '8' ],
+
+    nanagogo      : 'https://7gogo.jp/remi-tokunaga',
+    twitter       : 'http://twitter.com/48_RemiTokunaga',
+  },
   朝長美桜
   : {
     surname       : {
