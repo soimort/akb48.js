@@ -2040,6 +2040,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/sashihara-rino',
     twitter       : 'https://twitter.com/345__chan',
   },
+  佐藤朱
+  : {
+    surname       : {
+      kanji       : '佐藤',
+      hiragana    : 'さとう'
+    },
+    given_name    : {
+      kanji       : '朱',
+      hiragana    : 'あかり'
+    },
+    nickname      : 'あかりん',
+    date_of_birth : '1996-11-09',
+    blood_type    : 'A',
+    from          : '宮城県',
+    office        : 'DH',
+    current_teams : [ '8', 'B' ],
+
+    instagram     : 'https://www.instagram.com/akari_miyagi/',
+    nanagogo      : 'https://7gogo.jp/sato-akari',
+    twitter       : 'https://twitter.com/AKARI_SATO_1109',
+  },
   佐藤佳穂
   : {
     surname       : {
