@@ -1045,7 +1045,7 @@ var AKBG = {
     date_of_birth : '2001-12-26',
     blood_type    : '',
     from          : '東京都',
-    office        : 'AKS',
+    office        : 'ゼスト',
     current_teams : [ '8', 'A' ],
 
     instagram     : 'https://www.instagram.com/yuioguri_1226/',
