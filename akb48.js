@@ -3283,6 +3283,27 @@ var AKBG = {
   },
 
   /* に */
+  西川怜
+  : {
+    surname       : {
+      kanji       : '西川',
+      hiragana    : 'にしかわ'
+    },
+    given_name    : {
+      kanji       : '怜',
+      hiragana    : 'れい'
+    },
+    nickname      : 'れい',
+    date_of_birth : '2003-10-25',
+    blood_type    : 'B',
+    from          : '東京都',
+    office        : 'DH',
+    current_teams : [ 'A' ],
+
+    instagram     : 'https://www.instagram.com/rei_nishikawa_1025/',
+    nanagogo      : 'https://7gogo.jp/nishikawa-rei',
+    twitter       : 'http://twitter.com/rei_1025_48',
+  },
   西澤瑠莉奈
   : {
     surname       : {
@@ -3515,7 +3536,7 @@ var AKBG = {
     office        : 'DH',
     current_teams : [ '8', 'K' ],
 
-    instagram     : 'https://instagram.com/hidaaya_729',
+    instagram     : 'https://www.instagram.com/hidaaya_729/',
     nanagogo      : 'https://7gogo.jp/hidaritomo-ayaka',
     twitter       : 'https://twitter.com/hidaaya_0729',
   },
