@@ -3498,6 +3498,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/hidaka-yuduki',
     twitter       : 'https://twitter.com/iamyuzuki_k2',
   },
+  左伴彩佳
+  : {
+    surname       : {
+      kanji       : '左伴',
+      hiragana    : 'ひだりとも'
+    },
+    given_name    : {
+      kanji       : '彩佳',
+      hiragana    : 'あやか'
+    },
+    nickname      : 'ひだあや',
+    date_of_birth : '1998-07-29',
+    blood_type    : 'A',
+    from          : '山梨県',
+    office        : 'DH',
+    current_teams : [ '8', 'K' ],
+
+    instagram     : 'https://instagram.com/hidaaya_729',
+    nanagogo      : 'https://7gogo.jp/hidaritomo-ayaka',
+    twitter       : 'https://twitter.com/hidaaya_0729',
+  },
   平田梨奈
   : {
     surname       : {
