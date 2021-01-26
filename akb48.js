@@ -2690,6 +2690,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/tashima-meru',
     twitter       : 'https://twitter.com/meru_chan_07',
   },
+  達家真姫宝
+  : {
+    surname       : {
+      kanji       : '達家',
+      hiragana    : 'たつや'
+    },
+    given_name    : {
+      kanji       : '真姫宝',
+      hiragana    : 'まきほ'
+    },
+    nickname      : 'まきちゃん',
+    date_of_birth : '2001-10-19',
+    blood_type    : 'B',
+    from          : '東京都',
+    office        : 'トイプラ',
+    current_teams : [],
+
+    instagram     : 'https://www.instagram.com/makiho_official/',
+    nanagogo      : 'https://7gogo.jp/tatsuya-makiho',
+    twitter       : 'http://twitter.com/makiho_1019',
+  },
   田中菜津美
   : {
     surname       : {
