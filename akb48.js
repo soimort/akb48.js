@@ -5012,6 +5012,24 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/miyukichan919/',
     twitter       : 'https://twitter.com/miyukiofficial9',
   },
+  和田海佑
+  : {
+    surname       : {
+      kanji       : '和田',
+      hiragana    : 'わだ'
+    },
+    given_name    : {
+      kanji       : '海佑',
+      hiragana    : 'みゆ'
+    },
+    nickname      : 'みゅう',
+    date_of_birth : '1997-03-29',
+    blood_type    : 'AB',
+    from          : '兵庫県',
+    office        : 'Showtitle',
+    current_teams : [ '研究生（NMB48）' ],
+
+  },
 
 }
 
