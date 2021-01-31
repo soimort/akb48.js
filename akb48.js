@@ -2648,6 +2648,25 @@ var AKBG = {
 
     twitter       : 'https://twitter.com/stu48_yumianko',
   },
+  竹内ななみ
+  : {
+    surname       : {
+      kanji       : '竹内',
+      hiragana    : 'たけうち'
+    },
+    given_name    : {
+      hiragana    : 'ななみ'
+    },
+    nickname      : 'なーやん',
+    date_of_birth : '2001-02-24',
+    blood_type    : 'A',
+    from          : '大阪府',
+    office        : 'ゼスト',
+    current_teams : [ 'S' ],
+
+    instagram     : 'https://www.instagram.com/na_yan0224/',
+    twitter       : 'https://twitter.com/na_yan0224',
+  },
   武田智加
   : {
     surname       : {
