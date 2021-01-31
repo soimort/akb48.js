@@ -129,6 +129,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/iino-miyabi',
     twitter       : 'https://twitter.com/miyabi_ichigo15',
   },
+  石川花音
+  : {
+    surname       : {
+      kanji       : '石川',
+      hiragana    : 'いしかわ'
+    },
+    given_name    : {
+      kanji       : '花音',
+      hiragana    : 'かのん'
+    },
+    nickname      : 'きゃのんてぃ',
+    date_of_birth : '1997-12-19',
+    blood_type    : 'A',
+    from          : '千葉県',
+    office        : 'ゼスト',
+    current_teams : [ 'E' ],
+
+    instagram     : 'https://www.instagram.com/kyanonty1219/',
+    twitter       : 'http://twitter.com/kyanonty1219',
+  },
   石黒友月
   : {
     surname       : {
