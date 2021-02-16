@@ -1715,6 +1715,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kurihara-sae',
     twitter       : 'https://twitter.com/38sae_kurihara',
   },
+  栗山梨奈
+  : {
+    surname       : {
+      kanji       : '栗山',
+      hiragana    : 'くりやま'
+    },
+    given_name    : {
+      kanji       : '梨奈',
+      hiragana    : 'りな'
+    },
+    nickname      : 'りな',
+    date_of_birth : '2000-12-30',
+    blood_type    : 'A',
+    from          : '大分県',
+    office        : 'Mercury',
+    current_teams : [ '研究生（HKT48）' ],
+
+    instagram     : 'https://www.instagram.com/krn_hkt48/',
+    twitter       : 'http://twitter.com/krn__HKT48',
+  },
 
   /* こ */
   神志那結衣
