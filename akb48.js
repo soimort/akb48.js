@@ -1303,6 +1303,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kamata-natsuki',
     twitter       : 'https://twitter.com/nacky_k829',
   },
+  蒲地志奈
+  : {
+    surname       : {
+      kanji       : '蒲地',
+      hiragana    : 'かまち'
+    },
+    given_name    : {
+      kanji       : '志奈',
+      hiragana    : 'ゆきな'
+    },
+    nickname      : 'ゆっきーな',
+    date_of_birth : '2000-01-22',
+    blood_type    : 'A',
+    from          : '岡山県',
+    office        : 'DH',
+    current_teams : [ '8' ],
+
+    nanagogo      : 'https://7gogo.jp/yukina-kamachi',
+    twitter       : 'http://twitter.com/Yukina_Kamachi',
+  },
   上枝恵美加
   : {
     surname       : {
