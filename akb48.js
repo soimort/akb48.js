@@ -4108,6 +4108,26 @@ var AKBG = {
   },
 
   /* み */
+  水田詩織
+  : {
+    surname       : {
+      kanji       : '水田',
+      hiragana    : 'みずた'
+    },
+    given_name    : {
+      kanji       : '詩織',
+      hiragana    : 'しおり'
+    },
+    nickname      : 'しおり',
+    date_of_birth : '1998-12-21',
+    blood_type    : 'B',
+    from          : '愛媛県',
+    office        : 'Showtitle',
+    current_teams : [ 'M' ],
+
+    instagram     : 'https://www.instagram.com/mizutashiorin/',
+    twitter       : 'http://twitter.com/shiori_mizuta',
+  },
   水野愛理
   : {
     surname       : {
