@@ -3915,6 +3915,27 @@ var AKBG = {
   },
 
   /* ま */
+  前田彩佳
+  : {
+    surname       : {
+      kanji       : '前田',
+      hiragana    : 'まえだ'
+    },
+    given_name    : {
+      kanji       : '彩佳',
+      hiragana    : 'あやか'
+    },
+    nickname      : 'あやか',
+    date_of_birth : '2000-12-18',
+    blood_type    : 'O',
+    from          : '神奈川県',
+    office        : '',
+    current_teams : [],
+
+    instagram     : 'https://www.instagram.com/akb48_ayaka/',
+    nanagogo      : 'https://7gogo.jp/maeda-ayaka',
+    twitter       : 'https://twitter.com/_ayaka1218',
+  },
   前田令子
   : {
     surname       : {
