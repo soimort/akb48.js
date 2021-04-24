@@ -3877,6 +3877,26 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/shion_hori/',
     twitter       : 'https://twitter.com/shion_0529_hori',
   },
+  本郷柚巴
+  : {
+    surname       : {
+      kanji       : '本郷',
+      hiragana    : 'ほんごう'
+    },
+    given_name    : {
+      kanji       : '柚巴',
+      hiragana    : 'ゆずは'
+    },
+    nickname      : 'ゆず',
+    date_of_birth : '2003-01-12',
+    blood_type    : 'B',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    instagram     : 'https://www.instagram.com/h.yuzuha_0112/',
+    twitter       : 'https://twitter.com/yuzuha_hongo',
+  },
   本田柚萱
   : {
     surname       : {
