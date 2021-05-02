@@ -2431,6 +2431,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/shimoaoki-karin',
     twitter       : 'https://twitter.com/shimoaoki_karin',
   },
+  下野由貴
+  : {
+    surname       : {
+      kanji       : '下野',
+      hiragana    : 'しもの'
+    },
+    given_name    : {
+      kanji       : '由貴',
+      hiragana    : 'ゆき'
+    },
+    nickname      : 'しなもん',
+    date_of_birth : '1998-04-02',
+    blood_type    : 'O',
+    from          : '福岡県',
+    office        : 'Mercury',
+    current_teams : [ 'KIV' ],
+
+    instagram     : 'https://www.instagram.com/shimono_0402/',
+    nanagogo      : 'https://7gogo.jp/shimono-yuki',
+    twitter       : 'https://twitter.com/shimono_0402',
+  },
   白井琴望
   : {
     surname       : {
