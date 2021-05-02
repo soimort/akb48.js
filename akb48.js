@@ -4418,6 +4418,27 @@ var AKBG = {
 
     twitter       : 'http://twitter.com/wakana_hkt48',
   },
+  村重杏奈
+  : {
+    surname       : {
+      kanji       : '村重',
+      hiragana    : 'むらしげ'
+    },
+    given_name    : {
+      kanji       : '杏奈',
+      hiragana    : 'あんな'
+    },
+    nickname      : 'あーにゃ',
+    date_of_birth : '1998-07-29',
+    blood_type    : 'O',
+    from          : '山口県',
+    office        : 'TWIN PLANET',
+    current_teams : [ 'KIV' ],
+
+    instagram     : 'https://www.instagram.com/hktanna4848/',
+    nanagogo      : 'https://7gogo.jp/G-dbLm9Ap12t',
+    twitter       : 'https://twitter.com/HKT48anna072948',
+  },
   村瀬紗英
   : {
     surname       : {
