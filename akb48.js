@@ -4433,7 +4433,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '大阪府',
     office        : 'Showtitle',
-    current_teams : [ 'N' ],
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/114433951972746099923',
     instagram     : 'https://www.instagram.com/saepiiii.m/',
