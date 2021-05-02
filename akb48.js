@@ -2467,7 +2467,7 @@ var AKBG = {
     blood_type    : 'B',
     from          : '愛知県',
     office        : 'ゼスト',
-    current_teams : [ 'KII' ],
+    current_teams : [],
 
     blog          : 'http://www2.ske48.co.jp/blog_pc/detail/?writer=shirai_kotono',
     instagram     : 'https://www.instagram.com/_shirai_kotono/',
