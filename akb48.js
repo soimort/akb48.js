@@ -375,6 +375,27 @@ var AKBG = {
     gplus         : 'https://plus.google.com/106166082359574012420',
     nanagogo      : 'https://7gogo.jp/inoue-yuriya',
   },
+  今田美奈
+  : {
+    surname       : {
+      kanji       : '今田',
+      hiragana    : 'いまだ'
+    },
+    given_name    : {
+      kanji       : '美奈',
+      hiragana    : 'みな'
+    },
+    nickname      : 'みなぞう',
+    date_of_birth : '1997-03-05',
+    blood_type    : 'O',
+    from          : '福岡県',
+    office        : 'Mercury',
+    current_teams : [ 'KIV' ],
+
+    instagram     : 'https://www.instagram.com/_minaimd.j_/',
+    nanagogo      : 'https://7gogo.jp/imada-mina',
+    twitter       : 'https://twitter.com/mina_37imd',
+  },
   今村麻莉愛
   : {
     surname       : {
