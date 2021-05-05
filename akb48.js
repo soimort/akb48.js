@@ -4942,6 +4942,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/yamada-marina',
     twitter       : 'https://twitter.com/maririchan_324',
   },
+  山根涼羽
+  : {
+    surname       : {
+      kanji       : '山根',
+      hiragana    : 'やまね'
+    },
+    given_name    : {
+      kanji       : '涼羽',
+      hiragana    : 'すずは'
+    },
+    nickname      : 'ずんちゃん',
+    date_of_birth : '2000-08-11',
+    blood_type    : 'A',
+    from          : '兵庫県',
+    office        : 'DH',
+    current_teams : [ 'A' ],
+
+    nanagogo      : 'https://7gogo.jp/yamane-suzuha',
+    twitter       : 'https://twitter.com/48Suzuha_16LOVE',
+  },
   山本彩加
   : {
     surname       : {
