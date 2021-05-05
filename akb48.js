@@ -4957,7 +4957,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '兵庫県',
     office        : 'Showtitle',
-    current_teams : [ 'BII' ],
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/ayaka48_yanyan/',
     twitter       : 'https://twitter.com/ayaka48_yan',
