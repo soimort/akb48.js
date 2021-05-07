@@ -2077,6 +2077,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/sakamoto-erena',
     twitter       : 'http://twitter.com/Ern807hkt',
   },
+  坂本りの
+  : {
+    surname       : {
+      kanji       : '坂本',
+      hiragana    : 'さかもと'
+    },
+    given_name    : {
+      hiragana    : 'りの'
+    },
+    nickname      : 'りのちゃん',
+    date_of_birth : '2002-06-10',
+    blood_type    : 'B',
+    from          : '東京都',
+    office        : 'Mercury',
+    current_teams : [ '研究生（HKT48）' ],
+
+    instagram     : 'https://www.instagram.com/rinosakamoto_hkt/',
+    twitter       : 'https://twitter.com/Rinochan610_hkt',
+  },
   佐々木優佳里
   : {
     surname       : {
