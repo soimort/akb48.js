@@ -2140,6 +2140,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/sashihara-rino',
     twitter       : 'https://twitter.com/345__chan',
   },
+  貞野遥香
+  : {
+    surname       : {
+      kanji       : '貞野',
+      hiragana    : 'さだの'
+    },
+    given_name    : {
+      kanji       : '遥香',
+      hiragana    : 'はるか'
+    },
+    nickname      : 'はるちゃん',
+    date_of_birth : '2002-06-30',
+    blood_type    : 'A',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'N' ],
+
+    instagram     : 'https://www.instagram.com/_haruka_sadano06/',
+    twitter       : 'https://twitter.com/Haruka_nmb_48',
+  },
   佐藤朱
   : {
     surname       : {
