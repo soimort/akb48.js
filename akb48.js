@@ -2,6 +2,26 @@
 var AKBG = {
 
   /* あ */
+  相笠萌
+  : {
+    surname       : {
+      kanji       : '相笠',
+      hiragana    : 'あいがさ'
+    },
+    given_name    : {
+      kanji       : '萌',
+      hiragana    : 'もえ'
+    },
+    nickname      : 'もえちゃん',
+    date_of_birth : '1998-04-06',
+    blood_type    : 'B',
+    from          : '神奈川県',
+    office        : 'レキシントン',
+    current_teams : [],
+
+    instagram     : 'https://www.instagram.com/aigasa_moe/',
+    twitter       : 'https://twitter.com/moeaigasa0406',
+  },
   穴井千尋
   : {
     surname       : {
