@@ -103,6 +103,26 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/_pon_0718/',
     twitter       : 'https://twitter.com/wakapon_48',
   },
+  荒野姫楓
+  : {
+    surname       : {
+      kanji       : '荒野',
+      hiragana    : 'あらの'
+    },
+    given_name    : {
+      kanji       : '姫楓',
+      hiragana    : 'ひめか'
+    },
+    nickname      : 'ひめたん',
+    date_of_birth : '2002-01-09',
+    blood_type    : 'O',
+    from          : '神奈川県',
+    office        : 'ゼスト',
+    current_teams : [ 'S' ],
+
+    instagram     : 'https://www.instagram.com/_arnhmk_/',
+    twitter       : 'https://twitter.com/_arnhmk_',
+  },
   荒巻美咲
   : {
     surname       : {
