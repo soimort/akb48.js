@@ -1578,6 +1578,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/kizaki-yuria',
     twitter       : 'https://twitter.com/yuriaaa_peace',
   },
+  北川愛乃
+  : {
+    surname       : {
+      kanji       : '北川',
+      hiragana    : 'きたがわ'
+    },
+    given_name    : {
+      kanji       : '愛乃',
+      hiragana    : 'よしの'
+    },
+    nickname      : 'よこにゃん',
+    date_of_birth : '2001-01-24',
+    blood_type    : 'O',
+    from          : '大阪府',
+    office        : 'ゼスト',
+    current_teams : [ 'S' ],
+
+    instagram     : 'https://www.instagram.com/kitagawayoshino/',
+    nanagogo      : 'https://7gogo.jp/kitagawa-yoshino',
+    twitter       : 'https://twitter.com/kitagawa_yosino',
+  },
   北川綾巴
   : {
     surname       : {
