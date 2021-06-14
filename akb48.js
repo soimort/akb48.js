@@ -1275,9 +1275,10 @@ var AKBG = {
     blood_type    : 'O',
     from          : '新潟県',
     office        : 'Flora',
-    current_teams : [ 'NGT48' ],
+    current_teams : [],
 
-    instagram     : 'https://www.instagram.com/katominami_ngt48/',
+    instagram     : 'https://www.instagram.com/minamikato_0115/',
+    twitter       : 'http://twitter.com/minamikato0115',
   },
   加藤夕夏
   : {
