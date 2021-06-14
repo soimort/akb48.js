@@ -5180,7 +5180,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '大阪府',
     office        : 'Showtitle',
-    current_teams : [ 'BII' ],
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/yokono_sumire/',
     twitter       : 'http://twitter.com/suchan_nmb48',
