@@ -4720,13 +4720,13 @@ var AKBG = {
     date_of_birth : '1997-07-26',
     blood_type    : 'A',
     from          : '長崎県',
-    office        : 'AKS',
-    current_teams : [ 'KIV' ],
+    office        : '',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/107858117023519021548',
     instagram     : 'https://www.instagram.com/madokamera_48/',
     nanagogo      : 'https://7gogo.jp/moriyasu-madoka',
-    twitter       : 'https://twitter.com/madoka_726_hkt',
+    twitter       : 'https://twitter.com/_madoka726_',
   },
 
   /* や */
