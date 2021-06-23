@@ -3635,6 +3635,27 @@ var AKBG = {
   },
 
   /* は */
+  橋本陽菜
+  : {
+    surname       : {
+      kanji       : '橋本',
+      hiragana    : 'はしもと'
+    },
+    given_name    : {
+      kanji       : '陽菜',
+      hiragana    : 'はるな'
+    },
+    nickname      : 'はるpyon',
+    date_of_birth : '2000-05-25',
+    blood_type    : 'A',
+    from          : '富山県',
+    office        : 'DH',
+    current_teams : [ '8', 'K' ],
+
+    instagram     : 'https://www.instagram.com/48pyonz_toyama/',
+    nanagogo      : 'https://7gogo.jp/hashimoto-haruna',
+    twitter       : 'https://twitter.com/harupyon_0525',
+  },
   服部有菜
   : {
     surname       : {
