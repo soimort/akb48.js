@@ -2053,6 +2053,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/komiyama-haruka',
     twitter       : 'https://twitter.com/912_komiharu',
   },
+  近藤里奈
+  : {
+    surname       : {
+      kanji       : '近藤',
+      hiragana    : 'こんどう'
+    },
+    given_name    : {
+      kanji       : '里奈',
+      hiragana    : 'りな'
+    },
+    nickname      : 'りぃちゃん',
+    date_of_birth : '1997-02-23',
+    blood_type    : 'O',
+    from          : '滋賀県',
+    office        : '',
+    current_teams : [],
+
+    instagram     : 'https://www.instagram.com/rina_kondo_0223/',
+    twitter       : 'https://twitter.com/rina_kondo_0223',
+  },
 
   /* さ */
   堺萌香
