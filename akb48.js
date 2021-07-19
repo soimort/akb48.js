@@ -4469,8 +4469,8 @@ var AKBG = {
     date_of_birth : '1998-03-19',
     blood_type    : 'A',
     from          : '鹿児島県',
-    office        : 'AKS',
-    current_teams : [ 'KIV' ],
+    office        : '',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/102808008463301583196',
     instagram     : 'https://www.instagram.com/39saku_chan/',
