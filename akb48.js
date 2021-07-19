@@ -100,8 +100,8 @@ var AKBG = {
     office        : 'Showtitle',
     current_teams : [ 'M' ],
 
-    instagram     : 'https://www.instagram.com/_pon_0718/',
-    twitter       : 'https://twitter.com/wakapon_48',
+    instagram     : 'https://www.instagram.com/_wakapon_/',
+    twitter       : 'https://twitter.com/_wakapon_',
   },
   荒野姫楓
   : {
