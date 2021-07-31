@@ -3718,6 +3718,24 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/hama-sayuna',
     twitter       : 'https://twitter.com/hamachan_0820',
   },
+  林美澪
+  : {
+    surname       : {
+      kanji       : '林',
+      hiragana    : 'はやし'
+    },
+    given_name    : {
+      kanji       : '美澪',
+      hiragana    : 'みれい'
+    },
+    nickname      : 'みーちゃん',
+    date_of_birth : '2009-03-10',
+    blood_type    : '不明',
+    from          : '愛知県',
+    office        : 'ゼスト',
+    current_teams : [ '研究生（SKE48）' ],
+
+  },
   林萌々香
   : {
     surname       : {
