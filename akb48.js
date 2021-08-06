@@ -754,8 +754,8 @@ var AKBG = {
     date_of_birth : '2001-10-29',
     blood_type    : 'B',
     from          : '埼玉県',
-    office        : 'ゼスト',
-    current_teams : [ 'KII' ],
+    office        : '',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/rinka_1029_ske48/',
     twitter       : 'https://twitter.com/rinka1029_ske48',
