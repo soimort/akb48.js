@@ -1133,6 +1133,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/oguri-yui',
     twitter       : 'https://twitter.com/yuiyui_maromaro',
   },
+  小越春花
+  : {
+    surname       : {
+      kanji       : '小越',
+      hiragana    : 'おごえ'
+    },
+    given_name    : {
+      kanji       : '春花',
+      hiragana    : 'はるか'
+    },
+    nickname      : 'こぱる',
+    date_of_birth : '2004-06-26',
+    blood_type    : 'A',
+    from          : '新潟県',
+    office        : 'Flora',
+    current_teams : [ 'NGT48' ],
+
+    instagram     : 'https://www.instagram.com/haruka_2525_ngt48/',
+    nanagogo      : 'https://7gogo.jp/ogoe-haruka',
+    twitter       : 'https://twitter.com/haruka_ogoe626',
+  },
   小田彩加
   : {
     surname       : {
