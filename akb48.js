@@ -2408,6 +2408,26 @@ var AKBG = {
 
     twitter       : 'http://twitter.com/_shinshin_48',
   },
+  庄司なぎさ
+  : {
+    surname       : {
+      kanji       : '庄司',
+      hiragana    : 'しょうじ'
+    },
+    given_name    : {
+      hiragana    : 'なぎさ'
+    },
+    nickname      : 'なぎゅ',
+    date_of_birth : '2000-10-29',
+    blood_type    : 'A',
+    from          : '北海道',
+    office        : '',
+    current_teams : [],
+
+    blog          : 'https://lineblog.me/nagisa_shoji/',
+    instagram     : 'https://www.instagram.com/nagyuuu_official/',
+    twitter       : 'https://twitter.com/wanare_nagisa',
+  },
   上西怜
   : {
     surname       : {
