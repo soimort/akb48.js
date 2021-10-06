@@ -1555,6 +1555,27 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/naru_1127/',
     twitter       : 'https://twitter.com/naru_971127',
   },
+  川原美咲
+  : {
+    surname       : {
+      kanji       : '川原',
+      hiragana    : 'かわはら'
+    },
+    given_name    : {
+      kanji       : '美咲',
+      hiragana    : 'みさき'
+    },
+    nickname      : 'みっさー',
+    date_of_birth : '2002-04-03',
+    blood_type    : 'A',
+    from          : '佐賀県',
+    office        : 'DH',
+    current_teams : [ '8', 'B' ],
+
+    instagram     : 'https://www.instagram.com/misaki_888_sagasaikou/',
+    nanagogo      : 'https://7gogo.jp/kawahara-misaki',
+    twitter       : 'https://twitter.com/SAGA_saikou_888',
+  },
   川本紗矢
   : {
     surname       : {
