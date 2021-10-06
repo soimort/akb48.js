@@ -1590,10 +1590,11 @@ var AKBG = {
     date_of_birth : '1998-08-31',
     blood_type    : 'B',
     from          : '北海道',
-    office        : 'AKS',
-    current_teams : [ '4' ],
+    office        : 'Incubation',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/105868959172319352511',
+    instagram     : 'https://www.instagram.com/sayaya_38/',
     nanagogo      : 'https://7gogo.jp/kawamoto-saya',
     twitter       : 'https://twitter.com/sayaya_0388',
   },
