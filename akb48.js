@@ -4162,6 +4162,27 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/h.yuzuha_0112/',
     twitter       : 'https://twitter.com/yuzuha_hongo',
   },
+  本田仁美
+  : {
+    surname       : {
+      kanji       : '本田',
+      hiragana    : 'ほんだ'
+    },
+    given_name    : {
+      kanji       : '仁美',
+      hiragana    : 'ひとみ'
+    },
+    nickname      : 'ひぃちゃん',
+    date_of_birth : '2001-10-06',
+    blood_type    : 'A',
+    from          : '栃木県',
+    office        : 'Vernalossom',
+    current_teams : [ '8', 'B' ],
+
+    instagram     : 'https://www.instagram.com/10_hitomi_06/',
+    nanagogo      : 'https://7gogo.jp/honda-hitomi',
+    twitter       : 'https://twitter.com/hnd_htm__1006',
+  },
   本田柚萱
   : {
     surname       : {
