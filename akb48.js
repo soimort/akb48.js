@@ -2139,6 +2139,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/sakai-moeka',
     twitter       : 'https://twitter.com/hkt48_moeka',
   },
+  坂川陽香
+  : {
+    surname       : {
+      kanji       : '坂川',
+      hiragana    : 'さかがわ'
+    },
+    given_name    : {
+      kanji       : '陽香',
+      hiragana    : 'ひゆか'
+    },
+    nickname      : 'ひゆか',
+    date_of_birth : '2006-10-07',
+    blood_type    : 'O',
+    from          : '福井県',
+    office        : 'DH',
+    current_teams : [ '8' ],
+
+    nanagogo      : 'https://7gogo.jp/hiyuka-sakagawa',
+    twitter       : 'https://twitter.com/Hiyuka_1007',
+  },
   坂口渚沙
   : {
     surname       : {
