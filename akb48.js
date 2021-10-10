@@ -3357,6 +3357,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/remi-tokunaga',
     twitter       : 'http://twitter.com/48_RemiTokunaga',
   },
+  富永夢有
+  : {
+    surname       : {
+      kanji       : '富永',
+      hiragana    : 'とみなが'
+    },
+    given_name    : {
+      kanji       : '夢有',
+      hiragana    : 'ゆう'
+    },
+    nickname      : 'ゆーちゃん',
+    date_of_birth : '2002-07-16',
+    blood_type    : 'A',
+    from          : '新潟県',
+    office        : 'Flora',
+    current_teams : [ 'NGT48' ],
+
+    instagram     : 'https://www.instagram.com/tomichan_0716/',
+    nanagogo      : 'https://7gogo.jp/tominaga-yuu',
+    twitter       : 'https://twitter.com/yuu_chan_716',
+  },
   朝長美桜
   : {
     surname       : {
