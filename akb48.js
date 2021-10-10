@@ -375,6 +375,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/ichikawa-manami',
     twitter       : 'https://twitter.com/IckwMnm0826',
   },
+  伊藤優絵瑠
+  : {
+    surname       : {
+      kanji       : '伊藤',
+      hiragana    : 'いとう'
+    },
+    given_name    : {
+      kanji       : '優絵瑠',
+      hiragana    : 'ゆえる'
+    },
+    nickname      : 'ゆえる',
+    date_of_birth : '2003-10-24',
+    blood_type    : 'H',
+    from          : '東京都',
+    office        : 'Mercury',
+    current_teams : [ 'H' ],
+
+    instagram     : 'https://www.instagram.com/yueruito_1024/',
+    twitter       : 'https://twitter.com/itoyueru_1024',
+  },
   一色嶺奈
   : {
     surname       : {
