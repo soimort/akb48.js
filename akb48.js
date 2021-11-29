@@ -2818,9 +2818,10 @@ var AKBG = {
     date_of_birth : '2000-08-15',
     blood_type    : 'AB',
     from          : '静岡県',
-    office        : 'AKS',
-    current_teams : [ '8' ],
+    office        : '',
+    current_teams : [],
 
+    instagram     : 'https://www.instagram.com/yuuka_chan815/',
     twitter       : 'https://twitter.com/SUZUKIYUUKARIN_',
   },
   須田亜香里
