@@ -4572,7 +4572,7 @@ var AKBG = {
     blood_type    : 'B',
     from          : '東京都',
     office        : 'プロダクション尾木',
-    current_teams : [ 'K' ],
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/113175170244847276511',
     instagram     : 'https://www.instagram.com/minegishi_31chan/',
@@ -4593,7 +4593,7 @@ var AKBG = {
     date_of_birth : '2000-10-30',
     blood_type    : 'A',
     from          : '佐賀県',
-    office        : 'AKS',
+    office        : 'Mercury',
     current_teams : [ 'TII' ],
 
     instagram     : 'https://www.instagram.com/m_sono_1030/',
@@ -4678,7 +4678,7 @@ var AKBG = {
     date_of_birth : '1994-11-25',
     blood_type    : 'B',
     from          : '東京都',
-    office        : 'AKS',
+    office        : '生島企画室',
     current_teams : [ 'K' ],
 
     gplus         : 'https://plus.google.com/100987694249056428673',
@@ -4720,7 +4720,7 @@ var AKBG = {
     blood_type    : '不明',
     from          : '埼玉県',
     office        : 'Mercury',
-    current_teams : [ '研究生（HKT48）' ],
+    current_teams : [ 'H' ],
 
     twitter       : 'http://twitter.com/wakana_hkt48',
   },
@@ -4739,7 +4739,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '山口県',
     office        : 'TWIN PLANET',
-    current_teams : [ 'KIV' ],
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/hktanna4848/',
     nanagogo      : 'https://7gogo.jp/G-dbLm9Ap12t',
@@ -4842,7 +4842,7 @@ var AKBG = {
     date_of_birth : '1997-05-31',
     blood_type    : 'A',
     from          : '福岡県',
-    office        : 'AKS',
+    office        : 'Mercury',
     current_teams : [ 'KIV' ],
 
     gplus         : 'https://plus.google.com/104185663412698594190',
@@ -5030,7 +5030,7 @@ var AKBG = {
     date_of_birth : '2001-06-18',
     blood_type    : '不明',
     from          : '東京都',
-    office        : 'AKS',
+    office        : 'Vernalossom',
     current_teams : [ 'H' ],
 
     gplus         : 'https://plus.google.com/103577079977140124149',
@@ -5075,8 +5075,8 @@ var AKBG = {
     date_of_birth : '2000-10-07',
     blood_type    : 'AB',
     from          : '大阪府',
-    office        : 'STU',
-    current_teams : [ 'STU48' ],
+    office        : '',
+    current_teams : [],
 
     twitter       : 'https://twitter.com/FUU_Y_stu48',
   },
@@ -5303,7 +5303,7 @@ var AKBG = {
     blood_type    : 'B',
     from          : '山口県',
     office        : 'Showtitle',
-    current_teams : [ 'BII' ],
+    current_teams : [ 'N' ],
 
     twitter       : 'https://twitter.com/_nyanmika_',
   },
@@ -5426,7 +5426,7 @@ var AKBG = {
     blood_type    : 'B',
     from          : '京都府',
     office        : '太田プロダクション',
-    current_teams : [ 'A' ],
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/109380179669644031316',
     instagram     : 'https://www.instagram.com/yokoyamayui_1208/',
@@ -5447,8 +5447,8 @@ var AKBG = {
     date_of_birth : '2001-02-22',
     blood_type    : 'O',
     from          : '青森県',
-    office        : 'DH',
-    current_teams : [ '8', 'K' ],
+    office        : '充s',
+    current_teams : [],
 
     instagram     : 'https://instagram.com/yoko_yui_team8/',
     nanagogo      : 'https://7gogo.jp/yokoyamayui',
@@ -5490,7 +5490,7 @@ var AKBG = {
     blood_type    : 'AB',
     from          : '大阪府',
     office        : 'Showtitle',
-    current_teams : [ 'N' ],
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/_yoshida_akari/',
     nanagogo      : 'https://7gogo.jp/yoshida-akari',
