@@ -5556,8 +5556,10 @@ var AKBG = {
     blood_type    : 'AB',
     from          : '兵庫県',
     office        : 'Showtitle',
-    current_teams : [ '研究生（NMB48）' ],
+    current_teams : [ 'N' ],
 
+    instagram     : 'https://www.instagram.com/pupupu__48/',
+    twitter       : 'https://twitter.com/MYUMYU_48',
   },
 
 }
