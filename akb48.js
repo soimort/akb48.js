@@ -435,6 +435,27 @@ var AKBG = {
     gplus         : 'https://plus.google.com/106166082359574012420',
     nanagogo      : 'https://7gogo.jp/inoue-yuriya',
   },
+  井上瑠夏
+  : {
+    surname       : {
+      kanji       : '井上',
+      hiragana    : 'いのうえ'
+    },
+    given_name    : {
+      kanji       : '瑠夏',
+      hiragana    : 'るか'
+    },
+    nickname      : 'るーちゃん',
+    date_of_birth : '2001-06-12',
+    blood_type    : 'O',
+    from          : '熊本県',
+    office        : 'ゼスト',
+    current_teams : [ 'S' ],
+
+    instagram     : 'https://www.instagram.com/ruka_inoue48/',
+    nanagogo      : 'https://7gogo.jp/inoue-ruka',
+    twitter       : 'https://twitter.com/Inoueruka_48',
+  },
   今田美奈
   : {
     surname       : {
