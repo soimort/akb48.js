@@ -3347,12 +3347,12 @@ var AKBG = {
     date_of_birth : '1999-10-26',
     blood_type    : 'O',
     from          : '福岡県',
-    office        : 'AKS',
-    current_teams : [ 'TII' ],
+    office        : 'アソビシステム',
+    current_teams : [],
 
     instagram     : 'http://www.instagram.com/am1026_official/',
     nanagogo      : 'https://7gogo.jp/tsukiashi-amane',
-    twitter       : 'https://twitter.com/am1026_official',
+    twitter       : 'https://twitter.com/amane_fz1026',
   },
 
   /* て */
