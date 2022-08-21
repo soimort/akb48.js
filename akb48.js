@@ -1165,7 +1165,7 @@ var AKBG = {
     },
     nickname      : 'ゆいゆい',
     date_of_birth : '2001-12-26',
-    blood_type    : '',
+    blood_type    : 'AB',
     from          : '東京都',
     office        : 'ゼスト',
     current_teams : [ '8', 'A' ],
