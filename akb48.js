@@ -1938,8 +1938,8 @@ var AKBG = {
     date_of_birth : '1998-01-24',
     blood_type    : 'AB',
     from          : '福岡県',
-    office        : 'AKS',
-    current_teams : [ 'H' ],
+    office        : 'For you',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/108854773205091274205',
     instagram     : 'https://www.instagram.com/jiina27/',
