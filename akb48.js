@@ -5151,7 +5151,7 @@ var AKBG = {
       hiragana    : 'やまうち'
     },
     given_name    : {
-      kanji       : '山内',
+      kanji       : '祐奈',
       hiragana    : 'ゆうな'
     },
     nickname      : 'ゆうな',
