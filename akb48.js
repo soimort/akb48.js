@@ -4467,8 +4467,8 @@ var AKBG = {
     date_of_birth : '1996-08-08',
     blood_type    : 'A',
     from          : '福岡県',
-    office        : 'AKS',
-    current_teams : [ 'H' ],
+    office        : '',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/107241677527739013868',
     instagram     : 'https://www.instagram.com/natsustagram_hkt/',
