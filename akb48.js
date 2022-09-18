@@ -4992,8 +4992,8 @@ var AKBG = {
     date_of_birth : '2001-06-08',
     blood_type    : 'O',
     from          : '大阪府',
-    office        : 'Showtitle',
-    current_teams : [ 'M' ],
+    office        : '',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/peachpeach_o6o8/',
     twitter       : 'https://twitter.com/momone_0608',
