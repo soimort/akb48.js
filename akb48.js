@@ -4998,6 +4998,25 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/peachpeach_o6o8/',
     twitter       : 'https://twitter.com/momone_0608',
   },
+  梁瀬鈴雅
+  : {
+    surname       : {
+      kanji       : '梁瀬',
+      hiragana    : 'やなせ'
+    },
+    given_name    : {
+      kanji       : '鈴雅',
+      hiragana    : 'れいあ'
+    },
+    nickname      : 'れいあ',
+    date_of_birth : '2006-06-29',
+    blood_type    : 'B',
+    from          : '神奈川県',
+    office        : 'Mercury',
+    current_teams : [ '研究生（HKT48）' ],
+
+    twitter       : 'https://twitter.com/reia_hkt48',
+  },
   矢作萌夏
   : {
     surname       : {
