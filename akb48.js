@@ -3282,9 +3282,9 @@ var AKBG = {
     },
     nickname      : 'ねねちゃん',
     date_of_birth : '2000-09-27',
-    blood_type    : '',
+    blood_type    : 'O',
     from          : '宮崎県',
-    office        : 'AKS',
+    office        : 'Mercury',
     current_teams : [ 'KIV' ],
 
     nanagogo      : 'https://7gogo.jp/jitoue-nene',
