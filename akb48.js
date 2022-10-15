@@ -2996,6 +2996,27 @@ var AKBG = {
 
     twitter       : 'https://twitter.com/stu48_yumianko',
   },
+  田口愛佳
+  : {
+    surname       : {
+      kanji       : '田口',
+      hiragana    : 'たぐち'
+    },
+    given_name    : {
+      kanji       : '愛佳',
+      hiragana    : 'まなか'
+    },
+    nickname      : 'まなか',
+    date_of_birth : '2003-12-12',
+    blood_type    : '不明',
+    from          : '神奈川県',
+    office        : 'DH',
+    current_teams : [ 'K' ],
+
+    instagram     : 'https://www.instagram.com/t_manaka.12',
+    nanagogo      : 'https://7gogo.jp/taguchi-manaka',
+    twitter       : 'https://twitter.com/48manaka_16',
+  },
   竹内ななみ
   : {
     surname       : {
