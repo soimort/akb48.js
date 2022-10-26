@@ -292,6 +292,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/ishizuka-akari',
     twitter       : 'https://twitter.com/akari_0711',
   },
+  石橋颯
+  : {
+    surname       : {
+      kanji       : '石橋',
+      hiragana    : 'いしばし'
+    },
+    given_name    : {
+      kanji       : '颯',
+      hiragana    : 'いぶき'
+    },
+    nickname      : 'いぶき',
+    date_of_birth : '2005-07-22',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : 'Mercury',
+    current_teams : [ 'KIV' ],
+
+    instagram     : 'https://www.instagram.com/ibuki__hkt48/',
+    twitter       : 'https://twitter.com/ibuki1484_hkt',
+  },
   磯佳奈江
   : {
     surname       : {
