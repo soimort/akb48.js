@@ -2262,6 +2262,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/sakaguchi-riko',
     twitter       : 'https://twitter.com/ricopi_726',
   },
+  坂下真心
+  : {
+    surname       : {
+      kanji       : '坂下',
+      hiragana    : 'さかした'
+    },
+    given_name    : {
+      kanji       : '真心',
+      hiragana    : 'まこ'
+    },
+    nickname      : 'まこち',
+    date_of_birth : '2005-08-02',
+    blood_type    : '不明',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    twitter       : 'https://twitter.com/sakashita_mako',
+  },
   坂本愛玲菜
   : {
     surname       : {
