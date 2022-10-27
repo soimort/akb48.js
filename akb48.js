@@ -2953,6 +2953,27 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/tsukinatakai/',
     twitter       : 'https://twitter.com/tsukina76',
   },
+  髙橋彩音
+  : {
+    surname       : {
+      kanji       : '髙橋',
+      hiragana    : 'たかはし'
+    },
+    given_name    : {
+      kanji       : '彩音',
+      hiragana    : 'あやね'
+    },
+    nickname      : 'あやね',
+    date_of_birth : '1997-12-30',
+    blood_type    : 'B',
+    from          : '埼玉県',
+    office        : 'DH',
+    current_teams : [ '8', 'K' ],
+
+    instagram     : 'https://www.instagram.com/aayyaannee811/',
+    nanagogo      : 'https://7gogo.jp/takahashi-ayane',
+    twitter       : 'https://twitter.com/__ayn1230__',
+  },
   高橋朱里
   : {
     surname       : {
