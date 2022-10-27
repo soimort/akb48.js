@@ -4407,6 +4407,27 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/rrr_9_m/',
     twitter       : 'http://twitter.com/r_ko__9',
   },
+  真下華穂
+  : {
+    surname       : {
+      kanji       : '真下',
+      hiragana    : 'ましも'
+    },
+    given_name    : {
+      kanji       : '華穂',
+      hiragana    : 'かほ'
+    },
+    nickname      : 'まっしー',
+    date_of_birth : '1999-11-08',
+    blood_type    : 'A',
+    from          : '静岡県',
+    office        : 'Flora',
+    current_teams : [ 'NGT48' ],
+
+    instagram     : 'https://www.instagram.com/k.a.h.o.kahochan/',
+    nanagogo      : 'https://7gogo.jp/mashimo-kaho',
+    twitter       : 'https://twitter.com/k_a_h_o_chan',
+  },
   増田有華
   : {
     surname       : {
