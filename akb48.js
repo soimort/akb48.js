@@ -2910,6 +2910,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/suto-ririka',
     twitter       : 'https://twitter.com/riripon48',
   },
+  隅野和奏
+  : {
+    surname       : {
+      kanji       : '隅野',
+      hiragana    : 'すみの'
+    },
+    given_name    : {
+      kanji       : '和奏',
+      hiragana    : 'わかな'
+    },
+    nickname      : 'わかニャン',
+    date_of_birth : '2003-07-16',
+    blood_type    : 'A',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    instagram     : 'https://www.instagram.com/nyan_0716/',
+    twitter       : 'https://twitter.com/wakanyan__nmb48',
+  },
 
   /* せ */
   清司麗菜
