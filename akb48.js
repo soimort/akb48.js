@@ -3128,12 +3128,14 @@ var AKBG = {
     },
     nickname      : 'もかちゃん',
     date_of_birth : '2003-02-25',
-    blood_type    : '不明',
+    blood_type    : 'A',
     from          : '神奈川県',
-    office        : 'AKS',
+    office        : 'Mercury',
     current_teams : [ 'TII' ],
 
+    instagram     : 'https://www.instagram.com/moka0225_hkt/',
     nanagogo      : 'https://7gogo.jp/takeda-tomoka',
+    tiktok        : 'https://www.tiktok.com/@moka0225_hkt',
     twitter       : 'https://twitter.com/moka__0225',
   },
   田島芽瑠
