@@ -969,6 +969,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/oba-mina',
     twitter       : 'https://twitter.com/mina_ovo',
   },
+  大盛真歩
+  : {
+    surname       : {
+      kanji       : '大盛',
+      hiragana    : 'おおもり'
+    },
+    given_name    : {
+      kanji       : '真歩',
+      hiragana    : 'まほ'
+    },
+    nickname      : 'まほぴょん',
+    date_of_birth : '1999-12-05',
+    blood_type    : 'B',
+    from          : '茨城県',
+    office        : 'DH',
+    current_teams : [ 'B' ],
+
+    instagram     : 'https://www.instagram.com/maho_usagi/',
+    twitter       : 'https://twitter.com/akb48_maho',
+  },
   大森美優
   : {
     surname       : {
