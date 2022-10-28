@@ -962,8 +962,8 @@ var AKBG = {
     date_of_birth : '1992-04-03',
     blood_type    : 'A',
     from          : '神奈川県',
-    office        : 'ジャパン・ミュージックエンターテインメント',
-    current_teams : [ 'KII' ],
+    office        : '',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/obamina__43/',
     nanagogo      : 'https://7gogo.jp/oba-mina',
