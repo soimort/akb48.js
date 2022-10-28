@@ -407,12 +407,13 @@ var AKBG = {
     },
     nickname      : 'ゆえる',
     date_of_birth : '2003-10-24',
-    blood_type    : 'H',
+    blood_type    : '不明',
     from          : '東京都',
     office        : 'Mercury',
     current_teams : [ 'H' ],
 
     instagram     : 'https://www.instagram.com/yueruito_1024/',
+    tiktok        : 'https://www.tiktok.com/@yueru___1024',
     twitter       : 'https://twitter.com/itoyueru_1024',
   },
   一色嶺奈
