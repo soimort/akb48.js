@@ -3363,11 +3363,12 @@ var AKBG = {
     blood_type    : 'A',
     from          : '東京都',
     office        : 'A.M.Entertainment',
-    current_teams : [ 'B' ],
+    current_teams : [ '4' ],
 
     gplus         : 'https://plus.google.com/105078910574942856246',
     instagram     : 'https://www.instagram.com/o_megu1112/',
     nanagogo      : 'https://7gogo.jp/taniguchi-megu',
+    tiktok        : 'https://www.tiktok.com/@o_megu1112official',
     twitter       : 'https://twitter.com/o_megu1112',
   },
   田野優花
