@@ -2865,6 +2865,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/U3A9h52wYBo4',
     twitter       : 'https://twitter.com/Ouka_ske0226',
   },
+  菅原りこ
+  : {
+    surname       : {
+      kanji       : '菅原',
+      hiragana    : 'すがはら'
+    },
+    given_name    : {
+      hiragana    : 'りこ'
+    },
+    nickname      : 'りったん',
+    date_of_birth : '2000-11-23',
+    blood_type    : 'O',
+    from          : '新潟県',
+    office        : 'エイベックス・アスナロ・カンパニー',
+    current_teams : [],
+
+    instagram     : 'https://www.instagram.com/cherryfairy1123/',
+    twitter       : 'https://twitter.com/riko__sakuranbo',
+  },
   菅原茉椰
   : {
     surname       : {
