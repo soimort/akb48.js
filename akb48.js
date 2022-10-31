@@ -1194,6 +1194,28 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/ogiyuka_ippaiwarae216/',
     twitter       : 'https://twitter.com/yuka_ippaiwarae',
   },
+  奥原妃奈子
+  : {
+    surname       : {
+      kanji       : '奥原',
+      hiragana    : 'おくはら'
+    },
+    given_name    : {
+      kanji       : '妃奈子',
+      hiragana    : 'ひなこ'
+    },
+    nickname      : 'ひーな',
+    date_of_birth : '2003-11-18',
+    blood_type    : 'O',
+    from          : '島根県',
+    office        : 'DH',
+    current_teams : [ '8', 'K' ],
+
+    instagram     : 'https://www.instagram.com/hinako.1118',
+    nanagogo      : 'https://7gogo.jp/okuhara-hinako',
+    tiktok        : 'https://www.tiktok.com/@hinako__03',
+    twitter       : 'https://twitter.com/hiina_1118',
+  },
   小栗有以
   : {
     surname       : {
