@@ -5016,6 +5016,25 @@ var AKBG = {
 
     instagram     : 'https://www.instagram.com/Kasuminn_World/',
   },
+  最上奈那華
+  : {
+    surname       : {
+      kanji       : '最上',
+      hiragana    : 'もがみ'
+    },
+    given_name    : {
+      kanji       : '奈那華',
+      hiragana    : 'ななか'
+    },
+    nickname      : 'ななちゃん',
+    date_of_birth : '2001-01-28',
+    blood_type    : 'A',
+    from          : '福岡県',
+    office        : 'Mercury',
+    current_teams : [ '研究生（HKT48）' ],
+
+    twitter       : 'https://twitter.com/7chan_128',
+  },
   茂木忍
   : {
     surname       : {
