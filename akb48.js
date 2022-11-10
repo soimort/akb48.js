@@ -779,6 +779,25 @@ var AKBG = {
   },
 
   /* え */
+  江口心々華
+  : {
+    surname       : {
+      kanji       : '江口',
+      hiragana    : 'えぐち'
+    },
+    given_name    : {
+      kanji       : '心々華',
+      hiragana    : 'ここは'
+    },
+    nickname      : 'ここ',
+    date_of_birth : '2007-04-24',
+    blood_type    : 'B',
+    from          : '長崎県',
+    office        : 'Mercury',
+    current_teams : [ '研究生（HKT48）' ],
+
+    twitter       : 'https://twitter.com/cocoha_egu424',
+  },
   江籠裕奈
   : {
     surname       : {
