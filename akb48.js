@@ -2674,6 +2674,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/shinozaki-ayana',
     twitter       : 'https://twitter.com/ayana18_48',
   },
+  渋井美奈
+  : {
+    surname       : {
+      kanji       : '渋井',
+      hiragana    : 'しぶい'
+    },
+    given_name    : {
+      kanji       : '美奈',
+      hiragana    : 'みな'
+    },
+    nickname      : 'しぶいちゃん',
+    date_of_birth : '2009-03-23',
+    blood_type    : 'O',
+    from          : '東京都',
+    office        : 'Mercury',
+    current_teams : [ '研究生（HKT48）' ],
+
+    twitter       : 'https://twitter.com/shibuiC_37HKT',
+  },
   渋谷凪咲
   : {
     surname       : {
