@@ -4846,6 +4846,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/minegishi-minami',
     twitter       : 'https://twitter.com/chan__31',
   },
+  三村妃乃
+  : {
+    surname       : {
+      kanji       : '三村',
+      hiragana    : 'みむら'
+    },
+    given_name    : {
+      kanji       : '妃乃',
+      hiragana    : 'ひの'
+    },
+    nickname      : 'ひのちゃん',
+    date_of_birth : '2002-06-15',
+    blood_type    : 'O',
+    from          : '埼玉県',
+    office        : 'Flora',
+    current_teams : [ 'NGT48' ],
+
+    instagram     : 'https://www.instagram.com/hino_yuiitsu62/',
+    nanagogo      : 'https://7gogo.jp/mimura-hino',
+    twitter       : 'https://twitter.com/hino_yuiitsu62',
+  },
   宮﨑想乃
   : {
     surname       : {
