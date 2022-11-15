@@ -395,6 +395,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/ichikawa-manami',
     twitter       : 'https://twitter.com/IckwMnm0826',
   },
+  市村愛里
+  : {
+    surname       : {
+      kanji       : '市村',
+      hiragana    : 'いちむら'
+    },
+    given_name    : {
+      kanji       : '愛里',
+      hiragana    : 'あいり'
+    },
+    nickname      : 'あいちー',
+    date_of_birth : '2001-02-13',
+    blood_type    : '不明',
+    from          : '神奈川県',
+    office        : 'Mercury',
+    current_teams : [ 'KIV' ],
+
+    instagram     : 'https://www.instagram.com/airi_hkt48/',
+    tiktok        : 'https://www.tiktok.com/@airi__2001',
+    twitter       : 'https://twitter.com/airi_213_hkt48',
+  },
   伊藤優絵瑠
   : {
     surname       : {
