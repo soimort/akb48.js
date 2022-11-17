@@ -4755,11 +4755,12 @@ var AKBG = {
     date_of_birth : '2000-12-11',
     blood_type    : 'AB',
     from          : '大阪府',
-    office        : 'AKS',
-    current_teams : [ 'TII' ],
+    office        : 'TRUSTAR',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/matsumoto_hinata/',
     nanagogo      : 'https://7gogo.jp/matsumoto-hinata',
+    tiktok        : 'https://www.tiktok.com/@hinata_1211',
     twitter       : 'https://twitter.com/hinata__1211',
   },
 
