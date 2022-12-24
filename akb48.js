@@ -3622,6 +3622,7 @@ var AKBG = {
     current_teams : [ '8' ],
 
     nanagogo      : 'https://7gogo.jp/remi-tokunaga',
+    tiktok        : 'https://www.tiktok.com/@remi_tokunaga1001',
     twitter       : 'http://twitter.com/48_RemiTokunaga',
   },
   富永夢有
