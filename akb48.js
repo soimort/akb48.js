@@ -5445,10 +5445,12 @@ var AKBG = {
     date_of_birth : '2001-09-20',
     blood_type    : 'O',
     from          : '東京都',
-    office        : 'AKS',
-    current_teams : [ '4' ],
+    office        : 'DH',
+    current_teams : [ 'K' ],
 
+    instagram     : 'https://www.instagram.com/zukky_48/',
     nanagogo      : 'https://7gogo.jp/yamauchi-mizuki',
+    tiktok        : 'https://www.tiktok.com/@zukky_48',
     twitter       : 'https://twitter.com/mizukiyamauchi',
   },
   山内祐奈
