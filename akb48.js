@@ -5358,12 +5358,13 @@ var AKBG = {
     date_of_birth : '2001-06-18',
     blood_type    : '不明',
     from          : '東京都',
-    office        : 'Vernalossom',
+    office        : '',
     current_teams : [ 'H' ],
 
     gplus         : 'https://plus.google.com/103577079977140124149',
     instagram     : 'https://www.instagram.com/75_yabuki/',
     nanagogo      : 'https://7gogo.jp/yabuki-nako',
+    tiktok        : 'https://www.tiktok.com/@nako_75_',
     twitter       : 'https://twitter.com/nako_yabuki_75',
   },
   薮下柊
