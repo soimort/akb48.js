@@ -5115,6 +5115,7 @@ var AKBG = {
     office        : 'Mercury',
     current_teams : [ '研究生（HKT48）' ],
 
+    instagram     : 'https://www.instagram.com/7chan_128/',
     twitter       : 'https://twitter.com/7chan_128',
   },
   茂木忍
