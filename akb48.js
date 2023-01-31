@@ -3527,12 +3527,14 @@ var AKBG = {
     },
     nickname      : 'えりい',
     date_of_birth : '2003-10-27',
-    blood_type    : '不明',
+    blood_type    : 'B',
     from          : '神奈川県',
-    office        : 'AKS',
-    current_teams : [ '4' ],
+    office        : '充s',
+    current_teams : [ 'A' ],
 
+    instagram     : 'https://www.instagram.com/eriierii_1027/',
     nanagogo      : 'https://7gogo.jp/chiba-erii',
+    tiktok        : 'https://www.tiktok.com/@eriierii1027a',
     twitter       : 'https://twitter.com/erii_20031027',
   },
   長久玲奈
