@@ -4971,9 +4971,10 @@ var AKBG = {
     blood_type    : 'B',
     from          : '東京都',
     office        : '生島企画室',
-    current_teams : [ 'K' ],
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/100987694249056428673',
+    instagram     : 'https://www.instagram.com/tommuto_official/',
     nanagogo      : 'https://7gogo.jp/mutou-tomu',
     twitter       : 'https://twitter.com/tommuto1125',
   },
