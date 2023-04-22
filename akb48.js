@@ -2985,6 +2985,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/F452ex8A8o3U',
     twitter       : 'https://twitter.com/sugiyama_aika',
   },
+  鈴木くるみ
+  : {
+    surname       : {
+      kanji       : '鈴木',
+      hiragana    : 'すずき'
+    },
+    given_name    : {
+      hiragana    : 'くるみ'
+    },
+    nickname      : 'くるるん',
+    date_of_birth : '2004-09-02',
+    blood_type    : 'A',
+    from          : '東京都',
+    office        : 'DH',
+    current_teams : [ 'B' ],
+
+    instagram     : 'https://www.instagram.com/kurumi_akb48/',
+    nanagogo      : 'https://7gogo.jp/suzuki-kurumi',
+    tiktok        : 'https://www.tiktok.com/@akb48kururun',
+    twitter       : 'https://twitter.com/akb48kururun',
+  },
   鈴木優香
   : {
     surname       : {
