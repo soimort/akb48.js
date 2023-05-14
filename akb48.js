@@ -5520,6 +5520,26 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/nohohon_mahohon/',
     twitter       : 'https://twitter.com/maho_yamaguchi',
   },
+  山﨑空
+  : {
+    surname       : {
+      kanji       : '山﨑',
+      hiragana    : 'やまざき'
+    },
+    given_name    : {
+      kanji       : '空',
+      hiragana    : 'そら'
+    },
+    nickname      : 'そらら',
+    date_of_birth : '2004-05-13',
+    blood_type    : 'B',
+    from          : '東京都',
+    office        : 'DH',
+    current_teams : [ '研究生（AKB48）' ],
+
+    instagram     : 'https://www.instagram.com/sora_yamazaki17/',
+    twitter       : 'https://twitter.com/sorara_akb48',
+  },
   山崎美里衣
   : {
     surname       : {
