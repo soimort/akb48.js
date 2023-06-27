@@ -2025,6 +2025,26 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/krn_hkt48/',
     twitter       : 'http://twitter.com/krn__HKT48',
   },
+  黒田楓和
+  : {
+    surname       : {
+      kanji       : '黒田',
+      hiragana    : 'くろだ'
+    },
+    given_name    : {
+      kanji       : '楓和',
+      hiragana    : 'ふうわ'
+    },
+    nickname      : 'ふわりん',
+    date_of_birth : '2004-09-19',
+    blood_type    : '不明',
+    from          : '鳥取県',
+    office        : 'Showtitle',
+    current_teams : [ 'N' ],
+
+    instagram     : 'https://www.instagram.com/fuchan___nmb/',
+    twitter       : 'http://twitter.com/fuchan_nmb',
+  },
 
   /* こ */
   神志那結衣
