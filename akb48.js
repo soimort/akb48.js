@@ -20,6 +20,7 @@ var AKBG = {
     current_teams : [],
 
     instagram     : 'https://www.instagram.com/aigasa_moe/',
+    tiktok        : 'https://www.tiktok.com/@aigasa_moe',
     twitter       : 'https://twitter.com/moeaigasa0406',
   },
   穴井千尋
@@ -41,6 +42,7 @@ var AKBG = {
 
     instagram     : 'https://www.instagram.com/chihiro_anai_official/',
     gplus         : 'https://plus.google.com/106102390858541443310',
+    tiktok        : 'https://www.tiktok.com/@chihiroanai',
     twitter       : 'https://twitter.com/chi_tava0127',
   },
   青海ひな乃
@@ -60,6 +62,7 @@ var AKBG = {
     office        : 'ゼスト',
     current_teams : [ 'S' ],
 
+    instagram     : 'https://www.instagram.com/aoumi_00/',
     twitter       : 'https://twitter.com/a_hinano_48',
   },
   阿部マリア
@@ -101,6 +104,7 @@ var AKBG = {
     current_teams : [ 'M' ],
 
     instagram     : 'https://www.instagram.com/_wakapon_/',
+    tiktok        : 'https://www.tiktok.com/@_wakapon_',
     twitter       : 'https://twitter.com/_wakapon_',
   },
   荒野姫楓
@@ -137,12 +141,13 @@ var AKBG = {
     date_of_birth : '2001-01-28',
     blood_type    : '不明',
     from          : '福岡県',
-    office        : 'AKS',
-    current_teams : [ 'TII' ],
+    office        : 'Mercury',
+    current_teams : [ 'H' ],
 
     instagram     : 'https://www.instagram.com/mirun.jellyfish.0128/',
     gplus         : 'https://plus.google.com/110200146300913549655',
     nanagogo      : 'https://7gogo.jp/aramaki-misaki',
+    tiktok        : 'https://www.tiktok.com/@jellyfish0128',
     twitter       : 'https://twitter.com/mirunrun_0128',
   },
 
