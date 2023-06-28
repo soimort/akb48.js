@@ -3327,6 +3327,25 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/tashima-meru',
     twitter       : 'https://twitter.com/meru_chan_07',
   },
+  龍本弥生
+  : {
+    surname       : {
+      kanji       : '龍本',
+      hiragana    : 'たつもと'
+    },
+    given_name    : {
+      kanji       : '弥生',
+      hiragana    : 'やよい'
+    },
+    nickname      : 'やよい',
+    date_of_birth : '2005-03-02',
+    blood_type    : 'O',
+    from          : '兵庫県',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    twitter       : 'http://twitter.com/yayoko_845_48',
+  },
   達家真姫宝
   : {
     surname       : {
