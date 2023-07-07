@@ -4157,6 +4157,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/hama-sayuna',
     twitter       : 'https://twitter.com/hamachan_0820',
   },
+  早川夢菜
+  : {
+    surname       : {
+      kanji       : '早川',
+      hiragana    : 'はやかわ'
+    },
+    given_name    : {
+      kanji       : '夢菜',
+      hiragana    : 'ゆな'
+    },
+    nickname      : 'ゆななん',
+    date_of_birth : '2002-09-19',
+    blood_type    : 'B',
+    from          : '大阪府',
+    office        : 'Showtitle',
+    current_teams : [ 'BII' ],
+
+    instagram     : 'https://www.instagram.com/yunanan919/',
+    tiktok        : 'https://www.tiktok.com/@tiktok_yunanan',
+    twitter       : 'https://twitter.com/yunanan0919',
+  },
   林美澪
   : {
     surname       : {
