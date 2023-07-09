@@ -174,6 +174,27 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/iino-miyabi',
     twitter       : 'https://twitter.com/miyabi_ichigo15',
   },
+  五十嵐早香
+  : {
+    surname       : {
+      kanji       : '五十嵐',
+      hiragana    : 'いがらし'
+    },
+    given_name    : {
+      kanji       : '早香',
+      hiragana    : 'はやか'
+    },
+    nickname      : 'はやか',
+    date_of_birth : '2001-09-19',
+    blood_type    : 'B',
+    from          : '埼玉県',
+    office        : 'ゼロイチファミリア',
+    current_teams : [],
+
+    instagram     : 'https://www.instagram.com/hayakaiga/',
+    tiktok        : 'https://www.tiktok.com/@hayaka09',
+    twitter       : 'https://twitter.com/hayakaiga',
+  },
   石川花音
   : {
     surname       : {
