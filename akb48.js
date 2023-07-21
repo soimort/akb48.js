@@ -2920,12 +2920,13 @@ var AKBG = {
     date_of_birth : '1997-10-14',
     blood_type    : 'B',
     from          : '大阪府',
-    office        : 'Showtitle',
-    current_teams : [ 'M' ],
+    office        : 'Fcontinue',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/103948509378248185139',
     instagram     : 'https://www.instagram.com/shiro36run/',
     nanagogo      : 'https://7gogo.jp/shiroma-miru',
+    tiktok        : 'https://www.tiktok.com/@shiro36run',
     twitter       : 'https://twitter.com/shiromiru36',
   },
   菖蒲まりん
