@@ -2578,6 +2578,28 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/sato-akari',
     twitter       : 'https://twitter.com/AKARI_SATO_1109',
   },
+  佐藤海里
+  : {
+    surname       : {
+      kanji       : '佐藤',
+      hiragana    : 'さとう'
+    },
+    given_name    : {
+      kanji       : '海里',
+      hiragana    : 'かいり'
+    },
+    nickname      : 'かいり',
+    date_of_birth : '2000-08-05',
+    blood_type    : 'A',
+    from          : '新潟県',
+    office        : 'Flora',
+    current_teams : [ 'NGT48' ],
+
+    instagram     : 'https://www.instagram.com/satokairi._.ngt48/',
+    nanagogo      : 'https://7gogo.jp/sato-kairi',
+    tiktok        : 'https://www.tiktok.com/@kairi_1285',
+    twitter       : 'https://twitter.com/_o_k_a_i_r_i_',
+  },
   佐藤佳穂
   : {
     surname       : {
