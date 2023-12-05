@@ -3403,8 +3403,8 @@ var AKBG = {
     date_of_birth : '2003-02-25',
     blood_type    : 'A',
     from          : '神奈川県',
-    office        : 'Mercury',
-    current_teams : [ 'TII' ],
+    office        : 'seju',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/moka0225_hkt/',
     nanagogo      : 'https://7gogo.jp/takeda-tomoka',
@@ -4699,8 +4699,8 @@ var AKBG = {
     date_of_birth : '2003-01-12',
     blood_type    : 'B',
     from          : '大阪府',
-    office        : 'Showtitle',
-    current_teams : [ 'BII' ],
+    office        : 'seju',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/h.yuzuha_0112/',
     twitter       : 'https://twitter.com/yuzuha_hongo',
@@ -5137,8 +5137,8 @@ var AKBG = {
     date_of_birth : '2000-10-30',
     blood_type    : 'A',
     from          : '佐賀県',
-    office        : 'Mercury',
-    current_teams : [ 'TII' ],
+    office        : 'seju',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/m_sono_1030/',
     nanagogo      : 'https://7gogo.jp/miyazaki-sono',
