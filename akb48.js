@@ -65,6 +65,27 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/aoumi_00/',
     twitter       : 'https://twitter.com/a_hinano_48',
   },
+  青木莉樺
+  : {
+    surname       : {
+      kanji       : '青木',
+      hiragana    : 'あおき'
+    },
+    given_name    : {
+      kanji       : '莉樺',
+      hiragana    : 'りか'
+    },
+    nickname      : 'あおき',
+    date_of_birth : '1999-09-02',
+    blood_type    : 'A',
+    from          : '大阪府',
+    office        : 'ゼスト',
+    current_teams : [ 'KII' ],
+
+    instagram     : 'https://www.instagram.com/rikaoki__92/',
+    tiktok        : 'https://www.tiktok.com/@blue_sky_k2',
+    twitter       : 'https://twitter.com/rikaoki__92',
+  },
   阿部マリア
   : {
     surname       : {
@@ -586,6 +607,46 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/maria-imamura',
     twitter       : 'http://twitter.com/maria_0914_',
   },
+  今村美月
+  : {
+    surname       : {
+      kanji       : '今村',
+      hiragana    : 'いまむら'
+    },
+    given_name    : {
+      kanji       : '美月',
+      hiragana    : 'みつき'
+    },
+    nickname      : 'みちゅ',
+    date_of_birth : '2000-02-19',
+    blood_type    : 'O',
+    from          : '広島県',
+    office        : 'STU',
+    current_teams : [ 'STU48' ],
+
+    instagram     : 'https://www.instagram.com/immr_mitsuki',
+    twitter       : 'https://twitter.com/michu219_stu48',
+  },
+  入内嶋涼
+  : {
+    surname       : {
+      kanji       : '入内嶋',
+      hiragana    : 'いりうちじま'
+    },
+    given_name    : {
+      kanji       : '涼',
+      hiragana    : 'さやか'
+    },
+    nickname      : 'さあや',
+    date_of_birth : '1999-05-13',
+    blood_type    : 'O',
+    from          : '神奈川県',
+    office        : 'ゼスト',
+    current_teams : [ 'KII' ],
+
+    instagram     : 'https://www.instagram.com/__38hpy',
+    twitter       : 'https://twitter.com/__38hpy',
+  },  
   入山杏奈
   : {
     surname       : {
@@ -838,10 +899,12 @@ var AKBG = {
     date_of_birth : '1998-08-09',
     blood_type    : 'B',
     from          : '北海道',
-    office        : 'AKS',
-    current_teams : [ 'KIV' ],
+    office        : '',
+    current_teams : [],
 
+    instagram     : 'https://www.instagram.com/nappi_0809/',
     nanagogo      : 'https://7gogo.jp/unjo-hirona',
+    tiktok        : 'https://www.tiktok.com/@nappi_hkt48',
     twitter       : 'https://twitter.com/nappi_0809',
   },
 
@@ -880,7 +943,7 @@ var AKBG = {
     blood_type    : 'O',
     from          : '愛知県',
     office        : 'ゼスト',
-    current_teams : [ 'KII' ],
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/107626904264065248069',
     instagram     : 'https://www.instagram.com/egochan_329/',
@@ -1027,11 +1090,12 @@ var AKBG = {
     date_of_birth : '1997-09-20',
     blood_type    : 'B',
     from          : '奈良県',
-    office        : 'AKS',
-    current_teams : [ '8', '4' ],
+    office        : 'アリゲーター',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/momo0920_official/',
     nanagogo      : 'https://7gogo.jp/oonishi-momoka',
+    tiktok        : 'https://www.tiktok.com/@092002220m',
     twitter       : 'https://twitter.com/momo_0x0_920',
   },
   大場美奈
@@ -1447,6 +1511,27 @@ var AKBG = {
   },
 
   /* か */
+  甲斐心愛
+  : {
+    surname       : {
+      kanji       : '甲斐',
+      hiragana    : 'かい'
+    },
+    given_name    : {
+      kanji       : '心愛',
+      hiragana    : 'ここあ'
+    },
+    nickname      : 'ここあ',
+    date_of_birth : '2003-11-28',
+    blood_type    : 'B',
+    from          : '広島県',
+    office        : 'Orb Promotion',
+    current_teams : [ 'STU48' ],
+
+    instagram     : 'https://www.instagram.com/k_cocoa1128/',
+    tiktok        : 'https://www.tiktok.com/@k_cocoa1128',
+    twitter       : 'https://twitter.com/k_cocoa1128',
+  },
   柏木由紀
   : {
     surname       : {
@@ -1919,6 +2004,26 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/rie_kitahara_3/',
     nanagogo      : 'https://7gogo.jp/kitahara-rie',
     twitter       : 'https://twitter.com/Rie_Kitahara3',
+  },
+  北村優羽
+  : {
+    surname       : {
+      kanji       : '北村',
+      hiragana    : 'きたむら'
+    },
+    given_name    : {
+      kanji       : '優羽',
+      hiragana    : 'ゆうは'
+    },
+    nickname      : 'ゆーは',
+    date_of_birth : '2004-09-22',
+    blood_type    : 'B',
+    from          : '新潟県',
+    office        : 'Flora',
+    current_teams : [ 'NGT48' ],
+
+    instagram     : 'https://www.instagram.com/yuha_kitamura',
+    twitter       : 'https://twitter.com/yuha_kitamura',
   },
   行天優莉奈
   : {
@@ -2507,8 +2612,8 @@ var AKBG = {
     date_of_birth : '1995-08-28',
     blood_type    : 'B',
     from          : '埼玉県',
-    office        : 'AKS',
-    current_teams : [ 'B' ],
+    office        : 'トキエンタテインメント',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/105835152133357364264',
     instagram     : 'https://www.instagram.com/yuka_mocha_roll/',
@@ -2777,7 +2882,7 @@ var AKBG = {
     date_of_birth : '2001-04-03',
     blood_type    : 'A',
     from          : '山口県',
-    office        : 'AKS',
+    office        : 'Superball',
     current_teams : [ '8', 'A' ],
 
     instagram     : 'https://www.instagram.com/miumiu1343/',
@@ -2798,8 +2903,8 @@ var AKBG = {
     date_of_birth : '1996-01-08',
     blood_type    : 'B',
     from          : '埼玉県',
-    office        : 'AKS',
-    current_teams : [ 'A' ],
+    office        : 'OMG合同会社',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/109604402297397821753',
     instagram     : 'https://www.instagram.com/ayana.s_official/',
@@ -3507,8 +3612,8 @@ var AKBG = {
     date_of_birth : '2001-09-12',
     blood_type    : 'B',
     from          : '熊本県',
-    office        : 'AKS',
-    current_teams : [ 'H' ],
+    office        : 'am合同会社',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/108158383330906277526',
     instagram     : 'https://www.instagram.com/mikumonmon_48/',
@@ -3900,7 +4005,7 @@ var AKBG = {
     blood_type    : 'A',
     from          : '富山県',
     office        : '太田プロダクション',
-    current_teams : [ 'NGT48' ],
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/rika___n24x/',
     twitter       : 'https://twitter.com/rika_nakai823',
@@ -3981,14 +4086,36 @@ var AKBG = {
     date_of_birth : '1995-05-12',
     blood_type    : 'O',
     from          : '福岡県',
-    office        : 'AKS',
-    current_teams : [ 'B' ],
+    office        : 'TRUSTAR',
+    current_teams : [],
 
     gplus         : 'https://plus.google.com/105015705151101532017',
     instagram     : 'https://www.instagram.com/sukiyaki_daisuki512/',
     nanagogo      : 'https://7gogo.jp/nakanishi-chiyori',
+    tiktok        : 'https://www.tiktok.com/@dyphltnfqocn',
     twitter       : 'https://twitter.com/chiyori_n512',
+    youtube       : 'https://www.youtube.com/@chiyocyannel',
   },
+  中野愛理
+  : {
+    surname       : {
+      kanji       : '中野',
+      hiragana    : 'なかの'
+    },
+    given_name    : {
+      kanji       : '愛理',
+      hiragana    : 'あいり'
+    },
+    nickname      : 'らぶりん',
+    date_of_birth : '2001-03-24',
+    blood_type    : 'A',
+    from          : '愛知県',
+    office        : 'ゼスト',
+    current_teams : [ 'KII' ],
+
+    instagram     : 'https://www.instagram.com/airi_nakano_/',
+    twitter       : 'https://twitter.com/airi_nakano_',
+  },  
   中野郁海
   : {
     surname       : {
@@ -4537,6 +4664,26 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/fujita-nana',
     twitter       : 'https://twitter.com/fujitanana_1228',
   },
+  藤本冬香
+  : {
+    surname       : {
+      kanji       : '藤本',
+      hiragana    : 'ふじもと'
+    },
+    given_name    : {
+      kanji       : '冬香',
+      hiragana    : 'ふゆか'
+    },
+    nickname      : 'ふゆっぴ',
+    date_of_birth : '1998-04-03',
+    blood_type    : 'A',
+    from          : '広島県',
+    office        : 'ゼスト',
+    current_teams : [ 'KII' ],
+
+    instagram     : 'https://www.instagram.com/fuyuka_43/',
+    twitter       : 'https://twitter.com/fuyuka0403',
+  },
   福岡聖菜
   : {
     surname       : {
@@ -4558,6 +4705,25 @@ var AKBG = {
     instagram     : 'https://www.instagram.com/seina___ff/',
     nanagogo      : 'https://7gogo.jp/fukuoka-seina',
     twitter       : 'https://twitter.com/seina_fuku48',
+  },
+  福井可憐
+  : {
+    surname       : {
+      kanji       : '福井',
+      hiragana    : 'ふくい'
+    },
+    given_name    : {
+      kanji       : '可憐',
+      hiragana    : 'かれん'
+    },
+    nickname      : 'かれんれん',
+    date_of_birth : '2006-12-04',
+    blood_type    : 'O',
+    from          : '長崎県',
+    office        : 'Mercury',
+    current_teams : [ 'KIV' ],
+
+    twitter       : 'https://twitter.com/karenren_291',
   },
   福留光帆
   : {
@@ -4719,8 +4885,8 @@ var AKBG = {
     date_of_birth : '2001-10-06',
     blood_type    : 'A',
     from          : '栃木県',
-    office        : 'Vernalossom',
-    current_teams : [ '8', 'B' ],
+    office        : 'Mama&Son',
+    current_teams : [],
 
     instagram     : 'https://www.instagram.com/10_hitomi_06/',
     nanagogo      : 'https://7gogo.jp/honda-hitomi',
@@ -5020,6 +5186,26 @@ var AKBG = {
   },
 
   /* み */
+  水島美結
+  : {
+    surname       : {
+      kanji       : '水島',
+      hiragana    : 'みずしま'
+    },
+    given_name    : {
+      kanji       : '美結',
+      hiragana    : 'みゆう'
+    },
+    nickname      : 'みずみん',
+    date_of_birth : '2003-11-12',
+    blood_type    : 'A',
+    from          : '北海道',
+    office        : 'DH',
+    current_teams : [ '研究生（AKB48）' ],
+
+    instagram     : 'https://www.instagram.com/17_miyuu_1112',
+    twitter       : 'https://twitter.com/miyuu_mizushima',
+  },
   水田詩織
   : {
     surname       : {
@@ -5387,9 +5573,10 @@ var AKBG = {
     date_of_birth : '1997-02-16',
     blood_type    : 'AB',
     from          : '千葉県',
-    office        : 'AKS',
-    current_teams : [ 'K' ],
+    office        : '充s',
+    current_teams : [],
 
+    instagram     : 'https://www.instagram.com/_mogi_shinobu_/',
     gplus         : 'https://plus.google.com/115608720286302539308',
     twitter       : 'https://twitter.com/mogi0_0216',
   },
@@ -5498,8 +5685,47 @@ var AKBG = {
     nanagogo      : 'https://7gogo.jp/moriyasu-madoka',
     twitter       : 'https://twitter.com/_madoka726_',
   },
+  諸葛望愛
+  : {
+    surname       : {
+      kanji       : '諸葛',
+      hiragana    : 'もろくず'
+    },
+    given_name    : {
+      kanji       : '望愛',
+      hiragana    : 'のあ'
+    },
+    nickname      : 'のあぴ',
+    date_of_birth : '2009-11-11',
+    blood_type    : '',
+    from          : '広島県',
+    office        : 'STU',
+    current_teams : [ '研究生（STU48）' ],
+
+    twitter       : 'https://twitter.com/stu48_noapipi',
+  },
 
   /* や */
+  八木愛月
+  : {
+    surname       : {
+      kanji       : '八木',
+      hiragana    : 'やぎ'
+    },
+    given_name    : {
+      kanji       : '愛月',
+      hiragana    : 'あづき'
+    },
+    nickname      : 'あづ',
+    date_of_birth : '2005-03-22',
+    blood_type    : '',
+    from          : '東京都',
+    office        : 'DH',
+    current_teams : [ '研究生（AKB48）' ],
+
+    instagram     : 'https://www.instagram.com/azuki_yagi0322/',
+    twitter       : 'https://twitter.com/azuki_yagi0322',
+  },
   矢倉楓子
   : {
     surname       : {
